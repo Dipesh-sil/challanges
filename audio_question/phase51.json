@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "여기서 공항까지 어떻게 가요?",
+    "options": [
+      "공항버스를 타면 돼요.",
+      "회사 일 때문에 출장 가요.",
+      "캄보디아에서 친구가 올 거예요.",
+      "세 시까지 공항에 도착해야 해요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "점심시간이 몇 시부터 몇 시까지 입니까?",
+    "options": [
+      "걸어서 10분쯤 걸립니다.",
+      "12시부터 1시까지입니다.",
+      "날마다 한 시간 운동합니다.",
+      "기숙사에서 점심을 먹습니다."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "'얀또' 씨가 일하는 공장은 어디에 있어요?",
+    "options": [
+      "서울에 있어요.",
+      "가방을 만들어요.",
+      "공장에서 일해요.",
+      "여기에서 살아요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "실례지만 김 과장님 계세요?",
+    "options": [
+      "부산에서 왔어요.",
+      "길 건너서 타세요.",
+      "지금 자리에 안 계신데요.",
+      "김 과장님을 만나러 왔어요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "어디에서 버스를 타요?",
+    "options": [
+      "사무실에 가요.",
+      "시장에서 사요.",
+      "버스가 빨라요.",
+      "시청 앞에서 타요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "안녕하세요? 지금 어디 가세요?",
+    "options": [
+      "그럼 안녕히 가세요.",
+      "지금은 오후 8시예요.",
+      "부모님은 네팔에 계세요.",
+      "친구를 만나러 시내에 가요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "제 안경 못 보셨어요?",
+    "options": [
+      "안경을 쓰면 돼요.",
+      "그 영화는 못 봤어요.",
+      "저기 탁자 위에 있어요.",
+      "탁자를 여기에 놓으세요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "여기서 회사까지 얼마나 걸려요?",
+    "options": [
+      "한 30분쯤 걸려요.",
+      "여기서 기다릴게요.",
+      "모두 3,000원입니다.",
+      "회사까지 걸어서 가요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "하루에 몇 시간 공부해요?",
+    "options": [
+      "2시간 공부해요.",
+      "학교에서 공부해요.",
+      "일주일에 두 번 가요.",
+      "1시간 동안 기다렸어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "여기서 집이 가까워요?",
+    "options": [
+      "네, 가깝지 않아요.",
+      "네, 지금 집에 있어요.",
+      "네, 여기서 살 거예요.",
+      "네, 걸어서 5분 걸려요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  }
+]

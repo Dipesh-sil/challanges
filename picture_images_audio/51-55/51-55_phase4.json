@@ -1,0 +1,282 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q1.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "경고: 생물학적 위해",
+      "경고: 뜨거운 표면",
+      "등반 금지",
+      "달리기 금지"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 2,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q2.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "마스크를 착용하시오",
+      "보호 장갑을 착용하시오",
+      "안전모를 착용하시오",
+      "보안경을 착용하시오"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 3,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q3.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "마스크를 착용하시오",
+      "보안경을 착용하시오",
+      "귀마개를 착용하시오",
+      "장갑을 착용하시오"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 4,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q4.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "관리자에게 문의하십시오",
+      "비상벨을 누르십시오",
+      "안내판을 읽으십시오",
+      "책자를 참조하십시오"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 5,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q5.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "플러그 분리하시오",
+      "플러그 꽂으시오",
+      "전원을 끄시오",
+      "스위치를 내리시오"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 6,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q6.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "차량 통행 금지",
+      "토트랙을 벗어나지 마시오",
+      "로프에 매듭을 짓지 마시오",
+      "중독된 사람 금지"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 7,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q7.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "어린이 금지",
+      "노약자 금지",
+      "중독된 사람 금지",
+      "임산부 금지"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 8,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q8.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "뛰지 마시오",
+      "기대지 마시오",
+      "앉지 마시오",
+      "의자를 흔들지 마시오"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 9,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q9.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "달리기 금지",
+      "수영금지",
+      "자전거 타기 금지",
+      "사진 촬영 금지"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 10,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q10.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "서지 마시오",
+      "앉지 마시오",
+      "기대지 마시오",
+      "뛰지 마시오"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 11,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q11.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "등반 금지",
+      "운동화 금지",
+      "야외용 신발 금지",
+      "애견 금지"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 12,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q12.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "올라가지 마시오",
+      "밀지 마시오",
+      "물건을 넣지 마시오",
+      "손을 넣지 마시오"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 13,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q13.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "산업용 차량 접근 금지",
+      "자전거 출입 금지",
+      "오토바이 통행 금지",
+      "식음료 금지"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 14,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q14.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "출입 금지",
+      "통행 금지",
+      "진입 금지",
+      "접근 금지"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 15,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q15.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "낚시 금지",
+      "수영금지",
+      "입수 금지",
+      "야외용 신발 금지"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 16,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q16.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "당기지 마시오",
+      "밀지 마시오",
+      "잡지 마시오",
+      "기대지 마시오"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 17,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q17.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "잡지 마시오",
+      "앉지 마시오",
+      "올라가지 마시오",
+      "기대지 마시오"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 18,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q18.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "작업 금지",
+      "전기 사용 금지",
+      "휴대용 그라인더에 사용하 금지",
+      "혼자 작업 금지"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 19,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q19.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "라이터를 사용하지 마세요",
+      "담배를 피우지 마세요",
+      "화기를 사용하지 마세요",
+      "촛불을 켜지 마세요"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 20,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q20.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "불을 끄지 마세요",
+      "성냥을 사용하지 마세요",
+      "불을 붙이지 마세요",
+      "난로를 사용하지 마세요"
+    ],
+    "correct_answer": 2
+  }
+]

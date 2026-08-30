@@ -1,0 +1,282 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q1.jpg",
+    "audio_script": "어디에 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "건물 밖에 있습니다",
+      "건물 옆에 있습니다",
+      "건물 앞에 있습니다",
+      "건물 안에 있습니다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 2,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q2.jpg",
+    "audio_script": "어디에 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "건물 안에 있습니다",
+      "건물 밖에 있습니다",
+      "건물 위에 있습니다",
+      "건물 아래에 있습니다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 3,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q3.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "찬송가를 부르고 있어요",
+      "노래를 부르고 있어요",
+      "성가를 부르고 있어요",
+      "춤을 추고 있어요"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 4,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q4.jpg",
+    "audio_script": "어디에 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "병원 왼쪽에 있습니다",
+      "병원 아래에 있습니다",
+      "병원 오른쪽에 있습니다",
+      "병원 앞에 있습니다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 5,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q5.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "축구를 하고 있어요",
+      "농구를 하고 있어요",
+      "배드민턴을 치고 있어요",
+      "야구를 하고 있어요"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 6,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q6.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "왼쪽으로 가세요",
+      "오른쪽으로 가세요",
+      "앞으로 가세요",
+      "뒤로 가세요"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 7,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q7.jpg",
+    "audio_script": "이 사람의 기분은 어떻습니까?",
+    "option_type": "audio",
+    "options": [
+      "기쁘다",
+      "슬프다",
+      "화나다",
+      "지루하다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 8,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q8.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "피곤합니다",
+      "행복합니다",
+      "건강합니다",
+      "즐겁습니다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 9,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q9.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "약속이 없다",
+      "시간이 없다",
+      "약속이 있다",
+      "시간이 있다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 10,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q10.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "바쁩니다",
+      "한가합니다",
+      "피곤합니다",
+      "힘이 없습니다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 11,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q11.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "점심 시간",
+      "출근 시간",
+      "퇴근 시간",
+      "쉬는 시간"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 12,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q12.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "약속이 있다",
+      "약속이 없다",
+      "할 일이 많다",
+      "할 일이 없다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 13,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q13.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "출근 시간",
+      "퇴근 시간",
+      "점심 시간",
+      "휴가 기간"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 14,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q14.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "타고 가다",
+      "타고 오다",
+      "뛰어오다",
+      "운전하다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 15,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q15.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "배로 제주도에 가요",
+      "기차로 제주도에 가요",
+      "비행기로 제주도에 가요",
+      "버스로 제주도에 가요"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 16,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q16.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "전자레인지",
+      "냄비",
+      "밥솥",
+      "프라이팬"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 17,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q17.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "일반쓰레기를 버리다",
+      "헌 옷을 수거함에 버리다",
+      "재활용품을 버리다",
+      "음식물 쓰레기를 버리다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 18,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q18.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "일반쓰레기",
+      "음식물 쓰레기",
+      "재활용품",
+      "폐기물"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 19,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q19.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "일반쓰레기",
+      "음식물 쓰레기",
+      "재활용품",
+      "폐기물"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 20,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q20.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "일반 쓰레기통에 버리다",
+      "음식물 쓰레기통에 버리다",
+      "재활용품 수거함에 버리다",
+      "헌 옷 수거함에 버리다"
+    ],
+    "correct_answer": 1
+  }
+]

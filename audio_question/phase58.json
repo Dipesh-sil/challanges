@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "날마다 한국어 학원에 가요?",
+    "options": [
+      "아니요, 다음 달에 한국에 가요.",
+      "아니요, 날마다 한국말을 공부해요.",
+      "아니요, 오후 2시부터 4시까지예요.",
+      "아니요, 토요일에만 수업이 있어요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "지수 씨는 회사에서 어떤 일을 하세요?",
+    "options": [
+      "일이 많아서 늦게 끝나요.",
+      "아침 9시까지 출근해야 해요.",
+      "아침에는 빵을 먹고 출근해요.",
+      "인터넷으로 물건 파는 일을 해요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 기계를 써 본 적이 있어요?",
+    "options": [
+      "아니요, 매운 음식을 못 먹어요.",
+      "아니요, 한국말을 쓸 수 없어요.",
+      "아니요, 외국 여행을 간 적이 없어요.",
+      "아니요, 그 기계는 써 본 적이 없어요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 회사에 오기 전에 어디에서 일했어요?",
+    "options": [
+      "아침 7시에 일어나요.",
+      "자동차 공장에서 일했어요.",
+      "서울에서 살았으면 좋겠어요.",
+      "회사에 오기 전에 아침을 먹었어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "한국에 가면 어떤 일을 하고 싶어요?",
+    "options": [
+      "내년에 한국에 갈 거예요.",
+      "비행기를 타고 갈 거예요.",
+      "바다에서 수영을 하고 싶어요.",
+      "자동차 회사에서 일하고 싶어요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 컴퓨터를 고칠 수 있어요?",
+    "options": [
+      "아니요, 고칠 수 없어요.",
+      "아니요, 컴퓨터가 없어요.",
+      "아니요, 책상 위에 있어요.",
+      "아니요, 제 컴퓨터가 아니에요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "한국말을 잘해요?",
+    "options": [
+      "아니요, 잘 못해요.",
+      "아니요, 잘 알아요.",
+      "아니요, 갈 수 없어요.",
+      "아니요, 자주 안 가요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "일이 끝났는데, 불을 꺼도 돼요?",
+    "options": [
+      "네, 불을 끄면 안 돼요.",
+      "네, 일이 아주 어려워요.",
+      "네, 일이 끝났으면 끄세요.",
+      "네, 불이 나면 전화하세요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "지게차를 운전할 줄 아세요?",
+    "options": [
+      "네, 길이 복잡해요.",
+      "네, 운전할 수 없어요.",
+      "네, 운전할 줄 알아요.",
+      "네, 버스 번호를 알아요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 물을 마셔도 돼요?",
+    "options": [
+      "네, 마셔도 돼요.",
+      "네, 마시지 마세요.",
+      "네, 마시면 안 돼요.",
+      "네, 마실 줄 알아요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  }
+]

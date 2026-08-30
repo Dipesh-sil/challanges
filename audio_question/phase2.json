@@ -1,0 +1,132 @@
+[
+    {
+        "q_id": 1,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "어제 새로 산 작업복이 어때요?",
+        "options": [
+            "옷이 아주 예쁘네요.",
+            "조금 작아서 불편해요.",
+            "작업복을 사러 가요.",
+            "어제 시장에서 샀어요."
+        ],
+        "correct_answer": 1,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 2,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "한국에 오기 전에 어디에서 일했어요?",
+        "options": [
+            "고향에서 농사를 지었어요.",
+            "내일 공장에서 일할 거예요.",
+            "한국에서 일하고 싶어요.",
+            "친구하고 같이 일했어요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 3,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "반장님, 기계를 좀 점검해 주시겠어요?",
+        "options": [
+            "지금은 바쁘니까 이따가 와요.",
+            "기계가 너무 무겁습니다.",
+            "어제 기계를 고쳤습니다.",
+            "기계 사용법을 잘 알아요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 4,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "리한 씨는 김치찌개를 먹을 수 있어요?",
+        "options": [
+            "김치찌개가 아주 맛있어요.",
+            "네, 매운 음식을 잘 먹어요.",
+            "아니요, 지금은 배가 안 고파요.",
+            "어제 김치찌개를 먹었습니다."
+        ],
+        "correct_answer": 1,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 5,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "휴게실에 에어컨이 왜 안 나와요?",
+        "options": [
+            "휴게실은 2층에 있어요.",
+            "어제 에어컨을 샀어요.",
+            "기사님을 빨리 부르세요.",
+            "갑자기 고장이 난 것 같아요."
+        ],
+        "correct_answer": 3,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 4,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "이번 주말에 친구하고 여행을 가기로 했어요.",
+        "options": [
+            "여행지는 아직 안 정했어요.",
+            "여행이 정말 재미있겠네요.",
+            "지난주에 여행을 다녀왔어요.",
+            "친구는 지금 고향에 있어요."
+        ],
+        "correct_answer": 1,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 7,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "저기요, 실례지만 나이가 어떻게 되세요?",
+        "options": [
+            "저는 베트남 사람입니다.",
+            "서른 살입니다.",
+            "제 이름은 투안입니다.",
+            "회사에 다니고 있습니다."
+        ],
+        "correct_answer": 1,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 8,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "작업이 다 끝났는데 공구를 정리할까요?",
+        "options": [
+            "네, 창고에 갖다 놓으세요.",
+            "아니요, 공구가 아주 날카로워요.",
+            "공구를 사용한 적이 없습니다.",
+            "공구함이 저기에 있습니다."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 9,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "이 주방 세제는 어떻게 사용해요?",
+        "options": [
+            "세제가 다 떨어졌습니다.",
+            "여기에 수건을 적시세요.",
+            "스펀지에 묻혀서 닦으세요.",
+            "마트에서 세제를 샀습니다."
+        ],
+        "correct_answer": 2,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 10,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "투안 씨, 얼굴이 안 좋아 보여요. 어디 아파요?",
+        "options": [
+            "어제 약국에 갈 거예요.",
+            "네, 배가 아파서 죽겠어요.",
+            "아니요, 병원이 아주 가깝습니다.",
+            "투안 씨는 건강한 사람입니다."
+        ],
+        "correct_answer": 1,
+        "is_audio_question": true
+    }
+]

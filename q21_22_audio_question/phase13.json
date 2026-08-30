@@ -1,0 +1,158 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "사다리",
+    "option_type": "text",
+    "options": [
+      "사다리",
+      "미나리",
+      "마사지",
+      "소나기"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 2,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "못을 박아요.",
+    "option_type": "text",
+    "options": [
+      "옷을 벗어요.",
+      "못을 받아요.",
+      "옷을 받아요.",
+      "못을 박아요."
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 3,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "안전화",
+    "option_type": "text",
+    "options": [
+      "안전모",
+      "안전화",
+      "안전대",
+      "안전벨트"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 4,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "책상 밑에 두었어요.",
+    "option_type": "text",
+    "options": [
+      "책상 위에 두었어요.",
+      "책상 밑에 두었어요.",
+      "식탁 밑에 두었어요.",
+      "식탁 위에 두었어요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 5,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "불판",
+    "option_type": "text",
+    "options": [
+      "골판",
+      "불판",
+      "물판",
+      "발판"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 6,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "스위치를 켜세요.",
+    "option_type": "text",
+    "options": [
+      "스위치를 끄세요.",
+      "스위치를 켜세요.",
+      "페이지를 펴세요.",
+      "페이지를 끄세요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 7,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "거름",
+    "option_type": "text",
+    "options": [
+      "그릇",
+      "구름",
+      "거름",
+      "기름"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 8,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "상자를 묶으세요.",
+    "option_type": "text",
+    "options": [
+      "상자를 닦으세요.",
+      "상자를 막으세요.",
+      "상자를 묶으세요.",
+      "상자를 뜯으세요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 9,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "풀",
+    "option_type": "text",
+    "options": [
+      "불",
+      "물",
+      "뿔",
+      "풀"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 10,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "계단으로 올라가세요.",
+    "option_type": "text",
+    "options": [
+      "계단으로 내려가세요.",
+      "식당으로 올라가세요.",
+      "계단으로 올라가세요.",
+      "식당으로 내려가세요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 11,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "분무기",
+    "option_type": "text",
+    "options": [
+      "소화기",
+      "분무기",
+      "계측기",
+      "절단기"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 12,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "페인트를 칠해요.",
+    "option_type": "text",
+    "options": [
+      "테이프를 칠해요.",
+      "페인트를 칠해요.",
+      "테이프를 붙여요.",
+      "페인트를 버려요."
+    ],
+    "correct_answer": 1
+  }
+]

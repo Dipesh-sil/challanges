@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "왜 형광 조끼를 입어야 해요?",
+    "options": [
+      "조끼가 너무 작아요.",
+      "어제 조끼를 샀어요.",
+      "색깔이 아주 예뻐요.",
+      "어두운 곳에서도 잘 보이기 위해서예요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "리한 씨, 우리 오늘 몇 시에 퇴근해요?",
+    "options": [
+      "보통 여섯 시에 퇴근해요.",
+      "일이 아주 재미있어요.",
+      "어제 일찍 퇴근했어요.",
+      "회사가 여기서 멉니다."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "실례지만, 근처에 편의점이 어디에 있습니까?",
+    "options": [
+      "편의점은 물건이 비싸요.",
+      "저기 큰 건물 뒤에 있어요.",
+      "어제 편의점에 갔어요.",
+      "편의점이 아주 깨끗해요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 용접기 지금 사용해도 괜찮을까요?",
+    "options": [
+      "아니요, 용접기가 무거워요.",
+      "네, 어제 사용했습니다.",
+      "네, 방금 수리를 끝냈어요.",
+      "아니요, 용접을 잘 못해요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "한국 음식이 입에 잘 맞아요?",
+    "options": [
+      "아니요, 음식을 만들었어요.",
+      "네, 조금 맵지만 맛있어요.",
+      "네, 어제 식당에 갔어요.",
+      "아니요, 한국말이 어려워요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "내일 오후에 비가 온다는데 우산이 있어요?",
+    "options": [
+      "네, 비가 와서 시원해요.",
+      "아니요, 빌려줄 수 없어요.",
+      "아니요, 어제 비가 왔어요.",
+      "네, 제 가방 안에 들어 있어요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "베트남으로 돈을 좀 보내고 싶은데요.",
+    "options": [
+      "고향이 아주 아름다운 곳이에요.",
+      "어제 돈을 찾았습니다.",
+      "여기에 송금 신청서를 쓰세요.",
+      "베트남 음식을 좋아해요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "배가 계속 아픈데 약 좀 살 수 있을까요?",
+    "options": [
+      "약이 아주 씁니다.",
+      "네, 저기 약국에 가 보세요.",
+      "어제 약을 먹었어요.",
+      "아니요, 배가 고파요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "오늘 오후에는 어떤 작업을 할 예정입니까?",
+    "options": [
+      "작업장이 아주 넓어요.",
+      "어제 작업을 다 끝냈어요.",
+      "작업복으로 갈아입으세요.",
+      "기계 부품을 조립할 거예요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "주말에 보통 친구들하고 무엇을 합니까?",
+    "options": [
+      "친구가 아주 많아요.",
+      "주말에는 쉬고 싶어요.",
+      "공원에서 같이 축구를 해요.",
+      "어제 친구를 만났어요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  }
+]

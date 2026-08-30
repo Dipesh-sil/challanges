@@ -1,0 +1,158 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "방독면",
+    "option_type": "text",
+    "options": [
+      "방진마스크",
+      "방독면",
+      "보안면",
+      "용접면"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 2,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "전선을 자르세요.",
+    "option_type": "text",
+    "options": [
+      "철사를 자르세요.",
+      "전선을 자르세요.",
+      "전선을 이으세요.",
+      "철사를 이으세요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 3,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "쇠스랑",
+    "option_type": "text",
+    "options": [
+      "쇠스랑",
+      "모종삽",
+      "곡괭이",
+      "호미"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 4,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "창고 안으로 옮기세요.",
+    "option_type": "text",
+    "options": [
+      "창고 밖으로 옮기세요.",
+      "공장 안으로 옮기세요.",
+      "창고 안으로 옮기세요.",
+      "공장 밖으로 옮기세요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 5,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "닻",
+    "option_type": "text",
+    "options": [
+      "닻",
+      "낮",
+      "낯",
+      "밤"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 6,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "작업복을 입으세요.",
+    "option_type": "text",
+    "options": [
+      "작업모를 쓰세요.",
+      "작업복을 입으세요.",
+      "작업화를 신으세요.",
+      "작업복을 벗으세요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 7,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "합판",
+    "option_type": "text",
+    "options": [
+      "철판",
+      "불판",
+      "합판",
+      "골판지"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 8,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "철판에 구멍을 뚫었어요.",
+    "option_type": "text",
+    "options": [
+      "철판에 구멍을 뚫었어요.",
+      "철판에 나사를 박았어요.",
+      "목재에 구멍을 뚫었어요.",
+      "철판을 반으로 잘랐어요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 9,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "버니어캘리퍼스",
+    "option_type": "text",
+    "options": [
+      "줄자",
+      "버니어캘리퍼스",
+      "수평대",
+      "각도기"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 10,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "비상 버튼을 누르세요.",
+    "option_type": "text",
+    "options": [
+      "시동 버튼을 누르세요.",
+      "비상 벨을 누르세요.",
+      "비상 버튼을 누르세요.",
+      "비상 버튼을 누르지 마세요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 11,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "호미",
+    "option_type": "text",
+    "options": [
+      "개미",
+      "호미",
+      "거미",
+      "의미"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 12,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "환기를 시켜야 해요.",
+    "option_type": "text",
+    "options": [
+      "난방을 켜야 해요.",
+      "청소를 해야 해요.",
+      "환기를 시켜야 해요.",
+      "온도를 올려야 해요."
+    ],
+    "correct_answer": 2
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q1.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "한국어를 배우고 있습니다",
+      "네팔어를 배우고 있습니다",
+      "운동하고 있습니다",
+      "외국어를 배우고 있습니다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 2,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q2.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "쉬다",
+      "구경하다",
+      "일하다",
+      "공부하다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 3,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q3.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "깨끗하다",
+      "조용하다",
+      "유명하다",
+      "아름답다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 4,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q4.jpg",
+    "audio_script": "이곳은 어디입니까?",
+    "option_type": "audio",
+    "options": [
+      "해수욕장",
+      "수영장",
+      "놀이공원",
+      "공원"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 5,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q5.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "쇼핑을 하고 있습니다",
+      "여행을 하고 있습니다",
+      "게임을 하고 있습니다",
+      "산책을 하고 있습니다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 6,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q6.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "낚시를 하고 있습니다",
+      "캠핑을 하고 있습니다",
+      "스키를 타고 있습니다",
+      "등산늘 하고 있습니다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 7,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q7.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "사진을 찍고 있습니다",
+      "동영상을 보고 있습니다",
+      "그림을 그리고 있습니다",
+      "편지를 쓰고 있습니다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 8,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q8.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "드라마를 보고 있습니다",
+      "뉴스를 보고 있습니다",
+      "책을 읽고 있습니다",
+      "영화를 보고 있습니다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 9,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q9.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "춤을 추고 있습니다",
+      "연주를 하고 있습니다",
+      "노래를 하고 있습니다",
+      "운동을 하고 있습니다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 10,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q10.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "피아노를 치고 있습니다",
+      "기타를 치고 있습니다",
+      "드럼을 치고 있습니다",
+      "바이올린을 켜고 있습니다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 11,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q11.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "피아노를 치고 있습니다",
+      "기타를 치고 있습니다",
+      "드럼을 치고 있습니다",
+      "바이올린을 켜고 있습니다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 12,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q12.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "노래를 하고 있습니다",
+      "운동을 하고 있습니다",
+      "잠을 자고 있습니다",
+      "춤을 추고 있습니다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 13,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q13.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "글씨를 쓰고 있습니다",
+      "사진을 찍고 있습니다",
+      "그림을 그리고 있습니다",
+      "책을 읽고 있습니다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 14,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q14.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "영화를 보다",
+      "운동 경기를 보다",
+      "드라마를 보다",
+      "뉴스를 보다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 15,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q15.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "콘서트를 보다",
+      "뮤지컬을 보다",
+      "전시회를 보다",
+      "연극을 보다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 16,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q16.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "농구를 하고 있습니다",
+      "야구를 하고 있습니다",
+      "배구를 하고 있습니다",
+      "축구를 하고 있습니다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 17,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q17.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "축구를 하고 있습니다",
+      "야구를 하고 있습니다",
+      "농구를 하고 있습니다",
+      "배구를 하고 있습니다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 18,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q18.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "라디오를 듣고 있습니다",
+      "강의를 듣고 있습니다",
+      "음악을 듣고 있습니다",
+      "이야기를 듣고 있습니다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 19,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q19.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "수영을 하고 있습니다",
+      "조깅을 하고 있습니다",
+      "헬스를 하고 있습니다",
+      "요가를 하고 있습니다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 20,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q20.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "날씨가 좋다",
+      "경치가 좋다",
+      "기분이 좋다",
+      "맛이 좋다"
+    ],
+    "correct_answer": 1
+  }
+]

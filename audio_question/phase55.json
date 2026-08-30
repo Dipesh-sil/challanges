@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 음식 이름이 뭐예요?",
+    "options": [
+      "불고기예요.",
+      "제가 이영수예요.",
+      "맵지 않은 음식이에요.",
+      "1인분에 10,000원이에요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "돼지고기로 만든 음식을 좋아하세요?",
+    "options": [
+      "아니요, 저는 외국에서 왔어요.",
+      "아니요, 저는 운동을 싫어해요.",
+      "아니요, 저는 음식을 만들지 않아요.",
+      "아니요, 저는 돼지고기를 먹지 않아요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "점심을 드셨어요?",
+    "options": [
+      "네, 드셨어요.",
+      "네, 먹었어요.",
+      "네, 들어 주세요.",
+      "네, 점심시간에 봐요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 주스 한 병에 얼마예요?",
+    "options": [
+      "사과 주스예요.",
+      "2,000원이에요.",
+      "한 병만 주세요.",
+      "주스로 하겠어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "아저씨, 이 옷 얼마예요?",
+    "options": [
+      "좀 깎아 주세요.",
+      "걸어서 30분 걸려요.",
+      "이 구두는 조금 작아요.",
+      "그 바지는 만 원이에요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "무슨 옷을 사려고 해요?",
+    "options": [
+      "이 셔츠가 제일 싸요.",
+      "꽃을 선물하려고 해요.",
+      "겨울 바지를 살 거예요.",
+      "빨간색 옷을 입을 거예요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "뭘 드시겠어요?",
+    "options": [
+      "물을 마셨어요.",
+      "제가 만들겠어요.",
+      "비빔밥으로 하겠어요.",
+      "한국 노래를 듣겠어요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 봉투가 좀 작은데, 더 큰 것은 없어요?",
+    "options": [
+      "네, 크기가 다 달라요.",
+      "네, 그게 제일 큰 거예요.",
+      "네, 더 작은 것도 있어요.",
+      "네, 봉투 안에 안 들어가요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "주스를 드릴까요, 우유를 드릴까요?",
+    "options": [
+      "우유를 드세요.",
+      "주스를 주세요.",
+      "물을 마시세요.",
+      "커피도 드리세요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "왜 점심을 안 드세요?",
+    "options": [
+      "배가 너무 고팠거든요.",
+      "아침을 늦게 먹었거든요.",
+      "음식이 많이 남았거든요.",
+      "아직 점심을 못 먹었거든요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  }
+]

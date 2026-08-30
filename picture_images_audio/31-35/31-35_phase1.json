@@ -1,0 +1,282 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q1.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "평상복",
+      "운동복",
+      "작업복",
+      "정장"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 2,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q2.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "반말을 하다",
+      "욕설을 하다",
+      "거짓말을 하다",
+      "존댓말을 하다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 3,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q3.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "격려하다",
+      "칭찬하다",
+      "비난하다",
+      "오해하다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 4,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q4.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "출입문",
+      "창문",
+      "현관",
+      "벽"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 5,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q5.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "개인용 시설",
+      "샤워실",
+      "공용 시설",
+      "세탁실"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 6,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q6.jpg",
+    "audio_script": "이곳은 어디입니까?",
+    "option_type": "audio",
+    "options": [
+      "세탁실",
+      "샤워실",
+      "휴게실",
+      "조리실"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 7,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q7.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "긍정적이다",
+      "부정적이다",
+      "성실하다",
+      "무시하다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 8,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q8.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "계단",
+      "복도",
+      "엘리베이터",
+      "통로"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 9,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q9.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "무시하다",
+      "경시하다",
+      "비난하다",
+      "존중하다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 10,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q10.jpg",
+    "audio_script": "이곳은 어디입니까?",
+    "option_type": "audio",
+    "options": [
+      "조리실",
+      "샤워실",
+      "세탁실",
+      "휴게실"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 11,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q11.jpg",
+    "audio_script": "이 사람은 누구입니까?",
+    "option_type": "audio",
+    "options": [
+      "청소부",
+      "소방관",
+      "관리인",
+      "요리사"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 12,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q12.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "규칙을 지키다",
+      "약속을 어기다",
+      "약속을 지키다",
+      "규칙을 어기다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 13,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q13.jpg",
+    "audio_script": "이곳은 어디입니까?",
+    "option_type": "audio",
+    "options": [
+      "조리실",
+      "세탁실",
+      "샤워실",
+      "휴게실"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 14,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q14.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "약속을 어기다",
+      "약속을 지키다",
+      "규칙을 지키다",
+      "규칙을 어기다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 15,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q15.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "계산대",
+      "배식대",
+      "안내대",
+      "테이블"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 16,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q16.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "퇴식구",
+      "식수대",
+      "식판",
+      "매표소"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 17,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q17.jpg",
+    "audio_script": "이곳은 어디입니까?",
+    "option_type": "audio",
+    "options": [
+      "세탁실",
+      "조리실",
+      "구내식당",
+      "거실"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 18,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q18.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "먹다",
+      "마시다",
+      "버리다",
+      "담다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 19,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q19.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "배려하다",
+      "비워두다",
+      "무관심하다",
+      "칭찬하다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 20,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q20.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "게으르다",
+      "불성실하다",
+      "성실하다",
+      "함부로 하다"
+    ],
+    "correct_answer": 2
+  }
+]

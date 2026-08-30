@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "근로 계약이 곧 끝나는데 연장할 수 있을까요?",
+    "options": [
+      "계약서가 아주 두꺼워요.",
+      "어제 계약을 했습니다.",
+      "사장님께 한번 여쭤보세요.",
+      "아니요, 계약 기간이 남았어요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 기계는 어떻게 작동하는지 가르쳐 주세요.",
+    "options": [
+      "여기 스위치를 누르면 시작돼요.",
+      "기계가 아주 비쌉니다.",
+      "어제 기계를 고쳤어요.",
+      "기계를 옮기지 마세요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "작업할 때 보안경을 꼭 써야 해요?",
+    "options": [
+      "네, 불꽃이 튀니까 꼭 쓰세요.",
+      "아니요, 안경이 깨졌어요.",
+      "네, 어제 보안경을 샀어요.",
+      "아니요, 보안경이 무겁습니다."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "오늘 잔업이 있는데 같이 할 수 있어요?",
+    "options": [
+      "잔업 수당이 얼마예요?",
+      "네, 일이 많으니까 도와줄게요.",
+      "아니요, 어제 잔업을 했어요.",
+      "잔업은 보통 밤에 해요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "저기요, 지게차 면허를 따려면 어떻게 해야 돼요?",
+    "options": [
+      "지게차가 아주 큽니다.",
+      "교육 센터에 가서 신청하세요.",
+      "어제 지게차를 운전했어요.",
+      "아니요, 면허증이 없어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "날씨가 좋은데 주말에 같이 낚시하러 갈래요?",
+    "options": [
+      "낚싯대가 가방에 있어요.",
+      "어제 물고기를 많이 잡았어요.",
+      "좋아요. 토요일 아침에 만나요.",
+      "아니요, 낚시는 재미없어요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "왜 아직 출근을 안 했어요? 무슨 일 있어요?",
+    "options": [
+      "버스를 놓쳐서 조금 늦을 것 같아요.",
+      "회사에 일이 아주 많아요.",
+      "어제 일찍 출근했어요.",
+      "아니요, 지금은 퇴근 시간이에요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "소포를 부치고 싶은데 우체국이 몇 시에 문을 닫아요?",
+    "options": [
+      "우체국은 아주 멉니다.",
+      "저녁 6시까지 하니까 빨리 가세요.",
+      "어제 소포를 보냈어요.",
+      "아니요, 우체국에 안 갔어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "공구함에 망치가 없는데 어디 있는지 알아요?",
+    "options": [
+      "망치가 아주 무거워요.",
+      "어제 망치를 샀어요.",
+      "아까 반장님이 빌려 가셨어요.",
+      "아니요, 못을 박으세요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "한국에서 돈을 많이 벌면 무엇을 하고 싶어요?",
+    "options": [
+      "돈이 지갑에 있어요.",
+      "고향에 집을 사고 싶어요.",
+      "어제 돈을 많이 벌었어요.",
+      "아니요, 돈을 쓰지 마세요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  }
+]

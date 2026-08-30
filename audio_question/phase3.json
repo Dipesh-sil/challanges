@@ -1,0 +1,132 @@
+[
+    {
+        "q_id": 1,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "한국에 온 지 얼마나 됐어요?",
+        "options": [
+            "한국에 가고 싶어요.",
+            "일 년쯤 되었어요.",
+            "비행기로 왔어요.",
+            "한국 음식이 맛있어요."
+        ],
+        "correct_answer": 1,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 2,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "어제 퇴근하고 뭐 했어요?",
+        "options": [
+            "친구하고 영화를 봤어요.",
+            "여덟 시에 퇴근해요.",
+            "회사에서 일하고 있어요.",
+            "내일 친구를 만날 거예요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 3,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "생일이 언제예요?",
+        "options": [
+            "작년 생일이었어요.",
+            "생일 파티를 해요.",
+            "시월 십오일이에요.",
+            "친구에게 선물을 줬어요."
+        ],
+        "correct_answer": 2,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 4,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "반장님, 저기 있는 사다리 좀 빌려도 될까요?",
+        "options": [
+            "네, 사다리를 샀어요.",
+            "아니요, 사다리가 없어요.",
+            "네, 사용하고 제자리에 두세요.",
+            "아니요, 사다리가 높아요."
+        ],
+        "correct_answer": 2,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 5,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "주말에 같이 시내에 쇼핑하러 갈래요?",
+        "options": [
+            "네, 어제 쇼핑했어요.",
+            "아नि요, 쇼핑을 좋아해요.",
+            "좋아요. 점심 먹고 출발해요.",
+            "시내에 사람이 아주 많아요."
+        ],
+        "correct_answer": 2,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 6,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "이 약은 어떻게 먹어야 해요?",
+        "options": [
+            "약국에서 약을 샀어요.",
+            "식사 후에 한 알씩 드세요.",
+            "배가 아파서 병원에 가요.",
+            "어제부터 약을 먹었어요."
+        ],
+        "correct_answer": 1,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 7,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "모니카 씨, 고향은 겨울 날씨가 어때요?",
+        "options": [
+            "눈이 오고 아주 추워요.",
+            "우리 고향에 가고 싶어요.",
+            "비행기로 세 시간 걸려요.",
+            "고향 친구를 만나고 싶어요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 8,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "오늘 작업복을 새로 받았는데 어때요?",
+        "options": [
+            "옷이 아주 깨끗하네요.",
+            "네, 작업복을 입으세요.",
+            "아니요, 아직 안 받았어요.",
+            "작업장에서 옷을 갈아입어요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 9,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "집에서 회사까지 버스로 시간이 얼마나 걸려요?",
+        "options": [
+            "버스 정류장이 가까워요.",
+            "이십 분 정도 걸려요.",
+            "여덟 시까지 출근해요.",
+            "버스 번호를 잘 몰라요."
+        ],
+        "correct_answer": 1,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 10,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "죄송합니다. 업무 중에 실수를 좀 했습니다.",
+        "options": [
+            "수고하셨습니다.",
+            "괜찮습니다. 다음부터 주의하세요.",
+            "축하합니다. 정말 잘하셨어요.",
+            "반갑습니다. 처음 뵙겠습니다."
+        ],
+        "correct_answer": 1,
+        "is_audio_question": true
+    }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "오늘 작업량이 얼마나 됩니까?",
+    "options": ["작업이 위험합니다.", "평소보다 조금 많습니다.", "어제는 쉬었습니다.", "작업복을 입었습니다."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "지금 바로 출근할 수 있어요?",
+    "options": ["네, 곧 도착합니다.", "출근 시간이 깁니다.", "어제 출근했어요.", "출근복을 샀어요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "왜 이렇게 늦게 왔어요?",
+    "options": ["길이 막혀서 늦었습니다.", "지금 바로 갑니다.", "아침을 먹었어요.", "오늘은 일요일이에요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 부품은 언제 교체해야 합니까?",
+    "options": ["부품이 작아요.", "다음 주에 교체합니다.", "부품을 찾고 있어요.", "어제 교체했어요."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "작업 전에 안전 교육을 받았어요?",
+    "options": ["네, 이미 받았습니다.", "교육장이 큽니다.", "내일 작업합니다.", "교육비가 비싸요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 상자는 어디로 옮기면 됩니까?",
+    "options": ["상자가 무거워요.", "창고 안으로 옮기세요.", "어제 옮겼어요.", "상자를 샀어요."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "기계 소리가 이상하지 않아요?",
+    "options": ["네, 점검이 필요합니다.", "기계가 새것이에요.", "소리를 들었어요.", "어제 샀어요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "오늘은 잔업이 있습니까?",
+    "options": ["잔업이 힘들어요.", "아니요, 오늘은 없습니다.", "어제 잔업했어요.", "잔업비가 높아요."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "식당은 몇 층에 있나요?",
+    "options": ["식당이 넓어요.", "2층에 있습니다.", "어제 갔어요.", "점심을 먹어요."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "휴게 시간은 얼마나 됩니까?",
+    "options": ["휴게실이 있어요.", "30분입니다.", "어제 쉬었어요.", "휴게가 필요해요."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  }
+
+]

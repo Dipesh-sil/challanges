@@ -1,7 +1,7 @@
 [
   {
     "categoryId": "L_BLIND",
-    "title": "듣기 시험 (Listening Test)",
+    "title": "질문을 듣고 알맞은 대답을 고르십시오.",
     "subtitle": "Audio Questions with Blind Options",
     "content_folder": "audio_question",
     "audio_folder": "blind_audio",
@@ -12,7 +12,230 @@
       {
         "rangeId": "ALL",
         "title": "All Phases",
-        "phases": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+        "phases": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "categoryId": "L_Q21_22",
+    "title": "들은 것을 고르십시오.",
+    "subtitle": "Listen & Choose What You Heard (Q21-22)",
+    "content_folder": "q21_22_audio_question",
+    "audio_folder": "q21_22_audio",
+    "image_folder": "",
+    "quiz_file_type": "json",
+    "has_ranges": false,
+    "ranges": [
+      {
+        "rangeId": "ALL",
+        "title": "All Phases",
+        "phases": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "categoryId": "L_PICTURE",
+    "title": "그림을 보고 알맞은 것을 고르십시오",
+    "subtitle": "EPS TOPIK CHAPTER 1-60",
+    "content_folder": "picture_images_audio",
+    "audio_folder": "picture_images_audio",
+    "image_folder": "reading_assets/Picture_image",
+    "quiz_file_type": "json",
+    "has_ranges": true,
+    "ranges": [
+      {
+        "rangeId": "1-5",
+        "title": "Chapter 1 - 5",
+        "phases": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "rangeId": "6-10",
+        "title": "Chapter 6 - 10",
+        "phases": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "rangeId": "11-15",
+        "title": "Chapter 11 - 15",
+        "phases": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "rangeId": "16-20",
+        "title": "Chapter 16 - 20",
+        "phases": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "rangeId": "21-25",
+        "title": "Chapter 21 - 25",
+        "phases": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "rangeId": "26-30",
+        "title": "Chapter 26 - 30",
+        "phases": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "rangeId": "31-35",
+        "title": "Chapter 31 - 35",
+        "phases": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "rangeId": "36-40",
+        "title": "Chapter 36 - 40",
+        "phases": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "rangeId": "41-45",
+        "title": "Chapter 41 - 45",
+        "phases": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "rangeId": "46-50",
+        "title": "Chapter 46 - 50",
+        "phases": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "rangeId": "51-55",
+        "title": "Chapter 51 - 55",
+        "phases": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "rangeId": "55-60",
+        "title": "Chapter 56 - 60",
+        "phases": [
+          1,
+          2
+        ]
       }
     ]
   }

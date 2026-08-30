@@ -1,0 +1,282 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q1.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "칫솔",
+      "비누",
+      "치약",
+      "빗자루"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 2,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q2.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "칼",
+      "도마",
+      "냄비",
+      "접시"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 3,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q3.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "표면이 뜨거우니까 조심하세요.",
+      "바닥이 미끄러우니까 조심하세요.",
+      "위험한 곳이니까 조심하세요.",
+      "불이 붙을 수 있으니까 조심하세요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 4,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q4.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "떨어지면 다칠 수 있으니까 조심하세요",
+      "뜨거운 물에 조심하세요.",
+      "독성이 있는 물질이니까 조심하세요",
+      "바닥이 미끄러우니까 조심하세요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 5,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q5.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "경고: 지게차와 산업용 운반기계",
+      "지게차, 산업용 차량 접근 금지",
+      "경고: 생물학적 위해",
+      "통행 금지"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 6,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q6.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "흡연 금지",
+      "애견 금지",
+      "식음료 금지",
+      "휴대폰 사용 금지"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 7,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q7.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "안전모",
+      "작업복",
+      "안전화",
+      "마스크"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 8,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q8.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "기계를 멈추지 마시오.",
+      "스위치를 켜지 마시오.",
+      "손대지 마시오.",
+      "스위치의 상태를 바꾸지 마시오"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 9,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q9.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "기대지 마시오",
+      "뛰지 마세요.",
+      "취한 사람은 들어가지 마세요",
+      "만지지 마시오"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 10,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q10.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "보안경",
+      "귀마개",
+      "귀덮게",
+      "안전모"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 11,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q11.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "소화기",
+      "비상 망치",
+      "비상벨",
+      "구급 상자"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 12,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q12.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "오븐 장갑",
+      "안전모",
+      "구명조끼",
+      "무릎보호대"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 13,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q13.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "일반 장화",
+      "안전화",
+      "절연 장화",
+      "절연 장갑"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 14,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q14.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "시계 반대 방향으로 돌리면 열림",
+      "시계 방향으로 돌리면 열림",
+      "왼쪽을 밀면 열리는 문",
+      "오른쪽을 밀면 열리는 문"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 15,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q15.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "돌리면 열림",
+      "누르면 열림",
+      "미닫이면 열림",
+      "밀면 열림"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 16,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q16.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "비상구",
+      "출입구",
+      "탈출 사다리",
+      "비상 망치"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 17,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q17.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "손을 씻으시오",
+      "손잡이를 사용하시오",
+      "안전띠를 착용하시오",
+      "보호 장갑을 착용하시오"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 18,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q18.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "안전모를 착용하시오",
+      "반사 조끼를 착용하시오",
+      "작업복을 착용하시오",
+      "방호복을 착용하시오"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 19,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q19.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "머리보호구를 착용하시오",
+      "용접 마스크를 착용하시오",
+      "얼굴 보호구를 착용하시오",
+      "마스크를 착용하시오"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 20,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q20.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "안전벨트를 착용하시오",
+      "보호용 앞치마를 착용하시오",
+      "호흡기 보호 장치를 착용하시오",
+      "가시성이 높은 옷을 착용하시오"
+    ],
+    "correct_answer": 3
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 삽은 다 쓴 후에 어디에 둘까요?",
+    "options": [
+      "삽이 아주 날카로워요.",
+      "창고 선반 위에 두세요.",
+      "어제 시장에서 샀어요.",
+      "삽으로 땅을 파세요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "거름을 주려는데 경운기가 왜 안 움직이죠?",
+    "options": [
+      "기름이 떨어진 것 같아요.",
+      "경운기가 아주 빠릅니다.",
+      "어제 거름을 다 줬어요.",
+      "밭에 거름을 뿌리세요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "그물을 다 고쳤으면 배에 실을까요?",
+    "options": [
+      "네, 저기 배 뒤쪽에 실으세요.",
+      "아니요, 그물이 찢어졌어요.",
+      "네, 바다에 물고기가 많아요.",
+      "아니요, 배를 타지 마세요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "못을 박아야 하는데 망치 좀 빌려줄 수 있어요?",
+    "options": [
+      "못이 너무 두꺼워요.",
+      "어제 망치를 잃어버렸어요.",
+      "여기 있어요. 사용하고 돌려주세요.",
+      "망치질을 조심해서 하세요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "사다리가 너무 흔들리는데 잡아 줄까요?",
+    "options": [
+      "네, 밑에서 좀 잡아 주세요.",
+      "아니요, 사다리가 높아요.",
+      "네, 어제 사다리를 썼어요.",
+      "아니요, 사다리를 옮기세요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "전동 드릴 충전은 다 됐습니까?",
+    "options": [
+      "드릴이 아주 무거워요.",
+      "아니요, 아직 충전 중이에요.",
+      "네, 드릴을 새로 샀어요.",
+      "아니요, 드릴을 쓰지 마세요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "비닐하우스 온도가 너무 높은데 어떻게 하죠?",
+    "options": [
+      "비닐하우스가 아주 넓어요.",
+      "어제 환기를 시켰어요.",
+      "환풍기를 켜서 온도를 낮추세요.",
+      "겨울에는 날씨가 춥습니다."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "수확한 사과를 상자에 담을까요?",
+    "options": [
+      "아니요, 크기별로 분류부터 하세요.",
+      "네, 사과가 아주 맛있어요.",
+      "아니요, 사과를 따지 마세요.",
+      "네, 어제 상자에 담았어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "펜치로 철사를 자르려고 하는데 잘 안 돼요.",
+    "options": [
+      "철사가 아주 깁니다.",
+      "펜치가 너무 낡아서 그래요.",
+      "어제 철사를 잘랐어요.",
+      "펜치를 서랍에 넣으세요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "논에 물을 대야 하는데 양수기가 어디 있어요?",
+    "options": [
+      "논에 물이 많습니다.",
+      "양수기가 고장 났어요.",
+      "저기 창고 구석에 있어요.",
+      "어제 양수기를 돌렸어요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "줄자 못 봤어?",
+    "options": [
+      "여기 있습니다.",
+      "아직 못 해 봤어요.",
+      "줄자 좀 빌려 주세요.",
+      "잠깐 밖에 나갔습니다."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이거 어디에 놓을까?",
+    "options": [
+      "앉아서 기다릴게.",
+      "거긴 다음에 가자.",
+      "창고에 가서 일해.",
+      "저 선반 위에 올려 놔."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "반장님, 전선이 얼마나 필요할까요?",
+    "options": [
+      "창고에 넣어 놔.",
+      "전선이 너무 두꺼워.",
+      "스무 박스쯤 남았을 거야.",
+      "십 미터 정도만 가지고 와."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이거 어떻게 열어요?",
+    "options": [
+      "세 박스 정도만 갖다 놔.",
+      "안전모하고 장화 챙겨 가.",
+      "서두르지 말고 꼼꼼히 해.",
+      "손잡이를 오른쪽으로 돌려."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "다친 데는 어떻습니까?",
+    "options": [
+      "사고가 나지 않게 주의하세요.",
+      "안전모 쓰는 것을 잊지 마세요.",
+      "이런 실수를 해서 정말 미안해.",
+      "병원에 다니고 나서 많이 좋아졌어."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "한 봉지에 얼마만큼 담을까요?",
+    "options": [
+      "노끈으로 잘 묶으세요.",
+      "사 킬로그램씩 담으세요.",
+      "봉지를 이렇게 묶으세요.",
+      "이 노끈을 박스에 담으세요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "딸기는 어떤 것을 따야 합니까?",
+    "options": [
+      "이건 아직 덜 익었네요.",
+      "빨갛게 익은 걸 따세요.",
+      "과일이 아주 맛있어 보여요.",
+      "딸기 한 바구니에 오천 원이에요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "오늘 출하량은 얼마나 되겠냐?",
+    "options": [
+      "조금 전에 차에 실었습니다.",
+      "크기별로 포장하고 있습니다.",
+      "어제보다는 적을 것 같습니다.",
+      "한 시간 내로 끝날 것 같습니다."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 굴 박스요, 어떻게 쌓을까요?",
+    "options": [
+      "위로 쭉 쌓으세요.",
+      "이렇게 쌓으면 될까요?",
+      "굴 박스 좀 빌려 주세요.",
+      "굴 박스를 가지고 올까요?"
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "누가 반장님이세요?",
+    "options": [
+      "나중에 다시 올게요.",
+      "반장님이 찾으셨어요.",
+      "저기 앉아 있는 사람이에요.",
+      "오늘은 반장님도 일찍 가실 거예요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  }
+]

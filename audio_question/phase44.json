@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "얀또 씨가 누구예요?",
+    "options": [
+      "제가 얀또입니다.",
+      "얀또 씨 책이에요.",
+      "어제 구두를 샀어요.",
+      "인도네시아에서 왔어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "그 사람 직업이 뭐예요?",
+    "options": [
+      "간호사예요.",
+      "집이 멀어요.",
+      "직업이 있어요.",
+      "공장에 없어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "저 사람이 누구예요?",
+    "options": [
+      "저건 제 구두예요.",
+      "중국으로 출장 가요.",
+      "저기가 우리 회사예요.",
+      "우리 회사 사장님이에요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "어느 나라 사람이에요?",
+    "options": [
+      "한국에 가요.",
+      "아침을 먹어요.",
+      "공장에서 일해요.",
+      "베트남에서 왔어요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "안녕하세요? 처음 뵙겠습니다.",
+    "options": [
+      "오래간만입니다.",
+      "작년에 왔습니다.",
+      "만나서 반갑습니다.",
+      "네, 안녕히 가세요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "여보세요? 거기 김지수 씨 댁이지요? 지수 씨 있으면 좀 바꿔주세요.",
+    "options": [
+      "네, 지금 빨리 오세요.",
+      "네, 10분쯤 기다렸어요.",
+      "네, 잠깐만 기다리세요.",
+      "네, 다른 것을 고르세요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "누가 하샤 씨입니까?",
+    "options": [
+      "제가 하샤입니다.",
+      "제가 하겠습니다.",
+      "하샤가 있습니다.",
+      "하샤가 가겠습니다."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "누구를 기다리세요?",
+    "options": [
+      "구두를 사세요.",
+      "친구를 기다려요.",
+      "한국말을 가르쳐요.",
+      "여기에서 만나겠어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "저기 지수 씨하고 이야기하고 있는 사람이 누구예요?",
+    "options": [
+      "제가 이야기할 거예요.",
+      "베트남에서 온 뚜안 씨예요.",
+      "저기 있는 사람이 지수 씨예요.",
+      "베트남 사람을 만난 적이 있어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "안녕하세요? 그동안 잘 지내셨어요?",
+    "options": [
+      "네, 잘 지냈어요.",
+      "네, 잘 먹었습니다.",
+      "네, 안녕히 계세요.",
+      "네, 여기 있습니다."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  }
+]

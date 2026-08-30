@@ -1,0 +1,282 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q1.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "돼지",
+      "소",
+      "말",
+      "양"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 2,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q2.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "한우",
+      "소",
+      "육우",
+      "젖소"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 3,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q3.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "거름",
+      "비료",
+      "사료",
+      "농약"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 4,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q4.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "밧줄",
+      "닻",
+      "통발",
+      "그물"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 5,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q5.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "통발",
+      "뜰채",
+      "집어등",
+      "바늘"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 6,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q6.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "갈고리",
+      "부표",
+      "노",
+      "스티로폼 상자"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 7,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q7.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "낚싯바늘",
+      "집어등",
+      "뜰채",
+      "수조"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 8,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q8.jpg",
+    "audio_script": "이곳은 어디입니까?",
+    "option_type": "audio",
+    "options": [
+      "양어장",
+      "수족관",
+      "저수지",
+      "수조"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 9,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q9.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "산소 공급기",
+      "환풍기",
+      "온도계",
+      "습도계"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 10,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q10.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "산소를 공급하다",
+      "수질을 측정하다",
+      "사료를 주다",
+      "그물을 수선하다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 11,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q11.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "전동 드릴",
+      "고압 세척기",
+      "도장기 (스프레이 펌프)",
+      "핸드카"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 12,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q12.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "땅을 파다",
+      "벽을 세우다",
+      "비계를 설치하다",
+      "콘크리트를 타설하다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 13,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q13.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "울타리망을 치다",
+      "차광막을 설치하다",
+      "비닐을 씌우다",
+      "지주를 세우다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 14,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q14.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "풀을 뽑다",
+      "가지를 치다",
+      "씨를 뿌리다",
+      "거름을 주다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 15,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q15.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "석탄을 캐다",
+      "구멍을 뚫다",
+      "버력을 골라내다",
+      "폭약을 설치하다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 16,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q16.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "석탄을 나르다",
+      "석탄을 쌓다",
+      "석탄을 선별하다",
+      "석탄을 부수다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 17,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q17.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "착암기",
+      "굴착기",
+      "불도저",
+      "지게차"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 18,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q18.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "헤라",
+      "스크레이퍼",
+      "삽",
+      "곡괭이"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 19,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q19.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "바위를 깨다",
+      "구멍을 뚫다",
+      "폭약을 설치하다",
+      "버력을 치우다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 20,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q20.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "기중기",
+      "덤프트럭",
+      "불도저",
+      "굴착기"
+    ],
+    "correct_answer": 3
+  }
+]

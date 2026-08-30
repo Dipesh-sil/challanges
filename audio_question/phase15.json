@@ -1,0 +1,82 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "어서 오세요. 무엇을 도와드릴까요?",
+    "options": ["사과 두 개 주세요.", "식당이 아주 깨끗해요.", "어제 시장에 갔어요.", "주스가 맛이 없어요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "사과 세 개에 얼마예요?",
+    "options": ["사과가 빨간색이에요.", "세 개에 오천 원입니다.", "시장에서 샀습니다.", "사과를 깎아 주세요."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "여기 비빔밥 하나하고 김치찌개 하나 주세요.",
+    "options": ["네, 알겠습니다. 잠깐만 기다리세요.", "아니요, 비빔밥이 매워요.", "네, 김치찌개가 맛있어요.", "아니요, 주문하지 않았어요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 운동화 신어 봐도 될까요?",
+    "options": ["네, 사이즈가 어떻게 되세요?", "아니요, 어제 신었어요.", "네, 운동화가 아주 비싸요.", "아니요, 백화점에서 샀어요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "사장님, 이 티셔츠 너무 비싼데 좀 깎아 주세요.",
+    "options": ["네, 티셔츠를 입어 보세요.", "알겠어요. 천 원 깎아 줄게요.", "아니요, 티셔츠가 예뻐요.", "네, 어제 샀습니다."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "손님, 봉투에 담아 드릴까요?",
+    "options": ["네, 봉투에 넣어 주세요.", "아니요, 봉투가 너무 커요.", "네, 봉투가 여기에 있어요.", "아니요, 봉투를 버렸어요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "저기요, 여기 물 좀 더 주시겠어요?",
+    "options": ["네, 여기 있습니다.", "아니요, 물이 시원해요.", "네, 물을 마시고 싶어요.", "아니요, 물이 없습니다."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "불고기 2인분 시켰는데 언제 나와요?",
+    "options": ["불고기가 아주 달아요.", "지금 요리하고 있어요. 곧 나옵니다.", "어제 2인분을 먹었어요.", "식당에 손님이 많아요."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "결제는 어떻게 하시겠어요?",
+    "options": ["카드로 계산하겠습니다.", "카드가 지갑에 있어요.", "어제 카드를 썼어요.", "가격이 너무 비싸요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 우유 유통기한이 언제까지예요?",
+    "options": ["우유를 마시고 싶어요.", "오늘 아침에 샀어요.", "내일까지입니다.", "우유가 아주 고소해요."],
+    "correct_answer": 2,
+    "is_audio_question": true
+  }
+]

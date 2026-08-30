@@ -1,0 +1,282 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q1.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "습도",
+      "온도",
+      "압력",
+      "길이"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 2,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q2.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "조절하다",
+      "측정하다",
+      "조립하다",
+      "분해하다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 3,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q3.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "조절하다",
+      "햇볕에 두다",
+      "직사광선을 피하다",
+      "빛을 가리다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 4,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q4.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "습기가 많다",
+      "환기가 안되다",
+      "유지하다",
+      "통풍이 잘되다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 5,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q5.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "오염되다",
+      "깨끗이 있다",
+      "변색되다",
+      "일정하다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 6,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q6.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "톱",
+      "대패",
+      "망치",
+      "드라이버"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 7,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q7.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "톱",
+      "망치",
+      "끌",
+      "정"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 8,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q8.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "호스로 물을 주고 있습니다",
+      "물을 마시고 있습니다",
+      "식물에게 물을 주고 있습니다",
+      "분무기로 물을 뿌리고 있습니다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 9,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q9.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "마감재를 칠하고 있습니다",
+      "페인트를 썩고 있습니다",
+      "청소하고 있습니다",
+      "초벌제를 칠하고 있습니다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 10,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q10.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "밭",
+      "수로",
+      "논",
+      "강"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 11,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q11.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "흙을 덮다",
+      "흙을 나르다",
+      "흙을 깎다",
+      "흙을 쌓다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 12,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q12.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "파손되다",
+      "무너지다",
+      "부러지다",
+      "균열이 생기다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 13,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q13.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "누수가 발생하다",
+      "물에 잠기다",
+      "물을 뿌리다",
+      "홍수가 나다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 14,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q14.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "고구마를 캐고 있어요",
+      "감자를 캐고 있어요",
+      "채소를 심고 있어요",
+      "씨를 뿌리고 있어요"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 15,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q15.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "감자",
+      "고구마",
+      "양파",
+      "옥수수"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 16,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q16.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "벼를 베다",
+      "모판을 옮기다",
+      "비료을 옮기다",
+      "물을 주다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 17,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q17.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "딸기를 따고 있습니다",
+      "포도를 따고 있습니다",
+      "사과를 따고 있습니다",
+      "배를 따고 있습니다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 18,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q18.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "양파를 수확하다",
+      "잡초를 제거하고 있습니다",
+      "벼를 베다",
+      "마늘을 캐다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 19,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q19.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "배추를 심다",
+      "씨를 뿌리다",
+      "고추를 따다",
+      "물을 주다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 20,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q20.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "모종을 심다",
+      "땅을 개다",
+      "벼를 나르다",
+      "벼를 베다"
+    ],
+    "correct_answer": 3
+  }
+]

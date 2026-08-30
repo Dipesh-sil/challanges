@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "한국에서 어디에 가 봤어요?",
+    "options": [
+      "영화관에서 봤어요.",
+      "남편하고 같이 갈 거예요.",
+      "서울하고 부산에 가 봤어요.",
+      "한국말을 배운 적이 있어요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "그 영화가 재미있을까요?",
+    "options": [
+      "네, 아직 못 봤어요.",
+      "네, 재미있을 거예요.",
+      "네, 아마 계실 거예요.",
+      "네, 극장 앞에서 만났어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "누구하고 같이 여행을 갈 거예요?",
+    "options": [
+      "다음 주에 갈 거예요.",
+      "기차를 타고 갈 거예요.",
+      "친구하고 나이가 같아요.",
+      "동생하고 같이 갈 거예요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "무슨 운동을 좋아하세요?",
+    "options": [
+      "주말에 운동해요.",
+      "농구를 좋아해요.",
+      "운동화를 신었어요.",
+      "한국 음식을 좋아해요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "가족들에게 뭘 선물하고 싶어요?",
+    "options": [
+      "집에 가고 싶어요.",
+      "요리를 하고 싶어요.",
+      "가족들을 만나고 싶어요.",
+      "텔레비전을 사 주고 싶어요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "내일 언제 만날까요?",
+    "options": [
+      "점심시간에 봅시다.",
+      "극장 앞에서 만나요.",
+      "내일 시간이 어때요?",
+      "비가 오면 가지 마세요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "볼펜 좀 빌려 주세요.",
+    "options": [
+      "네, 여기 있어요.",
+      "네, 빌려 주세요.",
+      "네, 볼펜을 주세요.",
+      "네, 볼펜을 샀어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "너무 더워요. 에어컨 좀 켜주시겠어요?",
+    "options": [
+      "네, 시원해요.",
+      "네, 켜 드릴게요.",
+      "네, 방금 껐어요.",
+      "네, 에어컨이 있어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "일요일에 뭐 할 거예요?",
+    "options": [
+      "열심히 일했어요.",
+      "비가 올 것 같아요.",
+      "친구를 만날 거예요.",
+      "버스를 타고 갈 거예요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "옆에 있는 장갑 좀 주세요.",
+    "options": [
+      "네, 여기 있어요.",
+      "네, 옆에 있어요.",
+      "네, 장갑을 주세요.",
+      "네, 장갑을 안 껴요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  }
+]

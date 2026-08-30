@@ -1,0 +1,119 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "리한 씨는 취미가 뭐예요?",
+    "options": [
+      "어제 낚시를 했어요.",
+      "취미가 아주 재미있어요.",
+      "낚시를 좋아해요.",
+      "낚싯대가 비싸요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "우리 내일 몇 시에 만날까요?",
+    "options": [
+      "저녁 7시에 만나요.",
+      "시계가 예쁘지 않아요.",
+      "내일은 토요일이에요.",
+      "어제 7시에 만났어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이번 주말에 같이 영화 볼까요?",
+    "options": [
+      "아니요, 어제 봤어요.",
+      "네, 같이 봐요.",
+      "영화가 아주 재미있어요.",
+      "극장이 너무 멀어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "한국에 가서 무슨 일을 하고 싶어요?",
+    "options": [
+      "가구가 아주 무겁습니다.",
+      "한국말을 공부했어요.",
+      "어제 일을 많이 했어요.",
+      "가구 만드는 일을 하고 싶어요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "퇴근하고 보통 뭐 해요?",
+    "options": [
+      "회사에서 일을 해요.",
+      "한국어가 참 재미있어요.",
+      "집에서 한국어를 공부해요.",
+      "어제 공부를 많이 했어요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "오늘 퇴근 후에 시간 있어요?",
+    "options": [
+      "네, 같이 밥 먹어요.",
+      "네, 이미 퇴근했어요.",
+      "아니요, 시간이 많아요.",
+      "어제 퇴근을 일찍 했어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "테니스를 칠 줄 알아요?",
+    "options": [
+      "네, 어제 쳤어요.",
+      "네, 칠 수 있어요.",
+      "아니요, 테니스가 비싸요.",
+      "테니스장이 저기에 있어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "약속 시간에 늦으면 어떻게 해야 해요?",
+    "options": [
+      "약속이 아주 중요합니다.",
+      "어제 약속을 했어요.",
+      "늦지 않게 오세요.",
+      "미리 전화를 해서 사과하세요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "다음 달부터 컴퓨터 수업을 들을 거예요?",
+    "options": [
+      "네, 컴퓨터가 고장 났어요.",
+      "아니요, 어제 수업을 들었어요.",
+      "네, 신청할 생각이에요.",
+      "컴퓨터가 아주 빨라요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  }
+]

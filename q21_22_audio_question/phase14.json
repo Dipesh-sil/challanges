@@ -1,0 +1,158 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "도끼",
+    "option_type": "text",
+    "options": [
+      "토끼",
+      "도끼",
+      "도자기",
+      "포기"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 2,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "문 뒤에 숨었어요.",
+    "option_type": "text",
+    "options": [
+      "문 뒤에 숨었어요.",
+      "문 앞에 섰어요.",
+      "물 뒤에 숨었어요.",
+      "문 앞에 숨었어요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 3,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "환풍기",
+    "option_type": "text",
+    "options": [
+      "소화기",
+      "환풍기",
+      "선풍기",
+      "계측기"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 4,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "철사를 구부리세요.",
+    "option_type": "text",
+    "options": [
+      "철사를 자르세요.",
+      "철사를 구부리세요.",
+      "철사를 펴세요.",
+      "상자를 구부리세요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 5,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "지게차",
+    "option_type": "text",
+    "options": [
+      "기차",
+      "자전거",
+      "지게차",
+      "유모차"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 6,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "나사를 조이세요.",
+    "option_type": "text",
+    "options": [
+      "나사를 푸세요.",
+      "못을 박으세요.",
+      "나사를 조이세요.",
+      "줄자를 조이세요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 7,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "벽돌",
+    "option_type": "text",
+    "options": [
+      "벽돌",
+      "벽지",
+      "백돌",
+      "복도"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 8,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "비료를 뿌려요.",
+    "option_type": "text",
+    "options": [
+      "비료를 뿌려요.",
+      "사료를 버려요.",
+      "비료를 버려요.",
+      "사료를 뿌려요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 9,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "방진마스크",
+    "option_type": "text",
+    "options": [
+      "방진마스크",
+      "방독마스크",
+      "보안면",
+      "보안경"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 10,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "가스를 잠그세요.",
+    "option_type": "text",
+    "options": [
+      "가스를 열으세요.",
+      "가스를 켜세요.",
+      "가스를 잠그세요.",
+      "가스를 막으세요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 11,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "손전등",
+    "option_type": "text",
+    "options": [
+      "신호등",
+      "손수레",
+      "손전등",
+      "전등탑"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 12,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "유리병을 모았어요.",
+    "option_type": "text",
+    "options": [
+      "유리병을 씻었어요.",
+      "유리병을 모았어요.",
+      "플라스틱을 모았어요.",
+      "유리병을 버렸어요."
+    ],
+    "correct_answer": 1
+  }
+]

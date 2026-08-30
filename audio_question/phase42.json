@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "내일 고향에 갈 거예요?",
+    "options": [
+      "네, 오늘 갔어요.",
+      "네, 내일 가세요.",
+      "네, 내일 갈 거예요.",
+      "네, 오늘 가고 싶어요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "우리 운동할까요?",
+    "options": [
+      "네, 같이 해요.",
+      "네, 혼자 하세요.",
+      "네, 운동을 안 해요.",
+      "네, 운동을 싫어해요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "언제 낚시를 해요?",
+    "options": [
+      "주말에 해요.",
+      "가족이랑 해요.",
+      "바다에서 해요.",
+      "배를 타고 해요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "왜 택시를 타고 출근했어요?",
+    "options": [
+      "여섯 시에 가요.",
+      "두 시간 기다렸어요.",
+      "택시 요금이 비싸서요.",
+      "아침에 늦게 일어나서요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "며칠 전보다 분뇨가 많아졌어요.",
+    "options": [
+      "빨리 치워야겠어요.",
+      "공기가 쾌적하네요.",
+      "매일 치우니까 그래요.",
+      "별로 많지 않을 거예요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "몸이 안 좋아 보이네요.",
+    "options": [
+      "약속이 있어서 못 가요.",
+      "감기에 걸린 것 같아요.",
+      "상품 상태가 안 좋아요.",
+      "일이 어려운 것 같아요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "야구를 보러 갈래요?",
+    "options": [
+      "아니요, 안 봤어요.",
+      "아니요, 갈 거예요.",
+      "아니요, 볼 수 있어요.",
+      "아니요, 안 가고 싶어요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "지금 식사 중이에요?",
+    "options": [
+      "네, 식사를 못 해요.",
+      "네, 먹을 수 없어요.",
+      "네, 식사하고 있어요.",
+      "네, 이따가 먹을 거예요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "언제 월급을 받을 수 있어요?",
+    "options": [
+      "두 번 받을 수 있어요.",
+      "25일에 받을 수 있어요.",
+      "사장님께 받을 수 있어요.",
+      "은행에서 받을 수 있어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "농장에서 얼마나 일했어요?",
+    "options": [
+      "한국에서 일했어요.",
+      "오랜만에 일했어요.",
+      "삼 년 동안 일했어요.",
+      "고향 친구하고 일했어요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "q_id": 1,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "이 근처에 밥을 먹을 만한 곳이 있어요?",
+        "options": [
+            "아니요, 밥을 안 먹었어요.",
+            "네, 저기 사거리 식당이 맛있어요.",
+            "네, 밥은 집에서 먹어야 해요.",
+            "어제 친구하고 밥을 먹었어요."
+        ],
+        "correct_answer": 1,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 2,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "리한 씨, 작업장 바닥이 너무 미끄러워요.",
+        "options": [
+            "조심해서 작업할게요.",
+            "바닥을 어제 닦았습니다.",
+            "작업장이 아주 넓습니다.",
+            "신발을 새로 사고 싶어요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 3,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "오늘 날씨가 참 좋네요. 나들이 갈까요?",
+        "options": [
+            "날씨가 추우니까 조심하세요.",
+            "아니요, 오늘은 비가 올 거예요.",
+            "좋아요. 공원에 산책하러 가요.",
+            "어제 나들이를 다녀왔어요."
+        ],
+        "correct_answer": 2,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 4,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "왜 아직 퇴근 안 했어요?",
+        "options": [
+            "일이 남아서 좀 더 해야 해요.",
+            "지금 바로 퇴근하세요.",
+            "퇴근 시간은 여섯 시입니다.",
+            "버스가 안 와서 기다리고 있어요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 5,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "여보세요. 김 대리님 계시면 좀 바꿔 주세요.",
+        "options": [
+            "네, 제가 김 대리입니다.",
+            "아니요, 김 대리님은 안 계세요.",
+            "지금 회의 중이신데 메모 남길까요?",
+            "사장님께 연락해 보세요."
+        ],
+        "correct_answer": 2,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 6,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "이번 연휴에 특별한 계획이 있어요?",
+        "options": [
+            "고향에 다녀오려고 해요.",
+            "연휴는 다음 주부터예요.",
+            "계획이 아주 구체적이네요.",
+            "연휴 동안 잠만 잤어요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 7,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "손을 다친 것 같은데 병원에 가야겠어요.",
+        "options": [
+            "병원비가 너무 비싸요.",
+            "어제 병원에서 치료받았어요.",
+            "약국에서 약을 사다 줄까요?",
+            "네, 많이 다쳤으면 빨리 가 보세요."
+        ],
+        "correct_answer": 3,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 8,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "한국말을 배우기가 어렵지 않아요?",
+        "options": [
+            "한국말은 정말 재미있어요.",
+            "배우면 배울수록 어려운 것 같아요.",
+            "아니요, 한국말을 가르쳐 주세요.",
+            "한국에 가면 꼭 배우고 싶어요."
+        ],
+        "correct_answer": 1,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 9,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "사장님, 휴가 좀 써도 될까요?",
+        "options": [
+            "휴가는 미리 신청해야 해요.",
+            "고향에 무슨 일이 생겼어요?",
+            "이번 주에는 일이 많아서 안 돼요.",
+            "네, 언제부터 언제까지 쓸 거예요?"
+        ],
+        "correct_answer": 3,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 10,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "투안 씨는 취미가 뭐예요?",
+        "options": [
+            "저는 낚시하는 것을 좋아해요.",
+            "제 동생의 취미는 축구예요.",
+            "어제 친구하고 등산을 했어요.",
+            "취미 생활을 열심히 하고 있어요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    }
+]

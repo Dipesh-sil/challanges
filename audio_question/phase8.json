@@ -1,0 +1,82 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "퇴근하고 나서 뭐 할 거예요?",
+    "options": ["일찍 퇴근하고 싶어요.", "친구하고 저녁을 먹으려고 해요.", "어제 퇴근 후에 운동을 했어요.", "일하는 곳이 아주 가깝습니다."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "리한 씨, 안전화 신는 것을 잊지 마세요.",
+    "options": ["네, 지금 갈아신을게요.", "안전화가 조금 작네요.", "어제 안전화를 샀습니다.", "안전화는 신발장에 있어요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "오늘 점심 메뉴가 뭐예요?",
+    "options": ["식당은 지하 1층에 있어요.", "불고기와 된장찌개예요.", "점심 시간이 아주 짧아요.", "저는 비빔밥을 좋아해요."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "반장님, 이 기계는 어떻게 작동해요?",
+    "options": ["기계가 아주 크고 복잡해요.", "이 버튼을 누르면 시작돼요.", "어제 기계를 고쳤습니다.", "기계는 조심해서 사용해야 해요."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "한국말 실력이 정말 대단하시네요!",
+    "options": ["감사합니다. 더 열심히 공부할게요.", "네, 한국말은 정말 재미있어요.", "아니요, 아직 많이 부족해요.", "한국말을 가르쳐 드릴까요?"],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이번 주말에 약속이 있어요?",
+    "options": ["아니요, 특별한 계획이 없어요.", "주말에 고향에 갈 거예요.", "약속 장소가 어디예요?", "친구하고 영화를 보기로 했어요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "저기요, 실례지만 우체국이 어디에 있나요?",
+    "options": ["사거리에서 왼쪽으로 가세요.", "우체국에 편지를 보내러 가요.", "우체국은 일찍 문을 닫아요.", "어제 우체국에서 친구를 만났어요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "작업장 정리가 왜 이렇게 안 되어 있어요?",
+    "options": ["지금 바로 정리하겠습니다.", "작업장이 아주 깨끗하네요.", "정리 도구가 어디에 있는지 몰라요.", "내일 아침에 청소할게요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "감기에 걸린 것 같은데 약 좀 사다 줄까요?",
+    "options": ["네, 부탁해요. 감사합니다.", "약국은 병원 옆에 있어요.", "감기 조심하세요.", "어제부터 목이 많이 아팠어요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "투안 씨는 고향에 언제 갈 거예요?",
+    "options": ["고향은 베트남 하노이예요.", "다음 달 휴가 때 갈 거예요.", "비행기 표가 아직 못 샀어요.", "고향 음식이 아주 먹고 싶어요."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  }
+]

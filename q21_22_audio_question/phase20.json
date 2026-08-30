@@ -1,0 +1,158 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "톱",
+    "option_type": "text",
+    "options": [
+      "칼",
+      "톱",
+      "못",
+      "줄"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 2,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "상자를 차곡차곡 쌓으세요.",
+    "option_type": "text",
+    "options": [
+      "상자를 차곡차곡 쌓으세요.",
+      "상자를 조심조심 내리세요.",
+      "상자를 차곡차곡 묶으세요.",
+      "상자를 조심해서 옮기세요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 3,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "집어등",
+    "option_type": "text",
+    "options": [
+      "신호등",
+      "손전등",
+      "집어등",
+      "가로등"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 4,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "기계 왼쪽에 두세요.",
+    "option_type": "text",
+    "options": [
+      "기계 오른쪽에 두세요.",
+      "기계 왼쪽에 두세요.",
+      "기계 위쪽에 두세요.",
+      "기계 안쪽에 두세요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 5,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "퇴비",
+    "option_type": "text",
+    "options": [
+      "퇴비",
+      "비료",
+      "사료",
+      "제초제"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 6,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "플러그를 뽑으세요.",
+    "option_type": "text",
+    "options": [
+      "플러그를 꽂으세요.",
+      "플러그를 뽑으세요.",
+      "스위치를 누르세요.",
+      "코드를 묶으세요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 7,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "안전대",
+    "option_type": "text",
+    "options": [
+      "안전모",
+      "안전화",
+      "안전장갑",
+      "안전대"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 8,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "거름을 주었어요.",
+    "option_type": "text",
+    "options": [
+      "물을 주었어요.",
+      "거름을 주었어요.",
+      "약을 쳤어요.",
+      "풀을 뽑았어요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 9,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "시멘트",
+    "option_type": "text",
+    "options": [
+      "시멘트",
+      "콘크리트",
+      "모래",
+      "자갈"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 10,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "담배를 피우지 마세요.",
+    "option_type": "text",
+    "options": [
+      "쓰레기를 버리지 마세요.",
+      "담배를 피우지 마세요.",
+      "침을 뱉지 마세요.",
+      "불을 피우지 마세요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 11,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "니퍼",
+    "option_type": "text",
+    "options": [
+      "펜치",
+      "스패너",
+      "니퍼",
+      "드라이버"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 12,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "제품을 포장해야 해요.",
+    "option_type": "text",
+    "options": [
+      "제품을 검사해야 해요.",
+      "제품을 분류해야 해요.",
+      "제품을 포장해야 해요.",
+      "제품을 운반해야 해요."
+    ],
+    "correct_answer": 2
+  }
+]

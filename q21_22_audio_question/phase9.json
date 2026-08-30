@@ -1,0 +1,158 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "우리 가족은 모두 5명이에요.",
+    "option_type": "text",
+    "options": [
+      "우리 가족은 모두 4명이에요.",
+      "우리 가족은 모두 5명이에요.",
+      "우리 가족은 모두 6명이에요.",
+      "우리 가족은 모두 7명이에요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 2,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "콧물이 나요.",
+    "option_type": "text",
+    "options": [
+      "찬물 있나요.",
+      "기침이 나요.",
+      "콧물이 나요.",
+      "고장이 나요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 3,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "그 영화는 19살 이상 볼 수 있어요.",
+    "option_type": "text",
+    "options": [
+      "그 영화는 12살 이상 볼 수 있어요.",
+      "그 영화는 16살 이상 볼 수 있어요.",
+      "그 영화는 19살 이상 볼 수 있어요.",
+      "그 영화는 18살 이상 볼 수 있어요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 4,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "한국말을 배웠습니다.",
+    "option_type": "text",
+    "options": [
+      "한국말을 배웠습니다.",
+      "항공사를 바꿨습니다.",
+      "아침밥을 먹었습니다.",
+      "아줌마를 불렀습니다."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 5,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "6번 만에 시험에 붙었어요.",
+    "option_type": "text",
+    "options": [
+      "5번 만에 시험에 붙었어요.",
+      "7번 만에 시험에 붙었어요.",
+      "6번 만에 시험에 붙었어요.",
+      "8번 만에 시험에 붙었어요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 6,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "찌개가 뜨거워요.",
+    "option_type": "text",
+    "options": [
+      "가게가 가까워요.",
+      "찌개가 뜨거워요.",
+      "친구가 뛰어가요.",
+      "지우개가 두꺼워요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 7,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "제 동생은 20살입니다.",
+    "option_type": "text",
+    "options": [
+      "제 동생은 11살입니다.",
+      "제 동생은 10살입니다.",
+      "제 동생은 22살입니다.",
+      "제 동생은 20살입니다."
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 8,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "학교에 갑니다.",
+    "option_type": "text",
+    "options": [
+      "한국에 갑니다.",
+      "학교에 갑니다.",
+      "고향에 갑니다.",
+      "관광을 합니다."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 9,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "제 아들은 17살이에요.",
+    "option_type": "text",
+    "options": [
+      "제 아들은 15살이에요.",
+      "제 아들은 16살이에요.",
+      "제 아들은 17살이에요.",
+      "제 아들은 8살이에요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 10,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "편지를 부쳤습니다.",
+    "option_type": "text",
+    "options": [
+      "편지를 받았습니다.",
+      "편지를 보셨습니다.",
+      "편지를 부쳤습니다.",
+      "편지를 쓰셨습니다."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 11,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "제 딸은 8살이에요.",
+    "option_type": "text",
+    "options": [
+      "제 딸은 7살이에요.",
+      "제 딸은 8살이에요.",
+      "제 딸은 10살이에요.",
+      "제 딸은 9살이에요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 12,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "저는 7살에 학교에 입학했어요.",
+    "option_type": "text",
+    "options": [
+      "저는 5살에 학교에 입학했어요.",
+      "저는 7살에 학교에 입학했어요.",
+      "저는 4살에 학교에 입학했어요.",
+      "저는 9살에 학교에 입학했어요."
+    ],
+    "correct_answer": 1
+  }
+]

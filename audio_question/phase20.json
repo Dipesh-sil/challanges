@@ -1,0 +1,132 @@
+[
+    {
+        "q_id": 1,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "오늘 날씨가 너무 추운데 코트를 입을까요?",
+        "options": [
+            "네, 날씨가 아주 따뜻해요.",
+            "아니요, 오늘은 덥지 않아요.",
+            "네, 밖이 추우니까 꼭 입으세요.",
+            "아니요, 어제 코트를 샀어요."
+        ],
+        "correct_answer": 2,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 2,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "어느 계절을 가장 좋아하세요?",
+        "options": [
+            "저는 시원한 가을을 좋아해요.",
+            "여름은 날씨가 아주 덥습니다.",
+            "봄에는 꽃이 많이 피어요.",
+            "어제는 날씨가 참 좋았어요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 3,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "여기서 우체국에 가려면 어떻게 가야 해요?",
+        "options": [
+            "저기 사거리에서 오른쪽으로 가세요.",
+            "우체국에서 편지를 보냈어요.",
+            "우체국은 아주 먼 곳에 있습니다.",
+            "버스 정류장에서 기다리세요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 4,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "내일 비가 올까요?",
+        "options": [
+            "네, 어제 비가 많이 왔어요.",
+            "아니요, 내일은 맑을 것 같아요.",
+            "네, 비가 와서 기분이 좋아요.",
+            "아니요, 우산을 잃어버렸어요."
+        ],
+        "correct_answer": 1,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 5,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "실례지만, 화장실이 어디에 있어요?",
+        "options": [
+            "화장실이 아주 깨끗합니다.",
+            "사무실 옆에 있습니다.",
+            "어제 화장실에 갔어요.",
+            "화장실에 사람이 많아요."
+        ],
+        "correct_answer": 1,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 6,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "지금 밖에 눈이 많이 와요?",
+        "options": [
+            "네, 눈이 와서 길이 미끄러워요.",
+            "아니요, 눈이 예쁘지 않아요.",
+            "네, 어제 눈이 많이 왔어요.",
+            "아니요, 겨울을 좋아하지 않아요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 7,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "은행에 가려면 이 길로 쭉 가면 되나요?",
+        "options": [
+            "네, 쭉 가다가 왼쪽으로 꺾으세요.",
+            "아니요, 은행은 문을 닫았어요.",
+            "네, 어제 은행에 다녀왔어요.",
+            "아니요, 돈이 많이 없습니다."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 8,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "여름 휴가 때 어디에 갈 거예요?",
+        "options": [
+            "제주도에 갈 예정입니다.",
+            "여름은 날씨가 너무 더워요.",
+            "작년에는 바다에 갔어요.",
+            "휴가 때 집에서 쉴 거예요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 9,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "가을에는 날씨가 어때요?",
+        "options": [
+            "시원하고 하늘이 맑아요.",
+            "단풍이 아주 예쁩니다.",
+            "어제는 바람이 많이 불었어요.",
+            "저는 겨울보다 가을이 좋아요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 10,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "사거리에서 어떻게 가야 시청이 나와요?",
+        "options": [
+            "시청은 아주 큰 건물입니다.",
+            "오른쪽으로 돌아가면 바로 보여요.",
+            "어제 시청 앞에서 만났어요.",
+            "시청에 가서 일을 보세요."
+        ],
+        "correct_answer": 1,
+        "is_audio_question": true
+    }
+]

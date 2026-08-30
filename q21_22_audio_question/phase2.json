@@ -1,0 +1,145 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "거기 119지요?",
+    "option_type": "text",
+    "options": [
+      "저기 109지요?",
+      "거기 219지요?",
+      "거기 119지요?",
+      "저기 119지요?"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 2,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "깎아 주세요.",
+    "option_type": "text",
+    "options": [
+      "갖다 주세요.",
+      "깎아 주세요.",
+      "닦아 주세요.",
+      "닫아 주세요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 3,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "짜요",
+    "option_type": "text",
+    "options": [
+      "차요",
+      "짜요",
+      "싸요",
+      "사요"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 4,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "장갑이 네 켤레 있습니다.",
+    "option_type": "text",
+    "options": [
+      "장갑이 다섯 켤레 있습니다.",
+      "장화가 여섯 켤레 있습니다.",
+      "장갑이 네 켤레 있습니다.",
+      "장화가 일곱 켤레 있습니다."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 5,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "주사",
+    "option_type": "text",
+    "options": [
+      "주사",
+      "조사",
+      "주스",
+      "주소"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 6,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "허리를 다쳤어요.",
+    "option_type": "text",
+    "options": [
+      "허리를 다쳤어요.",
+      "고기를 다졌어요.",
+      "머리를 다쳤어요.",
+      "도리를 다했어요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 7,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "의사",
+    "option_type": "text",
+    "options": [
+      "의자",
+      "의사",
+      "이제",
+      "이차"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 8,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "한 잔만 주세요.",
+    "option_type": "text",
+    "options": [
+      "한 장만 주세요.",
+      "한 잔만 주세요.",
+      "한 잔만 두세요.",
+      "한 장만 두세요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 9,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "옆",
+    "option_type": "text",
+    "options": [
+      "옆",
+      "안",
+      "악",
+      "알"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 10,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "약 20분쯤 걸려요.",
+    "option_type": "text",
+    "options": [
+      "약 15분쯤 걸려요.",
+      "약 20분쯤 걸려요.",
+      "약 15분쯤 걸어요.",
+      "약 20분쯤 걸어요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 11,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "상추",
+    "option_type": "text",
+    "options": [
+      "상자",
+      "상처",
+      "상체",
+      "상추"
+    ],
+    "correct_answer": 3
+  }
+]

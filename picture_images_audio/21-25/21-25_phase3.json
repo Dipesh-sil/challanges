@@ -1,0 +1,282 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q1.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "청소를 하고 있습니다",
+      "요리를 하고 있습니다",
+      "여행을 계획하고 있습니다",
+      "공부를 하고 있습니다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 2,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q2.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "기침이 나다",
+      "콧물이 나다",
+      "재채기가 나다",
+      "열이 나다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 3,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q3.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "목이 붓다",
+      "얼굴이 붓다",
+      "손이 붓다",
+      "다리가 붓다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 4,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q4.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "재채기를 하다",
+      "하품을 하다",
+      "콧물을 닦다",
+      "기침을 하다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 5,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q5.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "설사를 하다",
+      "배탈이 나다",
+      "몸살이 나다",
+      "식중독에 걸리다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 6,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q6.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "잠이 안 오다",
+      "토하다",
+      "소화가 안 되다",
+      "이해가 안 되다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 7,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q7.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "아프다",
+      "어지럽다",
+      "차갑다",
+      "가렵다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 8,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q8.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "설사를 하다",
+      "구토를 하다",
+      "재채기를 하다",
+      "배탈이 나다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 9,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q9.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "기침하다",
+      "토하다",
+      "재채기하다",
+      "설사를 하다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 10,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q10.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "다리를 다치다",
+      "팔이 부러지다",
+      "손이 부러지다",
+      "뼈가 부러지다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 11,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q11.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "발이 베이다",
+      "손이 찌르다",
+      "손이 베이다",
+      "발이 찌르다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 12,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q12.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "약을 먹다",
+      "물을 마시다",
+      "주스를 마시다",
+      "밥을 먹다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 13,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q13.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "물을 뿌리다",
+      "연고를 바르다",
+      "파스를 붙이다",
+      "약을 뿌리다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 14,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q14.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "크림을 바르다",
+      "연고를 바르다",
+      "선크림을 바르다",
+      "로션을 바르다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 15,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q15.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "진료를 하다",
+      "수술을 하다",
+      "소독을 하다",
+      "검사를 하다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 16,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q16.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "파스를 붙이다",
+      "밴드를 붙이다",
+      "소독을 하다",
+      "연고를 바르다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 17,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q17.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "파스를 붙이다",
+      "반창고를 붙이다",
+      "스티커를 붙이다",
+      "밴드를 붙이다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 18,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q18.jpg",
+    "audio_script": "어떻게 오셨어요?",
+    "option_type": "audio",
+    "options": [
+      "컴퓨터 교육을 받으러 왔어요",
+      "법률 교육을 받으러 왔어요",
+      "직업 훈련을 받으러 왔어요",
+      "한국어 교육을 받으러 왔어요"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 19,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q19.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "번역 서비스를 이용하다",
+      "인터넷을 이용하다",
+      "통역 서비스를 이용하다",
+      "전화를 이용하다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 20,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q20.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "상담을 받고 있습니다",
+      "교육을 받고 있습니다",
+      "훈련을 받고 있습니다",
+      "치료를 받고 있습니다"
+    ],
+    "correct_answer": 0
+  }
+]

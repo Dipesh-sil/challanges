@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "audio_script": "오늘 저녁에 친구와 같이 식사할까요?",
+    "options": [
+      "네, 밖이 추워서 같이 가요.",
+      "아니요, 저는 혼자 먹고 싶어요.",
+      "아니요, 저는 이미 저녁을 먹었어요.",
+      "네, 오늘 날씨가 좋아요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오."
+  },
+  {
+    "q_id": 2,
+    "audio_script": "다음 버스는 몇 시에 오나요?",
+    "options": [
+      "저는 어제 버스를 탔어요.",
+      "아마 오후 3시에 도착할 거예요.",
+      "버스가 너무 빨라요.",
+      "오늘은 버스가 운행하지 않아요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오."
+  },
+  {
+    "q_id": 3,
+    "audio_script": "이 근처에 좋은 카페가 어디 있나요?",
+    "options": [
+      "오늘 카페가 닫았어요.",
+      "저기 사거리에서 왼쪽으로 가면 있어요.",
+      "카페에서는 커피를 마셨어요.",
+      "저는 커피를 싫어해요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오."
+  },
+  {
+    "q_id": 4,
+    "audio_script": "주말에 무엇을 할 계획이에요?",
+    "options": [
+      "저는 매일 집에서 쉬어요.",
+      "주말에는 날씨가 나빠요.",
+      "저는 친구와 등산을 갈 거예요.",
+      "어제 주말에 영화를 봤어요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오."
+  },
+  {
+    "q_id": 5,
+    "audio_script": "새로운 스마트폰을 샀는데 어떻게 사용하나요?",
+    "options": [
+      "전원 버튼을 길게 누르세요.",
+      "스마트폰은 너무 무거워요.",
+      "저는 스마트폰을 안 좋아해요.",
+      "어제 스마트폰이 고장 났어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오."
+  },
+  {
+    "q_id": 6,
+    "audio_script": "이번 겨울에는 눈이 많이 올까요?",
+    "options": [
+      "아니요, 어제 눈이 조금 왔어요.",
+      "겨울에는 꽃이 많이 피어요.",
+      "네, 기상청에서 많이 온다고 했어요.",
+      "눈이 너무 차가워요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오."
+  },
+  {
+    "q_id": 7,
+    "audio_script": "사무실까지 어떻게 가야 빠를까요?",
+    "options": [
+      "빠른 길은 오늘 비가 와서 막혔어요.",
+      "이 길로 쭉 가다가 오른쪽으로 가세요.",
+      "사무실에서 점심을 먹었어요.",
+      "사무실은 어제 문을 닫았어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오."
+  },
+  {
+    "q_id": 8,
+    "audio_script": "오늘 점심 메뉴는 무엇으로 할까요?",
+    "options": [
+      "점심 시간은 너무 짧아요.",
+      "김치찌개를 먹는 게 좋아요.",
+      "점심에는 학교에 안 가요.",
+      "저는 어제 저녁을 먹었어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오."
+  },
+  {
+    "q_id": 9,
+    "audio_script": "한국어 공부는 어떻게 하고 있나요?",
+    "options": [
+      "어제 한국어 시험을 봤어요.",
+      "한국어를 좋아하지 않아요.",
+      "매일 한 시간씩 단어를 외워요.",
+      "한국어는 너무 어려워요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오."
+  },
+  {
+    "q_id": 10,
+    "audio_script": "내일 회의는 몇 시에 시작되나요?",
+    "options": [
+      "회의에서 점심을 먹었어요.",
+      "오전 10시에 시작할 예정이에요.",
+      "내일은 휴일이에요.",
+      "회의는 어제 끝났어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오."
+  }
+]

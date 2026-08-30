@@ -1,0 +1,158 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "바늘",
+    "option_type": "text",
+    "options": [
+      "바늘",
+      "마늘",
+      "하늘",
+      "터널"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 2,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "먼지를 털었어요.",
+    "option_type": "text",
+    "options": [
+      "먼지를 털었어요.",
+      "먼지를 쓸었어요.",
+      "먼지를 닦았어요.",
+      "바닥을 털었어요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 3,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "귀마개",
+    "option_type": "text",
+    "options": [
+      "귀덮개",
+      "귀마개",
+      "마스크",
+      "보안경"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 4,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "사무실 밖에 있어요.",
+    "option_type": "text",
+    "options": [
+      "사무실 안에 있어요.",
+      "사무실 밖에 있어요.",
+      "기숙사 밖에 있어요.",
+      "사무실 옆에 있어요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 5,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "곡괭이",
+    "option_type": "text",
+    "options": [
+      "곡괭이",
+      "모종삽",
+      "쇠스랑",
+      "삽"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 6,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "줄자를 당기세요.",
+    "option_type": "text",
+    "options": [
+      "줄자를 당기세요.",
+      "줄자를 감으세요.",
+      "철사를 당기세요.",
+      "철사를 감으세요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 7,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "손수레",
+    "option_type": "text",
+    "options": [
+      "지게차",
+      "손수레",
+      "사다리",
+      "리어카"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 8,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "사료를 주었어요.",
+    "option_type": "text",
+    "options": [
+      "비료를 주었어요.",
+      "사료를 먹었어요.",
+      "비료를 뿌렸어요.",
+      "사료를 주었어요."
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 9,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "철근",
+    "option_type": "text",
+    "options": [
+      "철판",
+      "철사",
+      "철근",
+      "시멘트"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 10,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "헬멧을 착용하세요.",
+    "option_type": "text",
+    "options": [
+      "장갑을 착용하세요.",
+      "헬멧을 착용하세요.",
+      "헬멧을 벗으세요.",
+      "장갑을 벗으세요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 11,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "양수기",
+    "option_type": "text",
+    "options": [
+      "환풍기",
+      "분무기",
+      "발전기",
+      "양수기"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 12,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "온도를 낮추세요.",
+    "option_type": "text",
+    "options": [
+      "온도를 높이세요.",
+      "습도를 낮추세요.",
+      "온도를 낮추세요.",
+      "습도를 높이세요."
+    ],
+    "correct_answer": 2
+  }
+]

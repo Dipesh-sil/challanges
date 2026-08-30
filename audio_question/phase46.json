@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이영수 씨를 알아요?",
+    "options": [
+      "아니요, 달라요.",
+      "아니요, 몰라요.",
+      "아니요, 지금 없어요.",
+      "아니요, 할 줄 몰라요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "한국 사람입니까?",
+    "options": [
+      "아니요, 한국 사람이 없습니다.",
+      "아니요, 한국 사람이 있습니다.",
+      "아니요, 한국 사람을 모릅니다.",
+      "아니요, 한국 사람이 아닙니다."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이름이 무엇입니까?",
+    "options": [
+      "5시입니다.",
+      "24살입니다.",
+      "이영수입니다.",
+      "한국 사람입니다."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "와주셔서 감사합니다. 많이 드십시오.",
+    "options": [
+      "네, 들어오십시오.",
+      "네, 잘 먹겠습니다.",
+      "네, 조금 무겁습니다.",
+      "네, 조금 늦게 왔습니다."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "안녕히 가세요.",
+    "options": [
+      "네, 안녕하세요.",
+      "네, 어서 오세요.",
+      "네, 안녕히 계세요.",
+      "네, 처음 뵙겠습니다."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "한국 친구가 많아요?",
+    "options": [
+      "아니요, 아직 안 왔어요.",
+      "아니요, 한 명밖에 없어요.",
+      "아니요, 가 본 적이 없어요.",
+      "아니요, 한국 사람이 아니에요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "안녕하세요? 처음 뵙겠습니다. 왕리라고 합니다. 중국에서 왔습니다.",
+    "options": [
+      "오래간만입니다.",
+      "만나서 반갑습니다.",
+      "그동안 잘 지내셨어요?",
+      "실례지만 이름이 무엇입니까?"
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "실례지만 나이가 어떻게 되세요?",
+    "options": [
+      "31살입니다.",
+      "10월 24일입니다.",
+      "제 여동생이에요.",
+      "이영수라고 합니다."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "오늘이 수요일이지요?",
+    "options": [
+      "아니요, 목요일이에요.",
+      "아니요, 오후 3시예요.",
+      "아니요, 오늘은 못 가요.",
+      "아니요, 수요일에 만나요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "먼저 퇴근하겠습니다.",
+    "options": [
+      "네, 또 오세요.",
+      "네, 잘 지냈습니다.",
+      "네, 수고하셨습니다.",
+      "네, 제가 가겠습니다."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  }
+]

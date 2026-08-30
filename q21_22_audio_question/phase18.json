@@ -1,0 +1,158 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "낫",
+    "option_type": "text",
+    "options": [
+      "낮",
+      "낫",
+      "밭",
+      "밤"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 2,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "트럭에 짐을 실으세요.",
+    "option_type": "text",
+    "options": [
+      "트럭에 짐을 실으세요.",
+      "트럭에서 짐을 내리세요.",
+      "트럭에 짐을 싣지 마세요.",
+      "트럭에 기름을 넣으세요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 3,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "보안면",
+    "option_type": "text",
+    "options": [
+      "보안경",
+      "안전모",
+      "보안면",
+      "방독면"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 4,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "바닥을 쓸고 닦으세요.",
+    "option_type": "text",
+    "options": [
+      "바닥을 쓸고 닦으세요.",
+      "바닥을 털고 닦으세요.",
+      "먼지를 쓸고 버리세요.",
+      "바닥을 쓸고 버리세요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 5,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "축사",
+    "option_type": "text",
+    "options": [
+      "비닐하우스",
+      "축사",
+      "양계장",
+      "돈사"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 6,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "감전 사고를 조심하세요.",
+    "option_type": "text",
+    "options": [
+      "추락 사고를 조심하세요.",
+      "낙하 사고를 조심하세요.",
+      "감전 사고를 조심하세요.",
+      "화재 사고를 조심하세요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 7,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "파이프",
+    "option_type": "text",
+    "options": [
+      "파이프",
+      "테이프",
+      "와이어",
+      "케이블"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 8,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "포장지를 테이프로 붙였어요.",
+    "option_type": "text",
+    "options": [
+      "포장지를 가위로 잘랐어요.",
+      "포장지를 테이프로 붙였어요.",
+      "골판지를 테이프로 붙였어요.",
+      "포장지를 끈으로 묶었어요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 9,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "그물",
+    "option_type": "text",
+    "options": [
+      "통발",
+      "그물",
+      "밧줄",
+      "갈고리"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 10,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "기계를 만지지 마세요.",
+    "option_type": "text",
+    "options": [
+      "기계를 멈추지 마세요.",
+      "기계를 만지지 마세요.",
+      "기계를 고치지 마세요.",
+      "스위치를 누르지 마세요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 11,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "수평대",
+    "option_type": "text",
+    "options": [
+      "줄자",
+      "각도기",
+      "수평대",
+      "버니어캘리퍼스"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 12,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "수량을 확인해야 해요.",
+    "option_type": "text",
+    "options": [
+      "불량을 확인해야 해요.",
+      "수량을 계산해야 해요.",
+      "수량을 확인해야 해요.",
+      "중량을 확인해야 해요."
+    ],
+    "correct_answer": 2
+  }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "q_id": 1,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "주말에 보통 무엇을 해요?",
+        "options": [
+            "주말이 아주 짧아요.",
+            "친구하고 운동을 해요.",
+            "어제 시장에 갔어요.",
+            "토요일은 날씨가 좋아요."
+        ],
+        "correct_answer": 1,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 2,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "오늘 회사에 왜 늦었어요?",
+        "options": [
+            "버스를 놓쳐서 늦었어요.",
+            "회사에 일찍 가고 싶어요.",
+            "내일은 늦지 마세요.",
+            "지금 회사에 가고 있어요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 3,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "여보세요. 거기 지수 씨 집이지요?",
+        "options": [
+            "네, 지수 씨를 만났어요.",
+            "아니요, 지금 집에 없어요.",
+            "아니요, 전화를 잘못 거셨어요.",
+            "네, 제가 지수 씨를 알아요."
+        ],
+        "correct_answer": 2,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 4,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "사료를 다 줬는데 이제 무엇을 할까요?",
+        "options": [
+            "사료를 더 사 오세요.",
+            "분뇨를 치우는 게 어때요?",
+            "축사 안이 아주 깨끗해요.",
+            "어제 사료를 다 줬습니다."
+        ],
+        "correct_answer": 1,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 5,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "이 기계를 어떻게 사용하는지 좀 가르쳐 주시겠어요?",
+        "options": [
+            "기계가 아주 크고 무거워요.",
+            "기계를 고친 적이 없어요.",
+            "먼저 전원을 켜고 시작하세요.",
+            "네, 기계를 사용해도 돼요."
+        ],
+        "correct_answer": 2,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 6,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "실례합니다. 근처에 우체국이 어디에 있습니까?",
+        "options": [
+            "우체국에 편지를 보내요.",
+            "사거리에서 오른쪽으로 가세요.",
+            "우체국은 일찍 문을 닫아요.",
+            "어제 우체국에서 친구를 만났어요."
+        ],
+        "correct_answer": 1,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 7,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "철수 씨, 한국말 실력이 정말 많이 늘었네요!",
+        "options": [
+            "아니요, 아직 많이 부족해요.",
+            "네, 한국말을 배우고 싶어요.",
+            "한국말은 정말 재미있어요.",
+            "내일부터 한국말을 가르칠게요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 8,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "날씨가 더운데 시원한 냉면 한 그릇 먹으러 갈까요?",
+        "options": [
+            "냉면은 여름에 인기가 많아요.",
+            "미안해요, 어제 냉면을 먹었어요.",
+            "아니요, 냉면이 아주 매워요.",
+            "좋아요, 저기 냉면 집으로 가요."
+        ],
+        "correct_answer": 3,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 9,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "지금 하시는 일이 힘들지 않으세요?",
+        "options": [
+            "일이 많아서 조금 힘들어요.",
+            "아니요, 내일은 일이 없어요.",
+            "네, 일을 열심히 하고 있어요.",
+            "일하는 곳이 아주 멀어요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 10,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "이 소포를 항공편으로 보내면 얼마나 걸릴까요?",
+        "options": [
+            "소포 안에 선물이 들어 있어요.",
+            "일주일 정도 걸릴 것 같아요.",
+            "우체국에 가서 소포를 보내세요.",
+            "항공편은 배편보다 비싸요."
+        ],
+        "correct_answer": 1,
+        "is_audio_question": true
+    }
+]

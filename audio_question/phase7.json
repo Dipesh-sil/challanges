@@ -1,0 +1,82 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "리한 씨, 분뇨 치우는 것 좀 도와줄래요?",
+    "options": ["네, 지금 바로 갈게요.", "분뇨가 아주 많아요.", "어제 분뇨를 치웠어요.", "아니요, 도와줄 수 없어요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 소포를 베트남으로 보내려고 하는데요.",
+    "options": ["베트남은 아주 덥습니다.", "우체국은 저기에 있습니다.", "안에 무엇이 들어 있습니까?", "배편은 시간이 오래 걸려요."],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "오늘 회식 장소가 어디인지 알아요?",
+    "options": ["네, 회사 앞 갈비집이에요.", "회식은 정말 즐거웠어요.", "아니요, 회식에 안 갈 거예요.", "사장님도 같이 가실 거예요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "공구함에 망치가 없는데 어디 있는지 알아요?",
+    "options": ["망치는 아주 무거워요.", "아까 반장님이 빌려 가셨어요.", "망치를 새로 사야겠어요.", "공구함은 저기에 있습니다."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "날씨가 흐린데 오늘 오후에 비가 올까요?",
+    "options": ["우산이 아주 예쁘네요.", "일기 예보에서 온다고 했어요.", "비가 와서 기분이 좋아요.", "어제는 날씨가 맑았어요."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이번 달 월급 명세서를 좀 볼 수 있을까요?",
+    "options": ["월급이 많이 올랐네요.", "네, 사무실에 가서 물어보세요.", "월급은 매달 25일에 나와요.", "아니요, 아직 안 받았습니다."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "한국에서는 어른께 어떻게 인사해야 해요?",
+    "options": ["인사는 아주 중요합니다.", "허리를 숙여서 인사해야 해요.", "어른을 만나서 반갑습니다.", "한국말을 잘하고 싶어요."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "지수 씨, 어제 동대문 시장에 왜 갔어요?",
+    "options": ["시장에 사람이 아주 많았어요.", "옷을 좀 사러 갔었어요.", "동대문 시장은 아주 넓어요.", "친구하고 같이 갔어요."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 기계는 어떻게 꺼야 합니까?",
+    "options": ["기계가 고장 난 것 같아요.", "빨간색 버튼을 누르면 돼요.", "기계를 끄지 마세요.", "전원을 연결해야 합니다."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "투안 씨, 한국 생활이 적응하기 힘들지 않아요?",
+    "options": ["한국 음식은 정말 매워요.", "처음에는 힘들었지만 지금은 괜찮아요.", "네, 한국에 가고 싶어요.", "아니요, 고향에 가고 싶어요."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이번 달 회의 일정이 어떻게 되나요?",
+    "options": ["회의실이 깨끗합니다.", "이번 주 금요일에 있습니다.", "회의가 너무 길어요.", "회의 자료를 복사했어요."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "도서관에서 몇 권까지 빌릴 수 있나요?",
+    "options": ["책이 많아요.", "한 번에 다섯 권까지 가능합니다.", "어제 갔어요.", "도서관이 가까워요."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "택시를 부르려면 어디로 전화해야 합니까?",
+    "options": ["전화번호 114에 문의하세요.", "택시가 빨리 옵니다.", "어제 탔어요.", "택시가 비싸요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "오늘 날씨가 좋으면 어디로 갈 거예요?",
+    "options": ["공원에 산책하러 갈 거예요.", "날씨가 흐려요.", "어제 갔어요.", "비가 많이 옵니다."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 가게는 몇 시까지 열려 있나요?",
+    "options": ["밤 9시까지 열려 있습니다.", "가게가 크네요.", "어제 문을 닫았어요.", "가게가 맛있어요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "영화를 보려면 티켓을 어디서 사야 하나요?",
+    "options": ["매표소에서 사세요.", "영화가 재미있어요.", "어제 봤어요.", "좌석이 편해요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "주말에 친구를 만나러 갈까요?",
+    "options": ["네, 같이 만나요.", "친구가 많아요.", "어제 만났어요.", "주말이 빨리 와요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 도로에서 차를 세워도 되나요?",
+    "options": ["아니요, 주차 금지입니다.", "도로가 넓습니다.", "차가 많아요.", "어제 세웠어요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "편의점에서 무엇을 살 수 있나요?",
+    "options": ["음료수와 간식을 살 수 있습니다.", "편의점이 작아요.", "어제 갔어요.", "상품이 많아요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이번 학기 수업은 몇 시에 시작합니까?",
+    "options": ["오전 9시에 시작합니다.", "수업이 길어요.", "어제 끝났어요.", "수업이 재미있어요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  }
+]

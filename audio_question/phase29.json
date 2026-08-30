@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 상자 좀 창고로 옮겨 주시겠어요?",
+    "options": [
+      "상자가 아주 큽니다.",
+      "네, 지금 바로 옮길게요.",
+      "어제 창고에 갔어요.",
+      "아니요, 창고가 좁아요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "여기서 사진을 찍어도 돼요?",
+    "options": [
+      "사진이 잘 나왔어요.",
+      "어제 사진을 찍었습니다.",
+      "네, 사진을 좋아해요.",
+      "아니요, 여기는 촬영 금지 구역이에요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "한국말을 공부한 지 얼마나 됐어요?",
+    "options": [
+      "반년 정도 되었습니다.",
+      "한국말이 재미있어요.",
+      "내일부터 공부할 거예요.",
+      "어제 학원에 갔어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이번 휴가 때 고향에 다녀올 거예요?",
+    "options": [
+      "고향은 아주 덥습니다.",
+      "어제 고향에서 왔어요.",
+      "네, 부모님 뵈러 갈 예정이에요.",
+      "아니요, 휴가가 짧아요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "위험하니까 기계 근처에 가까이 가지 마세요.",
+    "options": [
+      "기계가 아주 비싸요.",
+      "네, 주의하겠습니다.",
+      "어제 기계를 고쳤어요.",
+      "아니요, 기계가 멈췄어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "왜 어제 회식에 안 왔어요?",
+    "options": [
+      "회식은 즐거웠어요.",
+      "오늘 저녁에 회식해요.",
+      "어제 회식 장소에 갔어요.",
+      "갑자기 손님이 오셔서 못 갔어요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "지금 퇴근 시간인데 버스보다 지하철이 더 빠를까요?",
+    "options": [
+      "네, 차가 막히니까 지하철이 더 빠를 거예요.",
+      "버스가 아주 깨끗합니다.",
+      "어제 지하철을 탔어요.",
+      "아니요, 버스 요금이 싸요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "외국인 인력 지원 센터가 어디에 있는지 아세요?",
+    "options": [
+      "외국인 친구가 많습니다.",
+      "어제 센터에 다녀왔어요.",
+      "저기 사거리 오른쪽 건물 3층에 있어요.",
+      "센터에서 한국말을 배워요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 공구는 어디에 쓰는 물건이에요?",
+    "options": [
+      "공구가 아주 무겁습니다.",
+      "나사를 조일 때 쓰는 거예요.",
+      "어제 공구를 샀어요.",
+      "공구함에 넣어 두세요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "늦어서 죄송합니다. 많이 기다리셨지요?",
+    "options": [
+      "아니요, 저도 방금 왔어요. 괜찮아요.",
+      "네, 어제 많이 기다렸어요.",
+      "죄송하지만 다음에 만나요.",
+      "아니요, 기다리지 마세요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  }
+]

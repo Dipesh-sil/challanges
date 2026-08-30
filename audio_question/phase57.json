@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "요즘 서울 날씨는 어때요?",
+    "options": [
+      "오늘도 기분이 좋아요.",
+      "흐리고 비가 자주 와요.",
+      "요즘은 별로 안 바빠요.",
+      "서울은 교통이 복잡해요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "커피에 설탕을 넣어 드릴까요?",
+    "options": [
+      "아니요, 그냥 주세요.",
+      "아니요, 설탕이 없어요.",
+      "아니요, 커피로 주세요.",
+      "아니요, 한 잔만 마실 거예요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "피곤하세요?",
+    "options": [
+      "아니요, 안 피곤해요.",
+      "아니요, 가지 않아요.",
+      "아니요, 할 수 없어요.",
+      "아니요, 비가 안 와요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "어디를 다쳤어요?",
+    "options": [
+      "사무실에 갔어요.",
+      "다리를 다쳤어요.",
+      "창문을 닫았어요.",
+      "종이를 다 썼어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "약을 드시는군요. 어디 아프세요?",
+    "options": [
+      "배가 고파요.",
+      "약국에서 샀어요.",
+      "감기에 걸렸어요.",
+      "요즘 아주 바빠요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 음식이 매워요?",
+    "options": [
+      "아니요, 안 먹었어요.",
+      "아니요, 맵지 않아요.",
+      "아니요, 맛이 없어요.",
+      "아니요, 별로 좋아하지 않아요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 음식 맛이 어때요?",
+    "options": [
+      "조금 매워요.",
+      "저한테 조금 작아요.",
+      "여기서 먹을 거예요.",
+      "요즘은 날마다 바빠요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "여기서 드실 거예요?",
+    "options": [
+      "아니요, 잘 먹었어요.",
+      "아니요, 안 먹어 봤어요.",
+      "아니요, 가지고 갈 거예요.",
+      "아니요, 여기서 먹을 거예요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "후식은 뭐로 하시겠습니까?",
+    "options": [
+      "커피를 주세요.",
+      "식사 후에 먹어요.",
+      "식당에 가겠습니다.",
+      "소고기로 만들어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "반찬을 더 드릴까요?",
+    "options": [
+      "아니요, 됐어요.",
+      "아니요, 제가 살게요.",
+      "아니요, 무겁지 않아요.",
+      "아니요, 반찬이 맛있어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  }
+]

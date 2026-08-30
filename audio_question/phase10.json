@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "오늘 작업은 몇 시에 끝나요?",
+    "options": [
+      "작업이 아주 힘들어요.",
+      "다섯 시에 끝나요.",
+      "어제 일찍 끝났어요.",
+      "작업장이 넓어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 서류는 어디에 제출하면 돼요?",
+    "options": [
+      "서류를 복사했어요.",
+      "사무실 책상 위에 있어요.",
+      "사무실에 제출하세요.",
+      "서류가 너무 많아요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "기숙사까지 어떻게 가요?",
+    "options": [
+      "기숙사가 깨끗해요.",
+      "버스를 타고 가세요.",
+      "어제 걸어갔어요.",
+      "기숙사에 살아요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "왜 안전모를 안 쓰셨어요?",
+    "options": [
+      "안전모가 노란색이에요.",
+      "지금 바로 쓰겠습니다.",
+      "어제 썼어요.",
+      "안전모를 샀어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "내일 비가 온다니까 우산을 챙기세요.",
+    "options": [
+      "우산이 고장 났어요.",
+      "네, 챙기겠습니다.",
+      "비가 아주 많이 와요.",
+      "우산을 잃어버렸어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "점심은 이미 드셨어요?",
+    "options": [
+      "네, 방금 먹었어요.",
+      "점심이 맛있어요.",
+      "내일 먹을 거예요.",
+      "식당이 저기 있어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 기계는 어떻게 작동해요?",
+    "options": [
+      "기계가 오래됐어요.",
+      "전원을 먼저 켜세요.",
+      "어제 고장 났어요.",
+      "기계를 옮기세요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이번 주말에 근무해야 합니까?",
+    "options": [
+      "주말이 빨리 와요.",
+      "근무가 힘들어요.",
+      "아니요, 쉬셔도 됩니다.",
+      "어제 근무했어요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "작업복이 더러워졌는데 갈아입어도 될까요?",
+    "options": [
+      "작업복이 편해요.",
+      "어제 갈아입었어요.",
+      "네, 새 작업복으로 갈아입으세요.",
+      "작업복이 비싸요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "회의는 어디에서 합니까?",
+    "options": [
+      "회의가 길어요.",
+      "회의실에서 합니다.",
+      "어제 회의했어요.",
+      "회의 자료예요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  }
+]

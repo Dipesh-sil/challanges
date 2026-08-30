@@ -1,0 +1,282 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q1.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "집을 알아보다",
+      "계약서를 쓰다",
+      "이사를 가다",
+      "짐을 풀다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 2,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q2.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "은행에 가다",
+      "회사에 가다",
+      "부동산에 가다",
+      "병원에 가다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 3,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q3.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "짐을 싸다",
+      "집을 보다",
+      "가구를 사다",
+      "청소하다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 4,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q4.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "이사하다",
+      "이야기하다",
+      "쉬다",
+      "계약하다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 5,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q5.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "계약하다",
+      "이사하다",
+      "청소하다",
+      "운전하다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 6,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q6.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "좁다",
+      "높다",
+      "넓다",
+      "깊다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 7,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q7.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "시끄럽다",
+      "깨끗하다",
+      "더럽다",
+      "조용하다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 8,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q8.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "좁다",
+      "넓다",
+      "크다",
+      "작다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 9,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q9.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "짐을 싸다",
+      "숙소를 찾다",
+      "지도를 보다",
+      "표를 사다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 10,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q10.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "숙소를 예약하고 있습니다",
+      "기차표를 예약하고 있습니다",
+      "비행기표를 예약하고 있습니다",
+      "식당을 예약하고 있습니다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 11,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q11.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "짐을 싸고 있습니다",
+      "청소하고 있습니다",
+      "요리하고 있습니다",
+      "짐을 풀고 있습니다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 12,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q12.jpg",
+    "audio_script": "이곳은 어디입니까?",
+    "option_type": "audio",
+    "options": [
+      "바다입니다",
+      "강입니다",
+      "산입니다",
+      "공원입니다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 13,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q13.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "짐을 풀고 있습니디",
+      "짐을 싸고 있습니디",
+      "청소하고 있습니디",
+      "요리하고 있습니디"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 14,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q14.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "묵다",
+      "먹다",
+      "놀다",
+      "쉬다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 15,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q15.jpg",
+    "audio_script": "이곳은 어디입니까?",
+    "option_type": "audio",
+    "options": [
+      "바다입니다",
+      "강입니다",
+      "섬입니다",
+      "호수입니다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 16,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q16.jpg",
+    "audio_script": "이곳은 어디입니까?",
+    "option_type": "audio",
+    "options": [
+      "박물관입니디",
+      "미술관입니디",
+      "유적지입니디",
+      "도서관입니디"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 17,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q17.jpg",
+    "audio_script": "이곳은 어디입니까?",
+    "option_type": "audio",
+    "options": [
+      "식물원입니다",
+      "놀이공원입니다",
+      "동물원입니다",
+      "수영장입니다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 18,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q18.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "등산하다",
+      "캠핑하다",
+      "수영하다",
+      "낚시하다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 19,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q19.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "관람하다",
+      "구경하다",
+      "독서하다",
+      "쉬다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 20,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q20.jpg",
+    "audio_script": "이곳은 어디입니까?",
+    "option_type": "audio",
+    "options": [
+      "박물관입니다",
+      "미술관입니다",
+      "민속촌입니다",
+      "기념관입니다"
+    ],
+    "correct_answer": 2
+  }
+]

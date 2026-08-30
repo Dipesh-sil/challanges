@@ -1,0 +1,145 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "유리",
+    "option_type": "text",
+    "options": [
+      "오리",
+      "요리",
+      "우리",
+      "유리"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 2,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "가방 뒤에 놓았어요.",
+    "option_type": "text",
+    "options": [
+      "가방 뒤에 넣었어요.",
+      "가방 뒤에 놓았어요.",
+      "가방 위에 넣었어요.",
+      "가방 위에 놓았어요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 3,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "간장",
+    "option_type": "text",
+    "options": [
+      "간장",
+      "당장",
+      "단정",
+      "동정"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 4,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "공원 앞에 살아요.",
+    "option_type": "text",
+    "options": [
+      "공원 옆에 살아요.",
+      "공원 앞에 살아요.",
+      "공장 옆에 살아요.",
+      "공장 앞에 살아요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 5,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "냉방",
+    "option_type": "text",
+    "options": [
+      "난방",
+      "난장",
+      "냉방",
+      "냉장"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 6,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "숟가락을 닦으세요.",
+    "option_type": "text",
+    "options": [
+      "손가락을 닦으세요.",
+      "손가락을 담그세요.",
+      "숟가락을 담그세요.",
+      "숟가락을 닦으세요."
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 7,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "편지",
+    "option_type": "text",
+    "options": [
+      "한지",
+      "편지",
+      "반지",
+      "먼지"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 8,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "공을 받아요.",
+    "option_type": "text",
+    "options": [
+      "공을 받아요.",
+      "감을 밟아요.",
+      "감을 받아요.",
+      "공을 밟아요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 9,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "대상",
+    "option_type": "text",
+    "options": [
+      "세상",
+      "배상",
+      "대상",
+      "해상"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 10,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "무료",
+    "option_type": "text",
+    "options": [
+      "수료",
+      "자료",
+      "무료",
+      "사료"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 11,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "종이를 접지 마세요.",
+    "option_type": "text",
+    "options": [
+      "종이를 잡지 마세요.",
+      "종이를 접지 마세요.",
+      "종이를 줍지 마세요.",
+      "송이를 접지 마세요."
+    ],
+    "correct_answer": 1
+  }
+]

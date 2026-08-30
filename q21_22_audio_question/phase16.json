@@ -1,0 +1,158 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "구멍",
+    "option_type": "text",
+    "options": [
+      "구멍",
+      "구름",
+      "고무",
+      "구두"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 2,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "창문을 닫았어요.",
+    "option_type": "text",
+    "options": [
+      "창문을 열었어요.",
+      "방문을 닫았어요.",
+      "창문을 닫았어요.",
+      "방문을 열었어요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 3,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "보안경",
+    "option_type": "text",
+    "options": [
+      "보안면",
+      "보안경",
+      "안전모",
+      "안전화"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 4,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "기계 뒤쪽에 놓으세요.",
+    "option_type": "text",
+    "options": [
+      "기계 앞쪽에 놓으세요.",
+      "기계 위쪽에 놓으세요.",
+      "기계 뒤쪽에 놓으세요.",
+      "트럭 뒤쪽에 놓으세요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 5,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "그라인더",
+    "option_type": "text",
+    "options": [
+      "용접기",
+      "절단기",
+      "그라인더",
+      "드릴"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 6,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "밸브를 돌리세요.",
+    "option_type": "text",
+    "options": [
+      "밸브를 돌리세요.",
+      "밸브를 잠그세요.",
+      "볼트를 돌리세요.",
+      "볼트를 푸세요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 7,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "줄자",
+    "option_type": "text",
+    "options": [
+      "상자",
+      "줄자",
+      "의자",
+      "모자"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 8,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "페인트를 섞었어요.",
+    "option_type": "text",
+    "options": [
+      "페인트를 칠했어요.",
+      "시멘트를 섞었어요.",
+      "페인트를 섞었어요.",
+      "시멘트를 발랐어요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 9,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "통발",
+    "option_type": "text",
+    "options": [
+      "통발",
+      "그물",
+      "집어등",
+      "닻"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 10,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "포장지를 뜯지 마세요.",
+    "option_type": "text",
+    "options": [
+      "포장지를 뜯지 마세요.",
+      "포장지를 붙이지 마세요.",
+      "신문지를 뜯지 마세요.",
+      "포장지를 버리지 마세요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 11,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "용접봉",
+    "option_type": "text",
+    "options": [
+      "용접기",
+      "용접봉",
+      "용접면",
+      "토치램프"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 12,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "무게를 재어 보세요.",
+    "option_type": "text",
+    "options": [
+      "길이를 재어 보세요.",
+      "부피를 재어 보세요.",
+      "무게를 실어 보세요.",
+      "무게를 재어 보세요."
+    ],
+    "correct_answer": 3
+  }
+]

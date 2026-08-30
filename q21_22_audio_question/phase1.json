@@ -1,0 +1,262 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "마당",
+    "option_type": "text",
+    "options": [
+      "마늘",
+      "마리",
+      "마당",
+      "막내"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 2,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "김밥을 먹어요.",
+    "option_type": "text",
+    "options": [
+      "김밥을 먹어요.",
+      "나물을 먹어요.",
+      "라면을 먹어요.",
+      "날마다 밥을 먹어요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 3,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "여기는 강남구 논현로 134번지예요.",
+    "option_type": "text",
+    "options": [
+      "여기는 강남구 논현로 134번지예요.",
+      "여기는 강남구 논현로 233번지예요.",
+      "여기는 관악구 논현로 133번지예요.",
+      "여기는 관악구 논현로 233번지예요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 4,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "소주",
+    "option_type": "text",
+    "options": [
+      "주스",
+      "소주",
+      "주시",
+      "소수"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 5,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "공장 앞에 있어요.",
+    "option_type": "text",
+    "options": [
+      "공장 안에 있어요.",
+      "공장 위에 있어요.",
+      "공장 앞에 있어요.",
+      "공장 왼쪽에 있어요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 6,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "짝",
+    "option_type": "text",
+    "options": [
+      "쪽",
+      "쩍",
+      "짝",
+      "찍"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 7,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "일한 지 3년이 되었어요.",
+    "option_type": "text",
+    "options": [
+      "일한 지 3년이 되었어요.",
+      "일한 지 9년이 되었어요.",
+      "일한 지 5년이 되었어요.",
+      "일한 지 12년이 되었어요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 8,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "씻어요.",
+    "option_type": "text",
+    "options": [
+      "쓸어요.",
+      "씻어요.",
+      "싫어요.",
+      "살아요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 9,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "교육",
+    "option_type": "text",
+    "options": [
+      "교환",
+      "교육",
+      "공원",
+      "고용"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 10,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "꽃을 21송이 샀어요.",
+    "option_type": "text",
+    "options": [
+      "꽃을 20송이 샀어요.",
+      "꽃을 22송이 샀어요.",
+      "꽃을 21송이 샀어요.",
+      "꽃을 30송이 샀어요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 11,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "5,000원짜리로 주세요.",
+    "option_type": "text",
+    "options": [
+      "50,000원짜리로 주세요.",
+      "5,500원짜리로 주세요.",
+      "5,000원짜리로 주세요.",
+      "51,500원짜리로 주세요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 12,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "비누",
+    "option_type": "text",
+    "options": [
+      "누구",
+      "누나",
+      "비누",
+      "누이"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 13,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "공장",
+    "option_type": "text",
+    "options": [
+      "공장",
+      "고장",
+      "극장",
+      "공지"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 14,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "라면을 끓였어요.",
+    "option_type": "text",
+    "options": [
+      "라면을 끓였어요.",
+      "라면이 끓었어요.",
+      "나물을 끓였어요.",
+      "라면을 버렸어요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 15,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "이거 받으세요.",
+    "option_type": "text",
+    "options": [
+      "이거 받으세요.",
+      "이거 바꾸세요.",
+      "이거 잡으세요.",
+      "이거 닫으세요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 16,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "고향",
+    "option_type": "text",
+    "options": [
+      "공항",
+      "고용",
+      "고형",
+      "고향"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 17,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "차이",
+    "option_type": "text",
+    "options": [
+      "나이",
+      "자이",
+      "차이",
+      "아이"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 18,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "제 방은 306호예요.",
+    "option_type": "text",
+    "options": [
+      "제 방은 106호예요.",
+      "제 방은 206호예요.",
+      "제 방은 306호예요.",
+      "제 방은 506호예요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 19,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "주차",
+    "option_type": "text",
+    "options": [
+      "주스",
+      "주소",
+      "주차",
+      "주사"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 20,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "아빠",
+    "option_type": "text",
+    "options": [
+      "아빠",
+      "아까",
+      "아마",
+      "앞에"
+    ],
+    "correct_answer": 0
+  }
+]

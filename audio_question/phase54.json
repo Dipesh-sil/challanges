@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "지금 살고 있는 곳이 어디예요?",
+    "options": [
+      "오른쪽으로 가세요.",
+      "시장에서 사면 싸요.",
+      "1층에서 기다렸어요.",
+      "서울에서 살고 있어요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "뭘 마시겠어요?",
+    "options": [
+      "제가 만들겠어요.",
+      "주스를 마시겠어요.",
+      "식당에서 먹겠어요.",
+      "한국말을 배우겠어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "그 잡지를 어디에서 사셨어요?",
+    "options": [
+      "한 권에 5,000원입니다.",
+      "잡지와 신문을 읽었습니다.",
+      "집 근처 책방에서 샀습니다.",
+      "책을 빌리러 도서관에 갔습니다."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 바지가 많이 커요?",
+    "options": [
+      "네, 바지를 많이 샀어요.",
+      "네, 바지가 아주 작군요.",
+      "네, 너무 커서 못 입겠어요.",
+      "네, 이 바지는 아주 비싸요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 구두 좀 신어 봐도 돼요?",
+    "options": [
+      "네, 좀 봤어요.",
+      "네, 써도 돼요.",
+      "네, 신어 보세요.",
+      "네, 찍어 드릴게요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "여기가 김영수 씨 댁 맞지요? 네, 그런데요, 누구시죠?",
+    "options": [
+      "친구하고 같이 삽니다.",
+      "들어오셔도 괜찮습니다.",
+      "택배 회사에서 왔습니다.",
+      "김영수 씨 지금 안 계신데요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "아줌마, 여기서 전화 카드 팔아요?",
+    "options": [
+      "아니요, 카드는 안 돼요.",
+      "아니요, 현금으로 낼게요.",
+      "아니요, 5,000원에 팔아요.",
+      "아니요, 전화카드는 안 팔아요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "감기는 다 나았어요?",
+    "options": [
+      "아니요, 건강해요.",
+      "아니요, 아직 아파요.",
+      "아니요, 벌써 나갔어요.",
+      "아니요, 아무도 없어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "영화 표가 한 장에 얼마예요?",
+    "options": [
+      "두 장 주세요.",
+      "7,000원이에요.",
+      "영화가 재미있어요.",
+      "어제 친구랑 봤어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "귤을 얼마나 드릴까요?",
+    "options": [
+      "5개 먹었어요.",
+      "5,000원어치 주세요.",
+      "1시간 동안 들었어요.",
+      "달고 맛있는 걸로 주세요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  }
+]

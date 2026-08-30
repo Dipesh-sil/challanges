@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "언제 만날까요?",
+    "options": [
+      "친구를 만날 거예요.",
+      "이번 토요일에 만나요.",
+      "작년에 한국에 왔어요.",
+      "한국 식당에서 먹어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "언제 한국에 오셨어요?",
+    "options": [
+      "열 시쯤 갔어요.",
+      "백화점에 갔어요.",
+      "비행기로 왔어요.",
+      "지난달에 왔어요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "주말에는 보통 뭘 하세요?",
+    "options": [
+      "중국에서 왔어요.",
+      "한국말을 배워요.",
+      "기숙사에서 살아요.",
+      "회사에 걸어서 가요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "한국에 가고 싶어요?",
+    "options": [
+      "네, 가고 싶어요.",
+      "네, 가기 싫어요.",
+      "네, 가지 않아요.",
+      "네, 갈 수 없어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "학교를 졸업한 후에 무슨 일을 할 거예요?",
+    "options": [
+      "다른 친구하고 약속을 했어요.",
+      "가구 만드는 일을 배우고 싶어요.",
+      "이번 토요일에 졸업식을 할 거예요.",
+      "학교에서 아이들을 가르치고 있어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "언제 극장에 갈 거예요?",
+    "options": [
+      "극장에 갔어요.",
+      "친구하고 가요.",
+      "내일 갈 거예요.",
+      "영화가 재미있어요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "언제 동대문 시장에 가요?",
+    "options": [
+      "집에 있어요.",
+      "주말에 가요.",
+      "식당에서 일해요.",
+      "옷을 사려고 해요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "지수 씨는 취미가 뭐예요?",
+    "options": [
+      "저것은 제 가방이에요.",
+      "저기가 우리 회사예요.",
+      "저는 태국에서 왔어요.",
+      "저는 음악 듣는 것을 좋아해요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "한국에서 무엇을 하고 싶어요?",
+    "options": [
+      "서울에 갔어요.",
+      "일을 하고 싶어요.",
+      "한국말을 배웠어요.",
+      "한국에서 살고 있어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "한국에 왜 왔습니까?",
+    "options": [
+      "일을 하려고 왔습니다.",
+      "한국 친구가 없습니다.",
+      "캄보디아에서 왔습니다.",
+      "비행기를 타려고 합니다."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  }
+]

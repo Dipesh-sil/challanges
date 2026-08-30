@@ -1,0 +1,282 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q1.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "짜다",
+      "싱겁다",
+      "쓰다",
+      "맵다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 2,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q2.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "달다",
+      "시다",
+      "맵다",
+      "짜다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 3,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q3.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "끓이다",
+      "볶다",
+      "튀기다",
+      "굽다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 4,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q4.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "튀기다",
+      "끓이다",
+      "볶다",
+      "찌다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 5,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q5.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "튀기다",
+      "끓이다",
+      "굽다",
+      "볶다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 6,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q6.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "굽다",
+      "튀기다",
+      "끓이다",
+      "볶다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 7,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q7.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "튀기다",
+      "끓이다",
+      "볶다",
+      "찌다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 8,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q8.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "인터넷",
+      "컴퓨터",
+      "웹사이트",
+      "데이터"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 9,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q9.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "편지",
+      "이메일",
+      "문자",
+      "채팅"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 10,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q10.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "전화",
+      "문자",
+      "채팅",
+      "편지"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 11,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q11.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "일반 채팅",
+      "전화 통화",
+      "음성 통화",
+      "화상 채팅"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 12,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q12.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "스마트폰",
+      "태블릿",
+      "노트북",
+      "컴퓨터"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 13,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q13.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "운영체제",
+      "소프트웨어",
+      "하드웨어",
+      "애플리케이션"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 14,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q14.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "이메일",
+      "소셜 미디어",
+      "모바일 메신저",
+      "문자 메시지"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 15,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q15.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "이모티콘",
+      "아이콘",
+      "사진",
+      "동영상"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 16,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q16.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "데이터",
+      "와이파이",
+      "블루투스",
+      "유선"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 17,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q17.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "게시물을 올리다",
+      "사진을 찍다",
+      "댓글을 달다",
+      "영상을 보다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 18,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q18.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "메시지를 확인하다",
+      "메시지를 보내다",
+      "전화를 걸다",
+      "이메일을 쓰다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 19,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q19.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "메시지를 확인하다",
+      "전화를 받다",
+      "사진을 찍다",
+      "메시지를 보내다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 20,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q20.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "업로드하다",
+      "다운로드하다",
+      "설치하다",
+      "삭제하다"
+    ],
+    "correct_answer": 1
+  }
+]

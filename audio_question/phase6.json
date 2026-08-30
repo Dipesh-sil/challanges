@@ -1,0 +1,132 @@
+[
+    {
+        "q_id": 1,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "리한 씨, 오늘 일 다 끝냈어요?",
+        "options": [
+            "네, 거의 다 끝났어요.",
+            "내일 일찍 시작할게요.",
+            "일이 너무 많아서 힘들어요.",
+            "아니요, 어제 다 끝냈어요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 2,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "이 드라이버 좀 빌려주세요.",
+        "options": [
+            "네, 여기 있습니다.",
+            "드라이버가 아주 낡았네요.",
+            "공구함에 넣어 두세요.",
+            "어제 시장에서 샀어요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 3,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "주말에 영화를 보러 가고 싶은데 시간이 어때요?",
+        "options": [
+            "영화가 정말 슬펐어요.",
+            "일요일 오후면 괜찮아요.",
+            "저는 액션 영화를 좋아해요.",
+            "극장에 사람이 아주 많아요."
+        ],
+        "correct_answer": 1,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 4,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "공장에서 장갑을 꼭 껴야 해요?",
+        "options": [
+            "네, 장갑이 아주 깨끗해요.",
+            "아니요, 장갑을 안 샀어요.",
+            "네, 손을 다칠 수 있으니까요.",
+            "장갑은 휴게실에 있습니다."
+        ],
+        "correct_answer": 2,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 5,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "지금 사무실에 사장님이 계세요?",
+        "options": [
+            "네, 아까 사장님을 만났어요.",
+            "아니요, 잠깐 나갔다 오신대요.",
+            "사장님은 아주 친절한 분이에요.",
+            "사무실은 건물 3층에 있어요."
+        ],
+        "correct_answer": 1,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 6,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "이번 여행은 어디로 가기로 했어요?",
+        "options": [
+            "제주도로 가기로 했어요.",
+            "친구하고 같이 갈 거예요.",
+            "여행 가방을 준비하세요.",
+            "비행기 표가 아주 비싸요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 7,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "지수 씨, 어제 축구 경기가 어땠어요?",
+        "options": [
+            "우리 팀이 이겨서 정말 좋았어요.",
+            "저는 축구보다 야구를 좋아해요.",
+            "내일 축구 경기를 할 거예요.",
+            "축구장 입구에서 만나요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 8,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "한국 사람들은 명절에 보통 뭘 해요?",
+        "options": [
+            "떡국을 먹거나 세배를 해요.",
+            "명절은 일 년에 두 번 있어요.",
+            "명절에는 차가 많이 막혀요.",
+            "이번 명절은 월요일이에요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 9,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "감기에 걸려서 몸이 안 좋은데 어떻게 하죠?",
+        "options": [
+            "약을 먹고 푹 쉬는 게 좋겠어요.",
+            "병원 위치를 잘 몰라요.",
+            "감기 조심하세요.",
+            "어제부터 날씨가 추워졌어요."
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    },
+    {
+        "q_id": 10,
+        "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+        "audio_script": "작업장 정리가 잘 되어 있네요!",
+        "options": [
+            "네, 아침에 청소했습니다.",
+            "작업을 빨리 끝내야 해요.",
+            "작업장이 조금 좁습니다.",
+            "정리 도구가 어디에 있어요?"
+        ],
+        "correct_answer": 0,
+        "is_audio_question": true
+    }
+]

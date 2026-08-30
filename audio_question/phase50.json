@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "다른 나라에 여행 가 본 적이 있어요?",
+    "options": [
+      "아니요, 외국 사람이에요.",
+      "아니요, 이번이 처음이에요.",
+      "아니요, 작년에 갔다 왔어요.",
+      "아니요, 한국에 간 적이 있어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "내일 친구랑 어디 갈 거예요?",
+    "options": [
+      "빵을 사러 갔어요.",
+      "내일 만날 거예요.",
+      "도서관에 갈 거예요.",
+      "친구를 만나려고 해요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이번 주말에 뭐 할 거예요?",
+    "options": [
+      "아주 바빴어요.",
+      "열심히 일했어요.",
+      "집에서 쉬고 있어요.",
+      "영화를 보러 갈 거예요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "주말에 무슨 운동을 하세요?",
+    "options": [
+      "축구를 해요.",
+      "운동장에 가요.",
+      "버스를 운전해요.",
+      "김치를 좋아해요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이번 여름 휴가 때 뭐 할 거예요?",
+    "options": [
+      "날씨가 더울 것 같아요.",
+      "가족하고 같이 갈 거예요.",
+      "여름 휴가는 일주일이에요.",
+      "외국으로 여행을 가려고 해요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "무슨 운동을 좋아해요?",
+    "options": [
+      "아침마다 운동해요.",
+      "운동은 다 좋아해요.",
+      "운전은 할 줄 몰라요.",
+      "뭐든지 다 잘 먹어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "오늘 일이 끝나고 뭘 할 거예요?",
+    "options": [
+      "내일 갈 거예요.",
+      "오늘 가고 싶어요.",
+      "8시에 일이 끝나요.",
+      "집에 가서 쉬려고 해요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "일요일에 뭐 하고 싶어요?",
+    "options": [
+      "회사에서 일했어요.",
+      "일요일에 만날 거예요.",
+      "등산을 갔으면 좋겠어요.",
+      "동생하고 같이 가고 싶어요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "생일에 무슨 선물을 받고 싶어요?",
+    "options": [
+      "꽃을 사 주려고 해요.",
+      "오늘이 제 생일이에요.",
+      "생일 선물로 받은 거예요.",
+      "시계를 받았으면 좋겠어요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "제 취미는 독서예요. 영수 씨 취미는 뭐예요?",
+    "options": [
+      "저는 대학생이에요.",
+      "저는 은행에서 일해요.",
+      "저는 책방에 갈 거예요.",
+      "저는 영화 보는 것을 좋아해요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  }
+]

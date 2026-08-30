@@ -1,0 +1,119 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "고기를 더 시킬까요?",
+    "options": [
+      "아니요, 더 시킵시다.",
+      "아니요, 가지 마세요.",
+      "아니요, 고기를 먹읍시다.",
+      "아니요, 더 시키지 마세요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "불고기 몇 인분 드릴까요?",
+    "options": [
+      "세 분입니다.",
+      "삼 인분 주세요.",
+      "세 개 받습니다.",
+      "삼 인분 드립니다."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "그 운동화를 어디에서 샀어요?",
+    "options": [
+      "어제 샀어요.",
+      "시장에서 샀어요.",
+      "아침에 운동해요.",
+      "친구하고 갔어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "모두 4만 원입니다. 계산은 무엇으로 하시겠습니까?",
+    "options": [
+      "현금을 내겠습니다.",
+      "운동화를 사겠습니다.",
+      "버스 타고 가겠습니다.",
+      "한국 음식으로 하겠습니다."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "무엇을 먹고 싶어요?",
+    "options": [
+      "한국말을 배워요.",
+      "시장에서 샀어요.",
+      "불고기를 먹고 싶어요.",
+      "한국에서 살고 있어요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "새 휴대폰을 사고 싶어요?",
+    "options": [
+      "네, 전화하고 있어요.",
+      "네, 새 걸 사고 싶어요.",
+      "네, 그게 제 휴대폰이에요.",
+      "네, 휴대폰이 세 대 있어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "어제 잃어버린 가방이 무슨 색이에요?",
+    "options": [
+      "까만색이에요.",
+      "제 가방이에요.",
+      "책이 들어 있어요.",
+      "버스에서 잃어버렸어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "지금 중국의 날씨는 어때요?",
+    "options": [
+      "중국에서 왔어요.",
+      "잘 지내고 있어요.",
+      "비가 내리고 있어요.",
+      "중국 생활이 힘들어요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "오늘은 바람도 불고 날씨가 꽤 춥네요. 내일은 어떨까요?",
+    "options": [
+      "어제는 아주 추웠어요.",
+      "오늘은 날씨가 좋군요.",
+      "내일은 더 추울 거예요.",
+      "요즘 날씨는 안 추워요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  }
+]

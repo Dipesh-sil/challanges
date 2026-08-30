@@ -1,0 +1,275 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "잎이 많아요.",
+    "option_type": "text",
+    "options": [
+      "입에 맞아요.",
+      "앞에 있어요.",
+      "잎이 많아요.",
+      "옷에 묻어요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 2,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "손을 씻으세요.",
+    "option_type": "text",
+    "options": [
+      "손을 씻으세요.",
+      "신을 신으세요.",
+      "짐을 실으세요.",
+      "문을 닫으세요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 3,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "창문이 닫혔어요.",
+    "option_type": "text",
+    "options": [
+      "창문이 닫혔어요.",
+      "충분히 마셨어요.",
+      "주문이 밀렸어요.",
+      "직원이 다쳤어요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 4,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "안녕히 가세요.",
+    "option_type": "text",
+    "options": [
+      "안에 계세요.",
+      "안으로 가세요.",
+      "안녕히 가세요.",
+      "안녕히 계세요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 5,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "사람들이 없습니다.",
+    "option_type": "text",
+    "options": [
+      "사람들이 웃습니다.",
+      "사람들이 없습니다.",
+      "사람들이 있습니다.",
+      "사람들이 갔습니다."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 6,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "지갑을 잃어버렸어요.",
+    "option_type": "text",
+    "options": [
+      "시간을 잊어버렸어요.",
+      "지갑을 잃어버렸어요.",
+      "작아진 옷을 버렸어요.",
+      "집 살 돈을 벌었어요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 7,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "시간이 없는데요.",
+    "option_type": "text",
+    "options": [
+      "지금은 없는데요.",
+      "관심이 없는데요.",
+      "시간이 없는데요.",
+      "계산이 맞는데요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 8,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "이 옷이 따뜻합니다.",
+    "option_type": "text",
+    "options": [
+      "이 옷이 딱딱합니다.",
+      "이 옷이 따뜻합니다.",
+      "이 옷이 따갑습니다.",
+      "이 옷이 두껍습니다."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 9,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "상자가 있어요.",
+    "option_type": "text",
+    "options": [
+      "사과가 있어요.",
+      "사자가 있어요.",
+      "선거가 있어요.",
+      "상자가 있어요."
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 10,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "집에서 쉽니다.",
+    "option_type": "text",
+    "options": [
+      "집에서 잡니다.",
+      "집에서 씁니다.",
+      "집에서 삽니다.",
+      "집에서 쉽니다."
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 11,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "어떻게 가요?",
+    "option_type": "text",
+    "options": [
+      "이렇게 해요?",
+      "어디에 가요?",
+      "어떻게 가요?",
+      "앞으로 가요?"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 12,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "사진을 찍어요.",
+    "option_type": "text",
+    "options": [
+      "사전을 찾아요.",
+      "사진을 찍어요.",
+      "자신을 믿어요.",
+      "제 손을 잡아요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 13,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "자리에 앉았습니다.",
+    "option_type": "text",
+    "options": [
+      "점심을 먹었습니다.",
+      "자리에 앉았습니다.",
+      "청소하지 않습니다.",
+      "좋아하지 않습니다."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 14,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "월급을 받았습니다.",
+    "option_type": "text",
+    "options": [
+      "건물을 지었습니다.",
+      "얼굴을 닦았습니다.",
+      "거울을 보았습니다.",
+      "월급을 받았습니다."
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 15,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "사랑합니다.",
+    "option_type": "text",
+    "options": [
+      "설명합니다.",
+      "사랑합니다.",
+      "싫어합니다.",
+      "슬퍼합니다."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 16,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "지하철이 깨끗해요.",
+    "option_type": "text",
+    "options": [
+      "지하실이 깜깜해요.",
+      "지하철이 깨끗해요.",
+      "가을철이 되었어요.",
+      "지하철이 가까워요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 17,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "음식을 만들어요.",
+    "option_type": "text",
+    "options": [
+      "음식을 만들어요.",
+      "음식이 맛있어요.",
+      "의자에 앉으세요.",
+      "음악을 안 들어요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 18,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "질문이 있습니다.",
+    "option_type": "text",
+    "options": [
+      "신문을 읽습니다.",
+      "시간이 있습니다.",
+      "질문이 있습니다.",
+      "치마를 입습니다."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 19,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "제 옆에 있어요.",
+    "option_type": "text",
+    "options": [
+      "저녁에 있어요.",
+      "제 옆에 있어요.",
+      "저 역에 있어요.",
+      "처음 뵙겠어요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 20,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "지금 없는데요.",
+    "option_type": "text",
+    "options": [
+      "조금 먹는데요.",
+      "가끔 오는데요.",
+      "지금 없는데요.",
+      "자주 읽는데요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 21,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "아이가 웃습니다.",
+    "option_type": "text",
+    "options": [
+      "아이가 웃습니다.",
+      "아이가 없습니다.",
+      "아이가 있습니다.",
+      "아이가 읽습니다."
+    ],
+    "correct_answer": 0
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "과제",
+    "option_type": "text",
+    "options": [
+      "과수",
+      "계좌",
+      "과자",
+      "과제"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 2,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "문을 닫았어요.",
+    "option_type": "text",
+    "options": [
+      "창문을 돌렸어요.",
+      "문이 달랐어요.",
+      "창문을 달았어요.",
+      "문을 닫았어요."
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 3,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "수영",
+    "option_type": "text",
+    "options": [
+      "사용",
+      "소용",
+      "수영",
+      "수용"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 4,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "오늘은 3시 30분에 퇴근해요.",
+    "option_type": "text",
+    "options": [
+      "오늘은 4시 30분에 퇴근해요.",
+      "오늘은 3시 30분에 퇴근해요.",
+      "오늘은 4시 40분에 퇴근해요.",
+      "오늘은 3시 40분에 퇴근해요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 5,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "가지",
+    "option_type": "text",
+    "options": [
+      "가지",
+      "거지",
+      "고지",
+      "귀지"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 6,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "제비",
+    "option_type": "text",
+    "options": [
+      "재배",
+      "제비",
+      "세배",
+      "재해"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 7,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "한번 입어 보세요.",
+    "option_type": "text",
+    "options": [
+      "한번 읽어 보세요.",
+      "한번 업어 보세요.",
+      "한번 입어 보세요.",
+      "한번 입혀 보세요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 8,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "전화번호를 잊어버렸어요.",
+    "option_type": "text",
+    "options": [
+      "전화번호를 잃어버렸어요.",
+      "전화번호를 잊어버렸어요.",
+      "전화번호를 읽어 버렸어요.",
+      "전화번호를 없애 버렸어요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 9,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "포장",
+    "option_type": "text",
+    "options": [
+      "공장",
+      "포장",
+      "조장",
+      "소장"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 10,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "생일이 12월 21일입니다.",
+    "option_type": "text",
+    "options": [
+      "생일이 1월 12일입니다.",
+      "생일이 1월 21일입니다.",
+      "생일이 12월 12일입니다.",
+      "생일이 12월 21일입니다."
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 11,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "한번에 12명만 왔어요.",
+    "option_type": "text",
+    "options": [
+      "한 반에 12명만 왔어요.",
+      "한 반에 11명만 왔어요.",
+      "한번에 12명만 왔어요.",
+      "한번에 11명만 왔어요."
+    ],
+    "correct_answer": 2
+  }
+]

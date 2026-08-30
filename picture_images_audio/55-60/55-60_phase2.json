@@ -1,0 +1,282 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q1.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "질병",
+      "상해",
+      "재해",
+      "사망"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 2,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q2.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "장애를 당하다",
+      "질병을 당하다",
+      "재해를 당하다",
+      "체불 임금을 당하다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 3,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q3.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "벌금",
+      "상금",
+      "퇴직금",
+      "보상금"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 4,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q4.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "상해",
+      "사망",
+      "질병",
+      "상처"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 5,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q5.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "질병",
+      "사망",
+      "상해",
+      "사고"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 6,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q6.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "상해",
+      "재해",
+      "건강",
+      "질병"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 7,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q7.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "휴업 급여",
+      "실업 급여",
+      "출산 급여",
+      "퇴직금"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 8,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q8.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "보험료를 내고 있어요",
+      "보험금을 받고 있어요",
+      "보험에 가입하고 있어요",
+      "보험금을 청구하고 있어요"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 9,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q9.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "위로금",
+      "치료비",
+      "장해 보상금",
+      "실업 수당"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 10,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q10.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "치료를 받다",
+      "교육을 받다",
+      "검사를 받다",
+      "지급 심사를 받다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 11,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q11.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "보험금을 청구하다",
+      "보험금을 납부하다",
+      "서류를 제출하다",
+      "계약을 하다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 12,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q12.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "보험금을 받다",
+      "보험료를 내다",
+      "세금을 내다",
+      "벌금을 내다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 13,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q13.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "회사에 입사하다",
+      "학교에 입학하다",
+      "보험에 가입하다",
+      "계약을 해지하다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 14,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q14.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "월급을 받아요",
+      "처방전을 받아요",
+      "심사를 받아요",
+      "허가를 받아요"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 15,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q15.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "연장하다",
+      "단축하다",
+      "취소하다",
+      "변경하다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 16,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q16.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "구인자",
+      "구직자",
+      "근로자",
+      "취업자"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 17,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q17.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "체류 기간 만료일",
+      "사업장 변경 가능 횟수",
+      "자진 출국 각서",
+      "체류 가능 기간"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 18,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q18.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "휴식 시간",
+      "근무 시간",
+      "보험 기간",
+      "체류 가능 기간"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 19,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q19.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "체류 기간",
+      "휴가 기간",
+      "계약 기간",
+      "교육 기간"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 20,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q20.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "근무 시간",
+      "휴게 시간",
+      "야근 시간",
+      "연장 시간"
+    ],
+    "correct_answer": 1
+  }
+]

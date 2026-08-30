@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "불이 났어요! 소화기가 어디에 있지요?",
+    "options": [
+      "저기 문 옆에 있어요.",
+      "불이 아주 뜨거워요.",
+      "어제 소화기를 샀어요.",
+      "조심해서 작업하세요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "손가락을 베였는데 구급상자가 어디에 있어요?",
+    "options": [
+      "손가락이 열 개예요.",
+      "사무실 책상 위에 있어요.",
+      "어제 약을 먹었어요.",
+      "장갑을 꼭 끼세요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "다리가 부러진 것 같아요. 빨리 119에 전화해 주세요!",
+    "options": [
+      "네, 지금 바로 할게요.",
+      "다리가 아주 깁니다.",
+      "어제 전화를 했어요.",
+      "조심해서 걸으세요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "작업장에 가스 냄새가 심한데 어떻게 해야 해요?",
+    "options": [
+      "가스가 아주 비싸요.",
+      "어제 가스를 썼어요.",
+      "창문을 열고 밖으로 나가세요.",
+      "가스레인지를 끄세요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "왜 안전모를 안 쓰고 일하세요? 다칠 수 있어요.",
+    "options": [
+      "안전모가 노란색이에요.",
+      "어제 안전모를 샀어요.",
+      "지금 바로 쓰겠습니다.",
+      "안전모가 아주 가벼워요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "기계에 손이 끼었어요! 빨리 기계를 멈춰 주세요!",
+    "options": [
+      "네, 전원을 끌게요.",
+      "기계가 아주 커요.",
+      "어제 기계를 고쳤어요.",
+      "조심해서 작동하세요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "바닥이 너무 미끄러우니까 조심해서 다니세요.",
+    "options": [
+      "네, 알겠습니다. 주의할게요.",
+      "바닥이 아주 깨끗해요.",
+      "어제 바닥을 닦았어요.",
+      "신발을 새로 샀어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "눈에 먼지가 들어갔는데 어떻게 하면 좋을까요?",
+    "options": [
+      "눈이 두 개 있습니다.",
+      "깨끗한 물로 씻으세요.",
+      "어제 안경을 샀어요.",
+      "보안경을 쓰지 마세요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "갑자기 정전이 되었는데 손전등이 어디에 있어요?",
+    "options": [
+      "불이 아주 밝아요.",
+      "어제 전기를 썼어요.",
+      "서랍 안에 들어 있어요.",
+      "정전은 위험합니다."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "공장에서 사고가 나면 누구에게 보고해야 합니까?",
+    "options": [
+      "반장님께 말씀드리세요.",
+      "사고가 나지 않았어요.",
+      "어제 보고를 했습니다.",
+      "공장이 아주 넓어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  }
+]

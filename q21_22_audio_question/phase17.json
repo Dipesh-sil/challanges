@@ -1,0 +1,158 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "모종삽",
+    "option_type": "text",
+    "options": [
+      "모종삽",
+      "모종판",
+      "모종밭",
+      "고무장갑"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 2,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "호스를 연결하세요.",
+    "option_type": "text",
+    "options": [
+      "호스를 정리하세요.",
+      "호스를 연결하세요.",
+      "박스를 연결하세요.",
+      "박스를 정리하세요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 3,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "스패너",
+    "option_type": "text",
+    "options": [
+      "드라이버",
+      "스패너",
+      "펜치",
+      "니퍼"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 4,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "상자 안에 넣으세요.",
+    "option_type": "text",
+    "options": [
+      "상자 위에 넣으세요.",
+      "상자 안에 놓으세요.",
+      "상자 안에 넣으세요.",
+      "상자 밖에 놓으세요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 5,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "지붕",
+    "option_type": "text",
+    "options": [
+      "기둥",
+      "바닥",
+      "지붕",
+      "창문"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 6,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "전원을 차단하세요.",
+    "option_type": "text",
+    "options": [
+      "전원을 켜세요.",
+      "전원을 확인하세요.",
+      "전원을 차단하세요.",
+      "버튼을 누르세요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 7,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "안전장화",
+    "option_type": "text",
+    "options": [
+      "안전장화",
+      "안전장갑",
+      "목장갑",
+      "고무장갑"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 8,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "거푸집을 설치했어요.",
+    "option_type": "text",
+    "options": [
+      "거푸집을 해체했어요.",
+      "거푸집을 설치했어요.",
+      "비계를 설치했어요.",
+      "비계를 해체했어요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 9,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "낚싯대",
+    "option_type": "text",
+    "options": [
+      "바늘대",
+      "낚싯대",
+      "닻줄",
+      "부표"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 10,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "손을 대지 마세요.",
+    "option_type": "text",
+    "options": [
+      "발을 대지 마세요.",
+      "손을 대지 마세요.",
+      "손을 떼지 마세요.",
+      "눈을 감지 마세요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 11,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "비료포대",
+    "option_type": "text",
+    "options": [
+      "사료포대",
+      "마대자루",
+      "비료포대",
+      "모종상자"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 12,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "못을 뽑아야 해요.",
+    "option_type": "text",
+    "options": [
+      "못을 박아야 해요.",
+      "못을 꼽아야 해요.",
+      "못을 뽑아야 해요.",
+      "풀을 뽑아야 해요."
+    ],
+    "correct_answer": 2
+  }
+]

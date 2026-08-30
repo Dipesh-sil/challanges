@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "내일 무엇을 하려고 합니까?",
+    "options": [
+      "오늘이나 내일 만납시다.",
+      "내일 회사에 일찍 오십시오.",
+      "오늘 아침에 빵을 먹었습니다.",
+      "고향 친구를 만나려고 합니다."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "동생 결혼식에 갈 때 무슨 옷을 입을 거예요?",
+    "options": [
+      "동생이 결혼해요.",
+      "한복을 입을 거예요.",
+      "역사 책을 읽을 거예요.",
+      "일요일 오후 2시에 있어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "언제 한국에 가요?",
+    "options": [
+      "두 달 전에 왔어요.",
+      "오후에 시장에 가요.",
+      "한국에 일하러 가요.",
+      "다음 달에 갈 거예요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "어디에서 만날까요?",
+    "options": [
+      "영화를 볼 거예요.",
+      "극장 앞에서 만나요.",
+      "다음 주 토요일이에요.",
+      "한국 식당에서 먹어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "결혼한 지 얼마나 됐어요?",
+    "options": [
+      "일 년 됐어요.",
+      "고향에 있어요.",
+      "오만 원이에요.",
+      "한 번 결혼했어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "한국말을 배운 지 얼마나 됐어요?",
+    "options": [
+      "3개월 됐어요.",
+      "3만 원이에요.",
+      "한국에 갔어요.",
+      "한국말이 어려워요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "아침에 몇 시에 일어나요?",
+    "options": [
+      "스무 살이에요.",
+      "한국에서 일해요.",
+      "일곱 시에 일어나요.",
+      "아침에 버스를 타요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "무슨 색깔을 좋아해요?",
+    "options": [
+      "농구를 잘해요.",
+      "빨간색을 좋아해요.",
+      "노래방에 자주 가요.",
+      "한국 생활이 재미있어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "한국에 왜 가요?",
+    "options": [
+      "일하러 가요.",
+      "내년에 가요.",
+      "비행기로 왔어요.",
+      "인도네시아에서 왔어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "한국말을 배운 후에 뭐 할 거예요?",
+    "options": [
+      "친구하고 같이 배웠어요.",
+      "한국 날씨가 추울 거예요.",
+      "한국 회사에서 일할 거예요.",
+      "작년에 대학교에서 배웠어요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q1.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "오늘은 날이 맑습니다",
+      "오늘은 눈이 옵니다",
+      "오늘은 비가 옵니다",
+      "오늘은 날이 흐립니다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 2,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q2.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "지폐",
+      "수표",
+      "동전",
+      "현금"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 3,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q3.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "물건을 사다",
+      "값을 깎다",
+      "돈을 내다",
+      "환불하다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 4,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q4.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "오늘 날씨가 따뜻해요",
+      "오늘 날씨가 추워요",
+      "오늘 날씨가 더워요",
+      "오늘 날씨가 시원해요"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 5,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q5.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "상자가 가볍습니다",
+      "상자가 큽니다",
+      "상자가 무겁습니다",
+      "상자가 작습니다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 6,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q6.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "적다",
+      "크다",
+      "작다",
+      "많다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 7,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q7.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "활발하다",
+      "얌전하다",
+      "부지런하다",
+      "게으르다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 8,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q8.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "잘생기다",
+      "멋있다",
+      "예쁘다",
+      "귀엽다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 9,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q9.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "바닥을 닦고 있어요",
+      "옷을 세탁하고 있어요",
+      "빨래를 널고 있어요",
+      "창문을 닦고 있어요"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 10,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q10.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "친절하다",
+      "불친절하다",
+      "게으르다",
+      "성실하다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 11,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q11.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "귤",
+      "바나나",
+      "사과",
+      "포도"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 12,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q12.jpg",
+    "audio_script": "날씨가 어때요?",
+    "option_type": "audio",
+    "options": [
+      "날씨가 좋아요",
+      "비가 와요",
+      "눈이 와요",
+      "바람이 불어요"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 13,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q13.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "수박이 크다",
+      "수박이 작다",
+      "수박이 맛있다",
+      "수박이 싸다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 14,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q14.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "친절하다",
+      "똑똑하다",
+      "착하다",
+      "예쁘다"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 15,
+    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+    "image_url": "Q15.jpg",
+    "audio_script": "이것은 무엇입니까?",
+    "option_type": "audio",
+    "options": [
+      "점심",
+      "저녁",
+      "밤",
+      "아침"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 16,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q16.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "할아버지께서 커피를 마시고 있습니다",
+      "할아버지께서 식사를 하고 있습니다",
+      "할머니께서 커피를 마시고 있습니다",
+      "할머니께서 식사를 하고 있습니다"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 17,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q17.jpg",
+    "audio_script": "날씨가 어때요?",
+    "option_type": "audio",
+    "options": [
+      "추워요",
+      "더워요",
+      "따뜻해요",
+      "시원해요"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 18,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q18.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "샤워하다",
+      "양치하다",
+      "세수하다",
+      "머리를 감다"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 19,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q19.jpg",
+    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "option_type": "audio",
+    "options": [
+      "출근하다",
+      "등교하다",
+      "여행하다",
+      "퇴근하다"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 20,
+    "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
+    "image_url": "Q20.jpg",
+    "audio_script": "몇 시에 운동해요?",
+    "option_type": "audio",
+    "options": [
+      "다섯 시에 운동해요.",
+      "일곱 시에 운동해요.",
+      "여섯 시에 운동해요.",
+      "여덟 시에 운동해요."
+    ],
+    "correct_answer": 2
+  }
+]

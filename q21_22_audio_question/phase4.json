@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "빨래",
+    "option_type": "text",
+    "options": [
+      "발레",
+      "벌레",
+      "빨래",
+      "빨리"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 2,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "거기에 공을 넣었어요.",
+    "option_type": "text",
+    "options": [
+      "거기에 공을 넣었어요.",
+      "저기에 공을 넣었어요.",
+      "거기에 공을 놓았어요.",
+      "저기에 공을 놓았어요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 3,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "환전",
+    "option_type": "text",
+    "options": [
+      "화상",
+      "환전",
+      "화산",
+      "화전"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 4,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "오후 2시에 만납시다.",
+    "option_type": "text",
+    "options": [
+      "오늘 10시에 만납시다.",
+      "오후 8시에 만납시다.",
+      "오후 2시에 만납시다.",
+      "오늘 11시에 만납시다."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 5,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "농사",
+    "option_type": "text",
+    "options": [
+      "명사",
+      "농사",
+      "형사",
+      "강사"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 6,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "책상 앞에 있어요.",
+    "option_type": "text",
+    "options": [
+      "책장 옆에 있어요.",
+      "책장 앞에 있어요.",
+      "책상 옆에 있어요.",
+      "책상 앞에 있어요."
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 7,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "자료",
+    "option_type": "text",
+    "options": [
+      "차루",
+      "자료",
+      "자리",
+      "자루"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 8,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "8시에 에어컨을 켰어요.",
+    "option_type": "text",
+    "options": [
+      "7시에 에어컨을 켰어요.",
+      "6시에 에어컨을 껐어요.",
+      "8시에 에어컨을 켰어요.",
+      "8시에 에어컨을 껐어요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 9,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "실패",
+    "option_type": "text",
+    "options": [
+      "실패",
+      "살폐",
+      "실태",
+      "살피"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 10,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "거리를 걸었어요.",
+    "option_type": "text",
+    "options": [
+      "고리를 걸었어요.",
+      "거리를 걸었어요.",
+      "고리를 골랐어요.",
+      "거리를 골랐어요."
+    ],
+    "correct_answer": 1
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "우리 회사에 온 것을 환영합니다.",
+    "options": [
+      "별 말씀을요.",
+      "어서 오세요.",
+      "다녀오겠습니다.",
+      "앞으로 잘 부탁 드립니다."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "지하철을 빨리 타야 해요. 그냥 새치기 할까요?",
+    "options": [
+      "알아요. 못 봤어요.",
+      "죄송해요. 몰랐어요.",
+      "괜찮아요. 부탁했어요.",
+      "안 돼요. 차례를 지키세요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "사장님이 월급을 안 줘서 지방노동청에 진정을 했는데, 언제 쯤 월급을 받을 수 있을까요?",
+    "options": [
+      "잠깐 쉬어도 괜찮아요.",
+      "1년이 걸릴 수도 있어요.",
+      "내일 서류를 가지고 올게요.",
+      "3개월 동안 월급을 못 받았어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "친구가 결혼하는데 무슨 선물을 사야 해요?",
+    "options": [
+      "축의금만 내도 돼요.",
+      "돌 반지 선물하세요.",
+      "어제 결혼식에 다녀왔어요.",
+      "이 옷을 한 번 입어 보세요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "방진 마스크를 착용했어요?",
+    "options": [
+      "네, 썼어요.",
+      "네, 신었어요.",
+      "네, 입었어요.",
+      "네, 끼웠어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "결혼식이 이번 주 십삼 일이에요?",
+    "options": [
+      "네, 다음 주 13일이에요.",
+      "네, 이번 주 23일입니다.",
+      "아니요, 다음 주 13일이 아니에요.",
+      "아니요, 이번 주 13일이 아니에요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이번 추석연휴 때 뭐 할거예요?",
+    "options": [
+      "춘천을 여행하려고 해요.",
+      "춘천에 가 본 적이 있어요.",
+      "춘천에서 닭갈비를 먹었어요.",
+      "춘천에 가려면 기차를 타세요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "뚜안 씨, 기숙사에서 외국인 인력 지원 센터까지 어떻게 가요?",
+    "options": [
+      "자전거를 탈 줄 알아요.",
+      "가까우니까 걸어서 가요.",
+      "버스로 가는 방법을 알 거예요.",
+      "지하철을 탈 때 마다 사람이 많아요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "아저씨, 이 운동화 한 켤레에 얼마예요?",
+    "options": [
+      "지금 수표밖에 없는데요.",
+      "삼만 원이면 정말 비싸게 파네요.",
+      "이만 천 원인데 천 원은 깎아 줄게요.",
+      "여기 만 원짜리 두 장하고 오천 원짜리 한 장이요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "어제 공사장에서 일하다가 다쳤는데 손목이 너무 아파요.",
+    "options": [
+      "콧물이 많이 날 수 있어요.",
+      "치과에 가 보는 게 좋겠어요.",
+      "많이 부었으니까 무리하지 마세요.",
+      "근처에 있는 병원을 예약해 주세요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "늦어서 죄송합니다. 길이 많이 막혀서요.",
+    "options": [
+      "감사합니다.",
+      "괜찮습니다.",
+      "미안합니다.",
+      "축하합니다."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "어느 나라에서 오셨습니까?",
+    "options": [
+      "우리나라는 덥습니다.",
+      "한국에 처음 왔습니다.",
+      "캄보디아에서 왔습니다.",
+      "지금은 오후 한 시입니다."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "오늘이 무슨 요일이에요?",
+    "options": [
+      "수요일이에요.",
+      "오늘은 바빠요.",
+      "제 생일이에요.",
+      "토요일도 일해요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "영수 씨 고향은 어디예요?",
+    "options": [
+      "서울이에요.",
+      "다음 달에 돌아가요.",
+      "아파트를 사려고 해요.",
+      "지하철역 근처에 있어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "결혼을 축하합니다.",
+    "options": [
+      "괜찮습니다.",
+      "고맙습니다.",
+      "축하합니다.",
+      "반갑습니다."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "저는 한국 사람이고, 이름은 박지영이에요. 이름이 뭐예요?",
+    "options": [
+      "한국에서 일해요.",
+      "저는 네팔에서 왔어요.",
+      "저기가 우리 회사예요.",
+      "제 이름은 카넬이에요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "지수 씨 언니는 몇 살이에요?",
+    "options": [
+      "저보다 두 살 많아요.",
+      "언니하고 같이 살아요.",
+      "회사에 다니고 있어요.",
+      "동생은 없고 언니만 있어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "기분이 어때요?",
+    "options": [
+      "안 늦었어요.",
+      "아주 좋아요.",
+      "바람이 많이 불어요.",
+      "좋긴 한데 좀 비싸요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "요즘 어떻게 지내세요?",
+    "options": [
+      "너무 비싸요.",
+      "벌써 지났어요.",
+      "아직 안 왔어요.",
+      "잘 지내고 있어요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "한국에 처음 오셨어요?",
+    "options": [
+      "네, 처음이에요.",
+      "네, 또 오겠습니다.",
+      "네, 전에 와 봤어요.",
+      "네, 처음 뵙겠습니다."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  }
+]

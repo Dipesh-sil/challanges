@@ -1,0 +1,145 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "돈을 찾아요.",
+    "option_type": "text",
+    "options": [
+      "친구가 자요.",
+      "오늘 샀어요.",
+      "초를 꽂아요.",
+      "돈을 찾아요."
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 2,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "비가 옵니다.",
+    "option_type": "text",
+    "options": [
+      "내가 봅니다.",
+      "배를 탑니다.",
+      "배가 갑니다.",
+      "비가 옵니다."
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 3,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "기차가 왔어요.",
+    "option_type": "text",
+    "options": [
+      "같이 갔어요.",
+      "꽃이 없어요.",
+      "가치가 없어요.",
+      "기차가 왔어요."
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 4,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "바꿔 주세요.",
+    "option_type": "text",
+    "options": [
+      "받아 주세요.",
+      "바꿔 주세요.",
+      "비켜 주세요.",
+      "빌려 주세요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 5,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "김치를 만들어요.",
+    "option_type": "text",
+    "options": [
+      "김치를 만들어요.",
+      "김치를 먹었어요.",
+      "김치가 맛없어요.",
+      "김치가 맛있어요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 6,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "밭에서 일해요.",
+    "option_type": "text",
+    "options": [
+      "밖에서 일해요.",
+      "밭에서 일해요.",
+      "부엌에 있어요.",
+      "바깥에 있어요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 7,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "기다려 주세요.",
+    "option_type": "text",
+    "options": [
+      "빌려 주세요.",
+      "그려 주세요.",
+      "가르쳐 주세요.",
+      "기다려 주세요."
+    ],
+    "correct_answer": 3
+  },
+  {
+    "q_id": 8,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "불을 껐어요.",
+    "option_type": "text",
+    "options": [
+      "불을 껐어요.",
+      "물을 끓여요.",
+      "줄을 끊어요.",
+      "물을 따라요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 9,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "목이 부었어요.",
+    "option_type": "text",
+    "options": [
+      "목이 부었어요.",
+      "몸이 부었어요.",
+      "모기 잡았어요.",
+      "발이 추웠어요."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 10,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "도서관에 가겠어요.",
+    "option_type": "text",
+    "options": [
+      "대사관에 가겠어요.",
+      "도서관에 가겠어요.",
+      "게시판에 크게 써요.",
+      "다섯 시에 켜겠어요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 11,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "방이 없어요.",
+    "option_type": "text",
+    "options": [
+      "박이 없어요.",
+      "방이 없어요.",
+      "밭이 없어요.",
+      "밥이 없어요."
+    ],
+    "correct_answer": 1
+  }
+]

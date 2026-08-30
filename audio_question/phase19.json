@@ -1,0 +1,82 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "오늘 회식 장소가 어디인가요?",
+    "options": ["식당 앞에 모이세요.", "오늘 날씨가 좋습니다.", "어제 회식을 했어요.", "회식 비용이 높아요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이번 프로젝트 보고서는 언제 제출해야 합니까?",
+    "options": ["내일까지 제출해야 합니다.", "보고서가 길어요.", "어제 제출했어요.", "회의가 끝났어요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "주말에 가족과 어디로 가고 싶으세요?",
+    "options": ["네, 같이 가요.", "산과 호수로 놀러 갈 거예요.", "어제 갔어요.", "집에서 쉬고 있어요."],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 기계를 사용하려면 어떤 안전 장비가 필요합니까?",
+    "options": ["안전모와 장갑을 착용해야 합니다.", "기계가 고장 났어요.", "작업복이 깨끗해요.", "어제 점검했어요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "택시를 타려면 어디에 가야 합니까?",
+    "options": ["택시 승강장에서 기다리세요.", "택시가 빨리 옵니다.", "어제 탔어요.", "길이 막혀요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "식당에서 주문하려고 하는데 메뉴 추천해 주세요.",
+    "options": ["불고기와 비빔밥이 맛있습니다.", "식당이 넓어요.", "어제 먹었어요.", "주문서가 길어요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이번 달 급여는 언제 입금됩니까?",
+    "options": ["이번 달 25일에 입금됩니다.", "급여가 많아요.", "어제 받았어요.", "계좌가 새로 만들어졌어요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "주차가 가능한 곳이 어디인지 알려주세요.",
+    "options": ["주차장은 건물 뒤편에 있습니다.", "차가 많아요.", "어제 주차했어요.", "주차 요금이 비싸요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "회의 중 질문이 있으면 어떻게 해야 합니까?",
+    "options": ["손을 들고 질문하세요.", "회의가 길어요.", "어제 끝났어요.", "회의 자료를 봤어요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "신입 직원 교육은 몇 시에 시작합니까?",
+    "options": ["오전 10시에 시작합니다.", "교육이 길어요.", "어제 끝났어요.", "교육 자료가 많아요."],
+    "correct_answer": 0,
+    "is_audio_question": true
+  }
+]

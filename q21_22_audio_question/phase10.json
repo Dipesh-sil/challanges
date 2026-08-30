@@ -1,0 +1,145 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "과장님은 32살입니다.",
+    "option_type": "text",
+    "options": [
+      "과장님은 22살입니다.",
+      "과장님은 32살입니다.",
+      "과장님은 43살입니다.",
+      "과장님은 33살입니다."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 2,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "저는 17살이에요.",
+    "option_type": "text",
+    "options": [
+      "저는 10살이에요.",
+      "저는 27살이에요.",
+      "저는 17살이에요.",
+      "저는 18살이에요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 3,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "저는 33살에 결혼했어요.",
+    "option_type": "text",
+    "options": [
+      "저는 23살에 결혼했어요.",
+      "저는 33살에 결혼했어요.",
+      "저는 35살에 결혼했어요.",
+      "저는 39살에 결혼했어요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 4,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "제 동생은 21살입니다.",
+    "option_type": "text",
+    "options": [
+      "제 동생은 21살입니다.",
+      "제 동생은 22살입니다.",
+      "제 동생은 20살입니다.",
+      "제 동생은 23살입니다."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "q_id": 5,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "45살이 넘어야 대통령이 될 수 있어요.",
+    "option_type": "text",
+    "options": [
+      "25살이 넘어야 대통령이 될 수 있어요.",
+      "30살이 넘어야 대통령이 될 수 있어요.",
+      "45살이 넘어야 대통령이 될 수 있어요.",
+      "55살이 넘어야 대통령이 될 수 있어요."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 6,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "13시간 동안 잠을 잤어요.",
+    "option_type": "text",
+    "options": [
+      "12시간 동안 잠을 잤어요.",
+      "13시간 동안 잠을 잤어요.",
+      "19시간 동안 잠을 잤어요.",
+      "18시간 동안 잠을 잤어요."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 7,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "제 친구는 28살입니다.",
+    "option_type": "text",
+    "options": [
+      "제 친구는 29살입니다.",
+      "제 친구는 26살입니다.",
+      "제 친구는 28살입니다.",
+      "제 친구는 25살입니다."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 8,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "저는 내년에 18살이 됩니다.",
+    "option_type": "text",
+    "options": [
+      "저는 내년에 16살이 됩니다.",
+      "저는 내년에 18살이 됩니다.",
+      "저는 내년에 20살이 됩니다.",
+      "저는 내년에 15살이 됩니다."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 9,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "제 아내는 35살입니다.",
+    "option_type": "text",
+    "options": [
+      "제 아내는 33살입니다.",
+      "제 아내는 34살입니다.",
+      "제 아내는 35살입니다.",
+      "제 아내는 36살입니다."
+    ],
+    "correct_answer": 2
+  },
+  {
+    "q_id": 10,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "저는 55살입니다.",
+    "option_type": "text",
+    "options": [
+      "저는 45살입니다.",
+      "저는 55살입니다.",
+      "저는 56살입니다.",
+      "저는 65살입니다."
+    ],
+    "correct_answer": 1
+  },
+  {
+    "q_id": 11,
+    "question_text": "들은 것을 고르십시오.",
+    "audio_script": "저는 26살입니다.",
+    "option_type": "text",
+    "options": [
+      "저는 26살입니다.",
+      "저는 25살입니다.",
+      "저는 29살입니다.",
+      "저는 27살입니다."
+    ],
+    "correct_answer": 0
+  }
+]

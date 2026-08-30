@@ -1,0 +1,132 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "어서 오세요, 손님. 어디까지 가십니까?",
+    "options": [
+      "식당에 있어요.",
+      "네, 안녕히 가세요.",
+      "사장님을 만나러 가요.",
+      "서울역으로 가 주세요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "어디가 아파서 오셨어요?",
+    "options": [
+      "약국에 가서 약을 사 왔어요.",
+      "요즘 감기에 걸린 사람이 많아요.",
+      "일을 하다가 다리를 좀 다쳤어요.",
+      "병원은 이쪽으로 쭉 가면 있어요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 회사에 어떻게 가세요?",
+    "options": [
+      "버스를 타고 가요.",
+      "9시까지 출근해요.",
+      "친구가 가르쳐 주었어요.",
+      "사장님을 만나러 왔어요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "회사에 몇 시까지 가야 해요?",
+    "options": [
+      "일이 힘들어요.",
+      "8시까지 일해요.",
+      "일이 많지 않아요.",
+      "8시까지 도착해야 해요."
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "날마다 몇 시부터 일해요?",
+    "options": [
+      "날마다 운동을 해요.",
+      "내일 친구를 만나요.",
+      "오전 9시부터 일해요.",
+      "오후 늦게 집에 가요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "언제까지 전기 요금을 내야 해요?",
+    "options": [
+      "제가 끌게요.",
+      "이번 달 말일까지요.",
+      "은행에서 내야 해요.",
+      "한 시간 후에 나갈 거예요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "이 버스는 어디로 가요?",
+    "options": [
+      "서울역 쪽으로 가요.",
+      "다음 역에 내리세요.",
+      "길을 건너서 타세요.",
+      "370번 버스를 타세요."
+    ],
+    "correct_answer": 0,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "공장에서 몇 시까지 일해요?",
+    "options": [
+      "일이 많아요.",
+      "8시까지 일해요.",
+      "공장에서 일해요.",
+      "공장이 안산에 있어요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "회사에 어떻게 와요?",
+    "options": [
+      "일하러 와요.",
+      "밥 먹고 와요.",
+      "지하철로 와요.",
+      "매일 일찍 와요."
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "질문을 듣고 알맞은 대답을 고르십시오.",
+    "audio_script": "일주일에 며칠 일합니까?",
+    "options": [
+      "일주일은 7일이에요.",
+      "일주일에 6일 일해요.",
+      "오늘은 월요일이에요.",
+      "아침 9시부터 일해요."
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  }
+]
