@@ -238,5 +238,35 @@
         ]
       }
     ]
+  },
+  {
+    "categoryId": "L_STORY",
+    "title": "이야기를 듣고 질문에 알맞은 대답을 고르십시오.",
+    "subtitle": "Story & Conversation Listening (Phases 1-12)",
+    "content_folder": "story_audio_question",
+    "audio_folder": "story_audio",
+    "image_folder": "",
+    "quiz_file_type": "json",
+    "has_ranges": false,
+    "ranges": [
+      {
+        "rangeId": "ALL",
+        "title": "All Phases",
+        "phases": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ]
   }
 ]
