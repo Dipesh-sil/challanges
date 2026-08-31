@@ -1,0 +1,198 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "잘 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "audio_script": "남: 면도기는 하나에 얼마예요?\n여: 만 이천원이에요.",
+    "option_type": "image",
+    "options": [
+      "Q1_opt1.png",
+      "Q1_opt2.png",
+      "Q1_opt3.png",
+      "Q1_opt4.png"
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "여자는 언제 한국에 왔습니까?",
+    "audio_script": "남: 리리 씨는 언제 한국에 왔어요?\n여: 삼월 이십일에 왔어요.",
+    "option_type": "image",
+    "options": [
+      "Q2_opt1.png",
+      "Q2_opt2.png",
+      "Q2_opt3.png",
+      "Q2_opt4.png"
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "잘 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "audio_script": "남: 이 냄비는 한 세트에 얼마예요?\n여: 삼만 팔천원이에요.",
+    "option_type": "image",
+    "options": [
+      "Q3_opt1.png",
+      "Q3_opt2.png",
+      "Q3_opt3.png",
+      "Q3_opt4.png"
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "안전교육 시간은 언제입니까?",
+    "audio_script": "남: 안전교육은 언제 해요?\n여: 오후 한 시부터 두 시까지 해요.",
+    "option_type": "image",
+    "options": [
+      "Q4_opt1.png",
+      "Q4_opt2.png",
+      "Q4_opt3.png",
+      "Q4_opt4.png"
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "전기밥솥의 가격은 얼마입니까?",
+    "audio_script": "남: 저 전기밥솥은 얼마예요?\n여: 오만 칠천원이에요.",
+    "option_type": "image",
+    "options": [
+      "Q5_opt1.png",
+      "Q5_opt2.png",
+      "Q5_opt3.png",
+      "Q5_opt4.png"
+    ],
+    "correct_answer": 4,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "지금은 몇 시입니까?",
+    "audio_script": "남: 지금 몇 시예요?\n여: 9시 50분입니다.",
+    "option_type": "image",
+    "options": [
+      "Q6_opt1.png",
+      "Q6_opt2.png",
+      "Q6_opt3.png",
+      "Q6_opt4.png"
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "물건의 가격은 얼마입니까?",
+    "audio_script": "남: 이거 하나에 얼마예요?\n여: 이천원입니다.",
+    "option_type": "image",
+    "options": [
+      "Q7_opt1.png",
+      "Q7_opt2.png",
+      "Q7_opt3.png",
+      "Q7_opt4.png"
+    ],
+    "correct_answer": 4,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "사과 2kg을 사면 얼마를 내야 합니까?",
+    "audio_script": "가: 사과는 일 킬로그램에 얼마예요?\n나: 일 킬로그램에 만원입니다. 그런데 이 킬로그램을 사면 만칠천원에 줄 겁니다.",
+    "option_type": "image",
+    "options": [
+      "Q8_opt1.png",
+      "Q8_opt2.png",
+      "Q8_opt3.png",
+      "Q8_opt4.png"
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "여자가 산 바지의 가격은 얼마입니까?",
+    "audio_script": "가: 요즘 의류매장에서 세일하고 있는 것을 알아요?\n나: 네, 알아요. 제가 만 오천오백원짜리 바지를 칠백원에 샀어요.",
+    "option_type": "image",
+    "options": [
+      "Q9_opt1.png",
+      "Q9_opt2.png",
+      "Q9_opt3.png",
+      "Q9_opt4.png"
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "사진기의 가격은 얼마입니까?",
+    "audio_script": "가: 남동생을 위해 사진기를 한 대 사고 싶습니다. 가격이 얼마나 됩니까?\n나: 오십만 원에 나옵니다.",
+    "option_type": "image",
+    "options": [
+      "Q10_opt1.png",
+      "Q10_opt2.png",
+      "Q10_opt3.png",
+      "Q10_opt4.png"
+    ],
+    "correct_answer": 4,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 11,
+    "question_text": "불고기 3인분의 총 가격은 얼마입니까?",
+    "audio_script": "허리: 불고기 일인분에 얼마예요?\n라다: 일인분에 천오백원이에요.\n허리: 아 그래요, 삼인분 주세요.",
+    "option_type": "image",
+    "options": [
+      "Q11_opt1.png",
+      "Q11_opt2.png",
+      "Q11_opt3.png",
+      "Q11_opt4.png"
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 12,
+    "question_text": "피아노 한 달 수강료는 얼마입니까?",
+    "audio_script": "리한: 실례지만 피아노를 배우고 싶은데요. 수업료가 얼마입니까?\n투안: 네, 한 달 정도 배우면 사십만원을 내야 합니다.",
+    "option_type": "image",
+    "options": [
+      "Q12_opt1.png",
+      "Q12_opt2.png",
+      "Q12_opt3.png",
+      "Q12_opt4.png"
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 13,
+    "question_text": "요리 학원의 한 달 수업료는 얼마입니까?",
+    "audio_script": "인디카: 요리학원 수업료가 얼마입니까?\n수루: 요리학원 수업료는 삼십만원 내면 됩니다.",
+    "option_type": "image",
+    "options": [
+      "Q13_opt1.png",
+      "Q13_opt2.png",
+      "Q13_opt3.png",
+      "Q13_opt4.png"
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 14,
+    "question_text": "운동화의 할인 가격은 얼마입니까?",
+    "audio_script": "가: 운동화 한 켤레에 얼마입니까?\n나: 오만 원입니다. 그런데 요즘은 세일을 해서 사만 원입니다.",
+    "option_type": "image",
+    "options": [
+      "Q14_opt1.png",
+      "Q14_opt2.png",
+      "Q14_opt3.png",
+      "Q14_opt4.png"
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  }
+]

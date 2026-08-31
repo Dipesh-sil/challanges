@@ -1,0 +1,142 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "남자가 내야 할 기숙사 관리비 고지서는 어느 것입니까?",
+    "audio_script": "남: 이번 달 기숙사비는 얼마예요?\n여: 방값이 15만 원이고, 전기요금이 3만 원이라서 총 18만 원이에요.",
+    "option_type": "image",
+    "options": [
+      "Q1_opt1.png",
+      "Q1_opt2.png",
+      "Q1_opt3.png",
+      "Q1_opt4.png"
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "들은 내용과 일치하는 전기요금 청구서를 고르십시오.",
+    "audio_script": "남: 지난달 전기요금이 얼마나 나왔어요?\n여: 4만 5천 원 나왔어요. 15일까지 은행에 내야 해요.",
+    "option_type": "image",
+    "options": [
+      "Q2_opt1.png",
+      "Q2_opt2.png",
+      "Q2_opt3.png",
+      "Q2_opt4.png"
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "남자의 고속버스 승차권은 어느 것입니까?",
+    "audio_script": "남: 대전 가는 버스 표 한 장 주세요.\n여: 오전 10시 30분 출발이고 요금은 만 4천 원입니다. 좌석은 12번이에요.",
+    "option_type": "image",
+    "options": [
+      "Q3_opt1.png",
+      "Q3_opt2.png",
+      "Q3_opt3.png",
+      "Q3_opt4.png"
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "철물점에서 물건을 사고 받은 영수증을 고르십시오.",
+    "audio_script": "남: 망치 하나랑 안전장갑 세 켤레 샀어요. 얼마예요?\n여: 망치는 8천 원이고 장갑은 6천 원이라서 합계 만 4천 원입니다.",
+    "option_type": "image",
+    "options": [
+      "Q4_opt1.png",
+      "Q4_opt2.png",
+      "Q4_opt3.png",
+      "Q4_opt4.png"
+    ],
+    "correct_answer": 4,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "두 사람이 볼 영화표는 어느 것입니까?",
+    "audio_script": "남: 영화가 몇 시에 시작해요?\n여: 오후 3시 20분에 시작해요. 우리는 2관 7열 좌석이에요.",
+    "option_type": "image",
+    "options": [
+      "Q5_opt1.png",
+      "Q5_opt2.png",
+      "Q5_opt3.png",
+      "Q5_opt4.png"
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "남자가 예매한 KTX 승차권은 무엇입니까?",
+    "audio_script": "남: 부산 가는 기차표 어른 두 장 예매했어요.\n여: 출발 시간이 언제예요?\n남: 오후 1시 10분 기차이고 총 요금은 11만 원이에요.",
+    "option_type": "image",
+    "options": [
+      "Q6_opt1.png",
+      "Q6_opt2.png",
+      "Q6_opt3.png",
+      "Q6_opt4.png"
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "식당에서 점심을 먹고 받은 영수증을 고르십시오.",
+    "audio_script": "남: 김치찌개 2인분에 공깃밥 하나 추가해서 먹었어요. 얼마 나왔어요?\n여: 김치찌개 만 6천 원에 밥 천 원 해서 모두 만 7천 원이에요.",
+    "option_type": "image",
+    "options": [
+      "Q7_opt1.png",
+      "Q7_opt2.png",
+      "Q7_opt3.png",
+      "Q7_opt4.png"
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "여자가 확인한 도시가스 요금 청구서는 어느 것입니까?",
+    "audio_script": "남: 이번 달 가스 요금이 왜 이렇게 많이 나왔지?\n여: 겨울이라서 난방을 많이 썼잖아요. 6만 2천 원 나왔네요.",
+    "option_type": "image",
+    "options": [
+      "Q8_opt1.png",
+      "Q8_opt2.png",
+      "Q8_opt3.png",
+      "Q8_opt4.png"
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "마트에서 결제한 영수증으로 알맞은 것을 고르십시오.",
+    "audio_script": "남: 마트에서 뭐 샀어요?\n여: 라면 한 박스에 만 2천 원, 계란 한 판에 7천 원 줘서 총 만 9천 원 결제했어요.",
+    "option_type": "image",
+    "options": [
+      "Q9_opt1.png",
+      "Q9_opt2.png",
+      "Q9_opt3.png",
+      "Q9_opt4.png"
+    ],
+    "correct_answer": 4,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "여자가 예매한 제주도 항공권은 어느 것입니까?",
+    "audio_script": "남: 제주도 가는 비행기 표 예매했어?\n여: 응, 금요일 아침 8시 40분 비행기이고 표 값은 6만 5천 원이야.",
+    "option_type": "image",
+    "options": [
+      "Q10_opt1.png",
+      "Q10_opt2.png",
+      "Q10_opt3.png",
+      "Q10_opt4.png"
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  }
+]

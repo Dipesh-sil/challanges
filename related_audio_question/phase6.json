@@ -1,0 +1,142 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "사과 한 상자의 가격표로 알맞은 것을 고르십시오.",
+    "audio_script": "남: 아줌마, 이 사과 한 상자에 얼마예요?\n여: 한 상자에 25,000원이에요.\n남: 네, 여기 25,000원 드릴게요.",
+    "option_type": "image",
+    "options": [
+      "Q1_opt1.png",
+      "Q1_opt2.png",
+      "Q1_opt3.png",
+      "Q1_opt4.png"
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "남자가 사려고 하는 티셔츠의 가격표는 무엇입니까?",
+    "audio_script": "남: 이 작업용 면 티셔츠는 한 장에 얼마입니까?\n여: 원래 20,000원인데 지금 할인해서 15,000원입니다.\n남: 그럼 한 장 주세요.",
+    "option_type": "image",
+    "options": [
+      "Q2_opt1.png",
+      "Q2_opt2.png",
+      "Q2_opt3.png",
+      "Q2_opt4.png"
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "수박 한 통의 가격표는 어느 것입니까?",
+    "audio_script": "남: 수박이 아주 싱싱하네요. 한 통에 얼마예요?\n여: 큰 거 한 통에 18,000원이에요.\n남: 네, 수박 한 통 포장해 주세요.",
+    "option_type": "image",
+    "options": [
+      "Q3_opt1.png",
+      "Q3_opt2.png",
+      "Q3_opt3.png",
+      "Q3_opt4.png"
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "식당에서 점심을 먹고 받은 영수증은 어느 것입니까?",
+    "audio_script": "여: 어서 오세요. 주문하시겠어요?\n남: 비빔밥 한 그릇이랑 콜라 한 캔 주세요.\n여: 네, 비빔밥 8,000원, 콜라 2,000원 해서 합계 10,000원입니다.",
+    "option_type": "image",
+    "options": [
+      "Q4_opt1.png",
+      "Q4_opt2.png",
+      "Q4_opt3.png",
+      "Q4_opt4.png"
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "문구점에서 계산한 간이 영수증을 고르십시오.",
+    "audio_script": "남: 공책 두 권이랑 검은색 볼펜 하나 샀어요. 얼마 나왔나요?\n여: 공책이 3,000원이고 볼펜이 1,000원이라서 총 4,000원 결제하셨습니다.",
+    "option_type": "image",
+    "options": [
+      "Q5_opt1.png",
+      "Q5_opt2.png",
+      "Q5_opt3.png",
+      "Q5_opt4.png"
+    ],
+    "correct_answer": 4,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "남자가 구매한 안전 작업화의 가격표는 무엇입니까?",
+    "audio_script": "남: 발이 편한 안전화 하나 추천해 주세요.\n여: 이 가죽 안전화가 인기 많아요. 가격은 38,000원입니다.\n남: 네, 270 사이즈로 주세요.",
+    "option_type": "image",
+    "options": [
+      "Q6_opt1.png",
+      "Q6_opt2.png",
+      "Q6_opt3.png",
+      "Q6_opt4.png"
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "빵집에서 결제한 영수증으로 알맞은 것은 어느 것입니까?",
+    "audio_script": "남: 식빵 한 봉지랑 흰 우유 하나 계산해 주세요.\n여: 식빵 3,500원에 우유 1,500원 해서 모두 5,000원입니다.",
+    "option_type": "image",
+    "options": [
+      "Q7_opt1.png",
+      "Q7_opt2.png",
+      "Q7_opt3.png",
+      "Q7_opt4.png"
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "과일가게에서 물건을 사고 받은 영수증은 무엇입니까?",
+    "audio_script": "남: 바나나 한 송이랑 딸기 한 팩 주세요. 얼마예요?\n여: 바나나 4,000원, 딸기 8,000원 해서 총 12,000원입니다.",
+    "option_type": "image",
+    "options": [
+      "Q8_opt1.png",
+      "Q8_opt2.png",
+      "Q8_opt3.png",
+      "Q8_opt4.png"
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "마트에서 구매한 물품 영수증으로 알맞은 것을 고르십시오.",
+    "audio_script": "여: 손님, 세탁세제 9,000원이고 고무장갑 2,000원입니다.\n남: 네, 여기 카드로 결제해 주세요.\n여: 네, 합계 11,000원 결제 완료되었습니다.",
+    "option_type": "image",
+    "options": [
+      "Q9_opt1.png",
+      "Q9_opt2.png",
+      "Q9_opt3.png",
+      "Q9_opt4.png"
+    ],
+    "correct_answer": 4,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "철물점 펜치의 가격표로 알맞은 것을 고르십시오.",
+    "audio_script": "남: 아저씨, 이 손잡이 노란색 펜치는 얼마예요?\n여: 그 펜치는 하나에 7,500원이에요.\n남: 네, 이거 하나 사겠습니다.",
+    "option_type": "image",
+    "options": [
+      "Q10_opt1.png",
+      "Q10_opt2.png",
+      "Q10_opt3.png",
+      "Q10_opt4.png"
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  }
+]

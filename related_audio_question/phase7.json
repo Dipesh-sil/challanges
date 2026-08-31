@@ -1,0 +1,142 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "남자가 구매하려는 청바지의 할인 가격표는 어느 것입니까?",
+    "audio_script": "남: 이 청바지 마음에 드는데 얼마예요?\n여: 원래 40,000원인데 오늘 세일해서 32,000원에 드려요.\n남: 네, 32,000원에 한 벌 주세요.",
+    "option_type": "image",
+    "options": [
+      "Q1_opt1.png",
+      "Q1_opt2.png",
+      "Q1_opt3.png",
+      "Q1_opt4.png"
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "전동 드릴의 가격표로 알맞은 것을 고르십시오.",
+    "audio_script": "남: 사장님, 작업용 충전 전동 드릴 하나 사려고 하는데요.\n여: 이 제품이 성능이 좋습니다. 가격은 85,000원입니다.\n남: 네, 85,000원짜리 이 드릴로 사겠습니다.",
+    "option_type": "image",
+    "options": [
+      "Q2_opt1.png",
+      "Q2_opt2.png",
+      "Q2_opt3.png",
+      "Q2_opt4.png"
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "배추 한 포기의 가격표는 어느 것입니까?",
+    "audio_script": "남: 시장에서 배추 한 포기에 얼마씩 해요?\n여: 싱싱한 배추 한 포기에 4,500원씩 팔고 있어요.\n남: 그럼 배추 세 포기 골라 주세요.",
+    "option_type": "image",
+    "options": [
+      "Q3_opt1.png",
+      "Q3_opt2.png",
+      "Q3_opt3.png",
+      "Q3_opt4.png"
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "고등어 두 마리의 가격표는 무엇입니까?",
+    "audio_script": "남: 아주머니, 고등어 얼마예요?\n여: 국내산 고등어 두 마리에 6,000원이에요.\n남: 네, 두 마리 포장해 주세요.",
+    "option_type": "image",
+    "options": [
+      "Q4_opt1.png",
+      "Q4_opt2.png",
+      "Q4_opt3.png",
+      "Q4_opt4.png"
+    ],
+    "correct_answer": 4,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "안전장갑 열 켤레 묶음의 가격표를 고르십시오.",
+    "audio_script": "남: 작업용 코팅 안전장갑 10켤레 한 묶음 주세요.\n여: 네, 안전장갑 한 묶음에 12,000원입니다.\n남: 여기 12,000원 드릴게요.",
+    "option_type": "image",
+    "options": [
+      "Q5_opt1.png",
+      "Q5_opt2.png",
+      "Q5_opt3.png",
+      "Q5_opt4.png"
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "라면 한 묶음(5개입)의 가격표로 알맞은 것은 무엇입니까?",
+    "audio_script": "남: 매대에 있는 신라면 5개 묶음 가격이 얼마인가요?\n여: 한 묶음에 4,800원입니다.\n남: 네, 두 묶음 담겠습니다.",
+    "option_type": "image",
+    "options": [
+      "Q6_opt1.png",
+      "Q6_opt2.png",
+      "Q6_opt3.png",
+      "Q6_opt4.png"
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "전기주전자의 가격표는 어느 것입니까?",
+    "audio_script": "남: 기숙사에서 물 끓여 마실 전기주전자 하나 필요한데요.\n여: 이 스테인리스 전기주전자는 28,000원이에요.\n남: 네, 28,000원짜리로 계산해 주세요.",
+    "option_type": "image",
+    "options": [
+      "Q7_opt1.png",
+      "Q7_opt2.png",
+      "Q7_opt3.png",
+      "Q7_opt4.png"
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "포도 한 상자의 가격표로 알맞은 것을 고르십시오.",
+    "audio_script": "여: 포도 한 상자에 22,000원씩 드려요. 아주 달아요.\n남: 알이 정말 굵네요. 22,000원에 한 상자 주세요.\n여: 네, 맛있게 드세요.",
+    "option_type": "image",
+    "options": [
+      "Q8_opt1.png",
+      "Q8_opt2.png",
+      "Q8_opt3.png",
+      "Q8_opt4.png"
+    ],
+    "correct_answer": 4,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "돼지고기 삼겹살 한 근(600g)의 가격표는 무엇입니까?",
+    "audio_script": "남: 정육점 삼겹살 한 근에 얼마예요?\n여: 국내산 생삼겹살 한 근 600g에 14,000원입니다.\n남: 네, 한 근 썰어 주세요.",
+    "option_type": "image",
+    "options": [
+      "Q9_opt1.png",
+      "Q9_opt2.png",
+      "Q9_opt3.png",
+      "Q9_opt4.png"
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "방한 조끼의 세일 가격표로 알맞은 것은 어느 것입니까?",
+    "audio_script": "여: 날씨가 많이 쌀쌀해졌지요? 작업용 방한 조끼 특가 세일 중이에요.\n남: 세일해서 얼마예요?\n여: 원래 28,000원인데 19,000원에 판매하고 있어요.\n남: 가격이 저렴하네요. 19,000원짜리 하나 살게요.",
+    "option_type": "image",
+    "options": [
+      "Q10_opt1.png",
+      "Q10_opt2.png",
+      "Q10_opt3.png",
+      "Q10_opt4.png"
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  }
+]

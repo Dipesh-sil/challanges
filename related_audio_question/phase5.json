@@ -1,0 +1,142 @@
+[
+  {
+    "q_id": 1,
+    "question_text": "남자가 병원에 내야 하는 진료비는 얼마입니까?",
+    "audio_script": "여: 어서 오세요. 어디가 불편해서 오셨어요?\n남: 작업하다가 발목을 삐어서 엑스레이 좀 찍어 보려고요.\n여: 네, 진료실 들어가셔서 검사 먼저 받으실게요.\n(잠시 후)\n여: 엑스레이 검사비 12,000원하고 물리치료비 8,000원 해서 총 20,000원 수납해 주시면 됩니다.",
+    "option_type": "image",
+    "options": [
+      "Q1_opt1.png",
+      "Q1_opt2.png",
+      "Q1_opt3.png",
+      "Q1_opt4.png"
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 2,
+    "question_text": "여자가 약국에서 결제한 총금액은 얼마입니까?",
+    "audio_script": "남: 처방전 주시겠어요? 감기약 사흘분 조제해 드렸습니다.\n여: 네, 약값은 얼마예요?\n남: 처방 약값은 4,500원입니다.\n여: 그럼 저기 있는 피로회복 음료 1,500원짜리도 한 병 같이 계산해 주세요.\n남: 네, 모두 합해서 6,000원입니다.",
+    "option_type": "image",
+    "options": [
+      "Q2_opt1.png",
+      "Q2_opt2.png",
+      "Q2_opt3.png",
+      "Q2_opt4.png"
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 3,
+    "question_text": "남자가 받은 치과의원 진료비 영수증은 어느 것입니까?",
+    "audio_script": "여: 김민수 님, 오늘 스케일링이랑 어금니 충치 치료 다 끝나셨어요.\n남: 수고하셨습니다. 오늘 치료비가 많이 나왔나요?\n여: 건강보험 적용돼서 스케일링은 15,000원이고, 충치 치료는 35,000원 나왔어요.\n남: 아, 다행이네요. 그럼 총 50,000원 결제할게요.",
+    "option_type": "image",
+    "options": [
+      "Q3_opt1.png",
+      "Q3_opt2.png",
+      "Q3_opt3.png",
+      "Q3_opt4.png"
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 4,
+    "question_text": "시외버스가 출발하는 시간은 몇 시입니까?",
+    "audio_script": "남: 저기요, 광주 가는 다음 시외버스가 몇 시에 출발해요?\n여: 지금이 2시 20분이니까, 다음 버스는 3시 10분 전인 2시 50분에 출발합니다.\n남: 표 한 장 주세요. 지금 바로 승강장으로 가면 탈 수 있겠네요.\n여: 네, 10분 뒤에 출발하니까 5번 홈으로 서둘러 가세요.",
+    "option_type": "image",
+    "options": [
+      "Q4_opt1.png",
+      "Q4_opt2.png",
+      "Q4_opt3.png",
+      "Q4_opt4.png"
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 5,
+    "question_text": "두 사람이 저녁에 만나기로 한 시간은 몇 시입니까?",
+    "audio_script": "여: 바트 씨, 오늘 저녁 식사 7시에 하기로 한 거 기억하죠?\n남: 미안해요, 모니카 씨. 오늘 공장에 잔업이 생겨서 7시 반에 작업이 끝날 것 같아요.\n여: 그래요? 그럼 손 씻고 옷 갈아입는 시간 생각해서 7시 40분에 만날까요?\n남: 네, 그렇게 해요. 7시 40분까지 정문 식당으로 갈게요.",
+    "option_type": "image",
+    "options": [
+      "Q5_opt1.png",
+      "Q5_opt2.png",
+      "Q5_opt3.png",
+      "Q5_opt4.png"
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 6,
+    "question_text": "오늘 아침 안전교육이 시작하는 시간은 몇 시입니까?",
+    "audio_script": "여: 작업자 여러분, 오늘 아침 작업 전 특별 안전교육 일정을 전달합니다.\n남: 반장님, 평소처럼 8시 15분까지 모이면 됩니까?\n여: 오늘은 본사 점검이 있어서 15분 일찍 시작합니다. 8시 정각까지 모두 안전모 착용하고 모여 주세요.\n남: 네, 알겠습니다. 8시 정각에 교육장으로 가겠습니다.",
+    "option_type": "image",
+    "options": [
+      "Q6_opt1.png",
+      "Q6_opt2.png",
+      "Q6_opt3.png",
+      "Q6_opt4.png"
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 7,
+    "question_text": "두 사람이 점심을 먹으러 만나는 시간은 몇 시입니까?",
+    "audio_script": "남: 리한 씨, 오늘 점심에 회사 근처 분식점에 같이 갈래요?\n여: 좋아요. 오전 일이 12시 10분에 끝나니까 12시 15분에 1층 로비에서 만나요.\n남: 네, 12시 15분까지 로비 계단 앞으로 가 있겠습니다.\n여: 네, 그때 봐요.",
+    "option_type": "image",
+    "options": [
+      "Q7_opt1.png",
+      "Q7_opt2.png",
+      "Q7_opt3.png",
+      "Q7_opt4.png"
+    ],
+    "correct_answer": 1,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 8,
+    "question_text": "남자가 내과 병원에 가야 하는 날짜는 며칠입니까?",
+    "audio_script": "남: 안녕하세요, 서울내과지요? 다음 주 목요일 11월 12일 진료 예약했던 카림인데요.\n여: 네, 환자분. 무슨 일이신가요?\n남: 공장 근무 일정이 바뀌어서 그러는데, 일주일 뒤인 11월 19일 목요일로 변경할 수 있을까요?\n여: 네, 확인해 드렸습니다. 11월 19일 목요일 오후 3시로 예약 변경되었습니다.",
+    "option_type": "image",
+    "options": [
+      "Q8_opt1.png",
+      "Q8_opt2.png",
+      "Q8_opt3.png",
+      "Q8_opt4.png"
+    ],
+    "correct_answer": 3,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 9,
+    "question_text": "남자가 새 기숙사로 이사하는 날은 며칠입니까?",
+    "audio_script": "여: 투안 씨, 새 기숙사로 이사할 날짜는 정했어요?\n남: 네, 원래는 이번 주말 6월 14일에 가려고 했는데 방 청소가 덜 끝났다고 해서요.\n여: 그럼 언제 이사하기로 했어요?\n남: 다음 주 일요일인 6월 21일에 짐을 옮기기로 했어요.",
+    "option_type": "image",
+    "options": [
+      "Q9_opt1.png",
+      "Q9_opt2.png",
+      "Q9_opt3.png",
+      "Q9_opt4.png"
+    ],
+    "correct_answer": 2,
+    "is_audio_question": true
+  },
+  {
+    "q_id": 10,
+    "question_text": "공장의 여름휴가가 시작되는 날은 언제입니까?",
+    "audio_script": "남: 수피카 씨, 우리 회사 이번 여름휴가 일정이 언제인지 나왔어요?\n여: 네, 게시판에 공지 올라왔어요. 8월 3일 월요일부터 8월 7일 금요일까지 5일 동안 쉰대요.\n남: 아, 8월 3일 월요일부터 시작이군요! 고향 갈 준비를 미리 해야겠어요.\n여: 네, 휴가 기간 동안 즐겁게 다녀오세요.",
+    "option_type": "image",
+    "options": [
+      "Q10_opt1.png",
+      "Q10_opt2.png",
+      "Q10_opt3.png",
+      "Q10_opt4.png"
+    ],
+    "correct_answer": 4,
+    "is_audio_question": true
+  }
+]
