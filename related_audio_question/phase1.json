@@ -108,7 +108,7 @@
       "Q8_opt3.png",
       "Q8_opt4.png"
     ],
-    "correct_answer": 3,
+    "correct_answer": 2,
     "is_audio_question": true
   },
   {
@@ -164,7 +164,7 @@
       "Q12_opt3.png",
       "Q12_opt4.png"
     ],
-    "correct_answer": 3,
+    "correct_answer": 0,
     "is_audio_question": true
   },
   {
