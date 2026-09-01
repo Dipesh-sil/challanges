@@ -10,7 +10,7 @@
       "Q1_opt3.png",
       "Q1_opt4.png"
     ],
-    "correct_answer": 2,
+    "correct_answer": 1,
     "is_audio_question": true
   },
   {
@@ -24,7 +24,7 @@
       "Q2_opt3.png",
       "Q2_opt4.png"
     ],
-    "correct_answer": 2,
+    "correct_answer": 1,
     "is_audio_question": true
   },
   {
@@ -38,7 +38,7 @@
       "Q3_opt3.png",
       "Q3_opt4.png"
     ],
-    "correct_answer": 3,
+    "correct_answer": 2,
     "is_audio_question": true
   },
   {
@@ -52,7 +52,7 @@
       "Q4_opt3.png",
       "Q4_opt4.png"
     ],
-    "correct_answer": 2,
+    "correct_answer": 1,
     "is_audio_question": true
   },
   {
@@ -66,7 +66,7 @@
       "Q5_opt3.png",
       "Q5_opt4.png"
     ],
-    "correct_answer": 4,
+    "correct_answer": 3,
     "is_audio_question": true
   },
   {
@@ -80,7 +80,7 @@
       "Q6_opt3.png",
       "Q6_opt4.png"
     ],
-    "correct_answer": 1,
+    "correct_answer": 0,
     "is_audio_question": true
   },
   {
@@ -94,7 +94,7 @@
       "Q7_opt3.png",
       "Q7_opt4.png"
     ],
-    "correct_answer": 4,
+    "correct_answer": 3,
     "is_audio_question": true
   },
   {
@@ -122,7 +122,7 @@
       "Q9_opt3.png",
       "Q9_opt4.png"
     ],
-    "correct_answer": 2,
+    "correct_answer": 1,
     "is_audio_question": true
   },
   {
@@ -136,7 +136,7 @@
       "Q10_opt3.png",
       "Q10_opt4.png"
     ],
-    "correct_answer": 4,
+    "correct_answer": 3,
     "is_audio_question": true
   },
   {
@@ -150,7 +150,7 @@
       "Q11_opt3.png",
       "Q11_opt4.png"
     ],
-    "correct_answer": 3,
+    "correct_answer": 2,
     "is_audio_question": true
   },
   {
@@ -164,7 +164,7 @@
       "Q12_opt3.png",
       "Q12_opt4.png"
     ],
-    "correct_answer": 1,
+    "correct_answer": 3,
     "is_audio_question": true
   },
   {
@@ -178,7 +178,7 @@
       "Q13_opt3.png",
       "Q13_opt4.png"
     ],
-    "correct_answer": 2,
+    "correct_answer": 3,
     "is_audio_question": true
   },
   {
@@ -192,7 +192,7 @@
       "Q14_opt3.png",
       "Q14_opt4.png"
     ],
-    "correct_answer": 2,
+    "correct_answer": 1,
     "is_audio_question": true
   }
 ]
