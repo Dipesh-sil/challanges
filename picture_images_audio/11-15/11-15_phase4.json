@@ -269,14 +269,14 @@
     "q_id": 20,
     "question_text": "그림을 보고 알맞은 대답을 고르십시오.",
     "image_url": "Q20.jpg",
-    "audio_script": "이 사람은 무엇을 하고 있습니까?",
+    "audio_script": "공원에 어떻게 갑니까?",
     "option_type": "audio",
     "options": [
-      "타고 가고 있어요.",
-      "타고 오고 있어요",
-      "걸어오고 있어요.",
-      "걸어가고 있어요."
+     "걸어갑니다.",
+      "버스를 탑니다.",
+      "택시를 탑니다.",
+      "자전거를 탑니다."
     ],
-    "correct_answer": 3
+    "correct_answer": 0
   }
 ]
