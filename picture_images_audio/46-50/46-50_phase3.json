@@ -20,12 +20,12 @@
     "audio_script": "이것은 무엇입니까?",
     "option_type": "audio",
     "options": [
-      "한우",
-      "소",
-      "육우",
-      "젖소"
+      "소입니다.",
+      "돼지입니다.",
+      "양입니다.",
+      "염소입니다."
     ],
-    "correct_answer": 1
+    "correct_answer": 0
   },
   {
     "q_id": 3,
