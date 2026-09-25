@@ -13,20 +13,21 @@
     ],
     "correct_answer": 0
   },
-  {
-    "q_id": 2,
-    "question_text": "그림을 보고 알맞은 것을 고르십시오.",
-    "image_url": "Q2.jpg",
-    "audio_script": "이것은 무엇입니까?",
-    "option_type": "audio",
-    "options": [
-      "소입니다.",
-      "돼지입니다.",
-      "양입니다.",
-      "염소입니다."
-    ],
-    "correct_answer": 0
-  },
+ {
+  "q_id": 2,
+  "image_q_num": 2,
+  "question_text": "그림을 보고 알맞은 것을 고르십시오.",
+  "image_url": "Q2.jpg",
+  "audio_script": "이것은 무엇입니까?",
+  "option_type": "audio",
+  "options": [
+    "우사입니다.",
+    "돈사입니다.",
+    "계사입니다.",
+    "마사입니다."
+  ],
+  "correct_answer": 0
+},
   {
     "q_id": 3,
     "question_text": "그림을 보고 알맞은 것을 고르십시오.",
